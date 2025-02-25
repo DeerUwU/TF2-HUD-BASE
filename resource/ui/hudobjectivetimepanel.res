@@ -5,16 +5,16 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TimePanelBG"
 		"xpos"			"16"
-		"xpos_minmode"	"35"
+
 
 
 		"ypos"			"9"
 		"zpos"			"2"
 		"wide"			"78"
-		"wide_minmode"	"38"
+
 
 		"tall"			"33"
-		"tall_minmode"	"23"
+
 
 		"visible"		"1"
 		"enabled"		"1"
@@ -42,7 +42,7 @@
 		"tall"				"20"
 
 		"visible"			"1"
-		"visible_minmode"	"0"
+
 		"enabled"			"1"
 		"scaleImage"			"1"
 		"image"				"../hud/objectives_timepanel_progressbar"
@@ -64,7 +64,7 @@
 
 
 		"ypos"			"34"
-		"ypos_minmode"	"24"
+
 
 
 		"zpos"			"5"
@@ -90,7 +90,7 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"21"
-			"ypos_minmode"			"21"
+
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
@@ -109,7 +109,7 @@
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
-		"tall_minmode"	"0"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -128,7 +128,7 @@
 
 
 		"ypos"			"33"
-		"ypos_minmode"	"24"
+
 
 
 		"zpos"			"5"
@@ -154,7 +154,7 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"21"
-			"ypos_minmode"			"21"
+
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
@@ -173,7 +173,7 @@
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
-		"tall_minmode"	"0"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -192,7 +192,7 @@
 
 
 		"ypos"			"33"
-		"ypos_minmode"	"24"
+
 
 
 		"zpos"			"5"
@@ -218,7 +218,7 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"21"
-			"ypos_minmode"			"21"
+
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
@@ -237,7 +237,7 @@
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
-		"tall_minmode"	"0"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -256,7 +256,7 @@
 
 
 		"ypos"			"33"
-		"ypos_minmode"	"24"
+
 
 
 		"zpos"			"5"
@@ -274,7 +274,7 @@
 
 		"wrap"			"0"
 		"font"			"ClockSubText"
-		"font_minmode"	"ClockSubTextSuddenDeath"
+
 
 
 
@@ -283,7 +283,7 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"21"
-			"ypos_minmode"			"21"
+
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
@@ -302,7 +302,7 @@
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
-		"tall_minmode"	"0"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
@@ -321,7 +321,7 @@
 
 
 		"ypos"			"33"
-		"ypos_minmode"	"24"
+
 
 
 		"zpos"			"5"
@@ -339,7 +339,7 @@
 
 		"wrap"			"0"
 		"font"			"ClockSubText"
-		"font_minmode"	"ClockSubTextSuddenDeath"
+
 
 
 
@@ -348,7 +348,7 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"21"
-			"ypos_minmode"			"21"
+
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
@@ -367,7 +367,7 @@
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
-		"tall_minmode"	"0"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	

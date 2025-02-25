@@ -72,20 +72,20 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
-			"font_minmode"		"HudFontMediumSmall"
+
 
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
-			"xpos_minmode"		"23"
+
 
 
 			"ypos"			"11"
-			"ypos_minmode"		"11"
+
 
 
 			"zpos"			"3"
 			"wide"			"45"
-			"wide_minmode"		"45"
+
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
