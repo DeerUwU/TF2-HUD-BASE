@@ -93,7 +93,7 @@
 		"xpos"			"82"
 		"xpos_lodef"	"110"
 		"ypos"			"78"
-		"ypos_hidef"	"80"
+
 		"ypos_lodef"	"94"
 		"zpos"			"3"
 		"wide"			"200"

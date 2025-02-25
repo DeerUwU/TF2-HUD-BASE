@@ -165,7 +165,7 @@
 		"ypos" 	"0"
 		"tall"	"480"
 		"RightMargin" "0"
-		"RightMargin_hidef" "32"
+
 		"RightMargin_lodef" "38"
 		"visible" "1"
 		"enabled" "1"
@@ -330,10 +330,10 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"xpos_hidef"		"32"
+
 		"xpos_lodef"		"40"
 		"ypos"		"0"
-		"ypos_hidef"		"16"
+
 		"ypos_lodef"		"25"
 		"wide"		"640"
 		"tall"		"480"
@@ -1039,7 +1039,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-235"
 		"ypos"			"c-52"
-		"ypos_hidef"	"c-42"
+
 		"ypos_lodef"	"c-42"
 		"wide"			"470"
 		"tall"			"200"	[$WIN32]
@@ -1094,7 +1094,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"75"
-		"ypos_hidef"				"90"
+
 		"ypos_lodef"			"90"
 		"wide"					"320"
 		"tall"					"100"
@@ -1107,7 +1107,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"75"
-		"ypos_hidef"				"90"
+
 		"ypos_lodef"				"90"
 		"wide"					"320"
 		"tall"					"150"
@@ -1418,7 +1418,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-235"
 		"ypos"			"c-52"
-		"ypos_hidef"	"c-42"
+
 		"ypos_lodef"	"c-42"
 		"wide"			"470"
 		"tall"			"200"

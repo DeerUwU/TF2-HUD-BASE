@@ -55,11 +55,11 @@
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
-			"xpos_hidef"	"114"
+
 			"xpos_lodef"	"114"
 			"ypos"			"11"
 			"ypos_minmode"	"6"
-			"ypos_hidef"	"15"
+
 			"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"45"
@@ -137,11 +137,11 @@
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
-			"xpos_hidef"	"114"
+
 			"xpos_lodef"	"114"
 			"ypos"			"11"
 			"ypos_minmode"	"6"
-			"ypos_hidef"	"15"
+
 			"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"45"

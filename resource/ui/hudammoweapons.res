@@ -69,10 +69,10 @@
 		"fgcolor"		"Black"
 		"xpos"			"5"
 		"xpos_minmode"	"9"
-		"xpos_hidef"	"2"
+
 		"ypos"			"1"
 		"ypos_minmode"	"2"
-		"ypos_hidef"	"2"
+
 		"ypos_lodef"	"2"
 		"zpos"			"5"
 		"wide"			"55"
@@ -154,10 +154,10 @@
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
 		"xpos"			"1"
-		"xpos_hidef"	"2"
+
 		"xpos_lodef"	"2"
 		"ypos"			"3"
-		"ypos_hidef"	"4"
+
 		"ypos_lodef"	"4"
 		"zpos"			"5"
 		"wide"			"84"

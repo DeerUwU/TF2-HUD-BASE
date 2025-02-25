@@ -15,9 +15,9 @@
 	"ControllerDialog"
 	{
 		"wide"			"580"
-		"wide_hidef"	"580"
+
 		"tall"			"325"
-		"tall_hidef"	"500"
+
 	}
 }
 
@@ -29,9 +29,9 @@
 	"OptionsDialog"
 	{
 		"wide"			"560"
-		"wide_hidef"		"760"
+
 		"tall"			"315"
-		"tall_hidef"	"500"
+
 		"footer_buttongap_lodef"			"10"
 	}
 	
@@ -61,7 +61,7 @@
 		"ypos"		"35"
 		"zpos"		"50"
 		"wide"		"268"
-		"wide_hidef"	"368"
+
 		"tall"		"360"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -74,11 +74,11 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"OptionsBackgroundRight"
 		"xpos"		"284"
-		"xpos_hidef"	"384"
+
 		"ypos"		"35"
 		"zpos"		"50"
 		"wide"		"268"
-		"wide_hidef"	"368"
+
 		"tall"		"360"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -93,12 +93,12 @@
 		"fieldName"		"OptionsSelectionLeft"
 		"xpos"		"12"
 		"ypos"			"38"
-		"ypos_hidef"	"40"
+
 		"zpos"		"75"
 		"wide"		"528"
-		"wide_hidef"	"728"
+
 		"tall"			"21"
-		"tall_hidef"	"25"
+
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -111,12 +111,12 @@
 		"fieldName"		"OptionsSelectionLeft2"
 		"xpos"			"14"
 		"ypos"			"40"
-		"ypos_hidef"	"42"
+
 		"zpos"			"80"
 		"wide"			"524"
-		"wide_hidef"		"724"
+
 		"tall"			"17"
-		"tall_hidef"	"21"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -129,7 +129,7 @@
 		"ControlName" 	"Label"
 		"fieldName"		"UpArrow"
 		"xpos" 			"502"
-		"xpos_hidef"	"702"
+
 		"ypos"			"20"
 		"zpos"			"150"
 		"wide"			"32"
@@ -150,7 +150,7 @@
 		"ControlName" 	"Label"
 		"fieldName"		"DownArrow"
 		"xpos" 			"480"
-		"xpos_hidef"	"680"
+
 		"ypos"			"398"
 		"zpos"			"150"
 		"wide"			"32"
@@ -173,12 +173,12 @@
 		"fieldName"		"OptionLabel0"
 		"xpos"			"20"
 		"ypos"			"36"
-		"ypos_hidef"	"35"
+
 		"zpos"			"100"
 		"wide"			"245"
-		"wide_hidef"		"345"
+
 		"tall"			"24"
-		"tall_hidef"	"35"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -195,14 +195,14 @@
 		"ControlName"	"Label"
 		"fieldName"		"ValueLabel0"
 		"xpos"			"296"
-		"xpos_hidef"		"396"
+
 		"ypos"			"36"
-		"ypos_hidef"	"35"
+
 		"zpos"			"100"
 		"wide"			"245"
-		"wide_hidef"		"345"
+
 		"tall"			"24"
-		"tall_hidef"	"35"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -219,14 +219,14 @@
 		"ControlName"		"AnalogBar"
 		"fieldName"		"ValueBar0"
 		"xpos"			"296"
-		"xpos_hidef"		"396"
+
 		"ypos"			"37"
-		"ypos_hidef"	"40"
+
 		"zpos"			"100"
 		"wide"			"245"
-		"wide_hidef"		"345"
+
 		"tall"			"23"
-		"tall_hidef"	"25"
+
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -245,7 +245,7 @@
 		"center"		"1"
 		"tall"			"100"
 		"tall_lodef"		"60"
-		"buttonoffsety_hidef"	"20"
+
 		"buttonoffsety_lodef"	"5"
 		"bgcolor"			"46 43 42 255"
 		"paintbackground"	"1"
@@ -262,7 +262,7 @@
 		"center"		"1"
 		"tall"			"100"
 		"tall_lodef"		"60"
-		"buttonoffsety_hidef"	"20"
+
 		"buttonoffsety_lodef"	"5"
 		"bgcolor"			"46 43 42 255"
 		"paintbackground"	"1"
@@ -314,7 +314,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"MessageLabel"
-		"font_hidef"		"MenuLarge"
+
 		"font_lodef"		"MenuMedium"
 		"xpos"			"40"
 		"xpos_lodef"			"20"
@@ -576,7 +576,7 @@
 		"ControlName"	"label"
 		"xpos"			"45"
 		"ypos"			"3"
-		"font_hidef"	"MenuLarge"
+
 		"font_lodef"	"MatchmakingDialogMenuSmall"
 	}
 	
@@ -585,7 +585,7 @@
 		"ControlName"	"label"
 		"xpos"			"45"
 		"ypos"			"25"
-		"font_hidef"	"MenuLarge"
+
 		"font_lodef"	"MatchmakingDialogMenuSmall"
 	}
 
@@ -613,7 +613,7 @@
 	"unlockedicon"
 	{
 		"ControlName"	"imagepanel"
-		"xpos_hidef"	"618"
+
 		"xpos_lodef"	"435"
 		"ypos"			"6"
 		"ypos_lodef"	"6"
@@ -1074,7 +1074,7 @@
 		"ypos_lodef"			"45"
  		"itemspacing"	"2"
 		"minwide"		"300"
-		"minwide_hidef"		"480"
+
 
   		"CommandItem"
  		{
@@ -1101,7 +1101,7 @@
 		"xpos_lodef"	"c-265"
 		"ypos_lodef"	"40"
 		"borderwidth"	"15"
-		"tall_hidef"	"475"
+
 		"tall_lodef"	"367"
 		"gametotal"		"100"
 		"center_lodef"	"0"
@@ -1127,7 +1127,7 @@
 	
 	"ProgressBg"
 	{
-		"xpos_hidef"	"415"
+
 		"xpos_lodef"	"250"
 		"ypos"			"50"
 		"wide"			"298"
@@ -1150,9 +1150,9 @@
 	"uparrow"
 	{
 		"xpos_lodef"	"460"
-		"xpos_hidef"	"660"
+
 		"ypos_lodef"	"325"
-		"ypos_hidef"	"410"
+
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
@@ -1161,9 +1161,9 @@
 	"downarrow"
 	{
 		"xpos_lodef"	"482"
-		"xpos_hidef"	"682"
+
 		"ypos_lodef"	"325"
-		"ypos_hidef"	"410"
+
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
@@ -1176,9 +1176,9 @@
 		"ypos_lodef"				"85"
  		"itemspacing"		"3"
  		"itemspacing_lodef"		"2"
-		"minwide_hidef"		"700"
+
 		"minwide_lodef"		"500"
-		"maxvisibleitems_hidef"	"6"
+
 		"maxvisibleitems_lodef"	"4"
 
 		// Menu items are returned by a system query and created at runtime
@@ -1780,7 +1780,7 @@
 		"commandstring"		"StartHost"
 		"hostlobby"			"1"
 		"center_lodef"				"0"
-		"footer_buttongap_hidef"			"20"
+
 		"footer_buttongap_lodef"			"15"
 		
 		"Footer"
@@ -1805,8 +1805,8 @@
 			
 			"button"
 			{
-				"text_hidef"		"#GameUI_PlayerReview"
-				"icon_hidef"		"#GameUI_Icons_R_SHOULDER"
+
+
 			}	
 		}
 	}
@@ -1856,7 +1856,7 @@
 		"wide"			"350"
 		"wide_lodef"	"250"
 		"tall"			"40"
-		"tall_hidef"	"55"
+
 		"font"			"MatchmakingDialogMenuLarge"
 		"font_lodef"	"MatchmakingDialogMenuSmall"
 	}
@@ -2133,7 +2133,7 @@
 			"ypos_lodef"	"23"
 			"wide"			"85"
 			"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+
 		}
 		
 		"DescOne"
@@ -2183,7 +2183,7 @@
 			"ypos_lodef"	"23"
 			"wide"			"85"
 			"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+
 		}
 		
 		"DescOne"
@@ -2267,8 +2267,8 @@
 			
 			"button"
 			{
-				"text_hidef"		"#GameUI_PlayerReview"
-				"icon_hidef"		"#GameUI_Icons_R_SHOULDER"
+
+
 			}	
 		}
 	}
@@ -2318,7 +2318,7 @@
 		"wide"			"350"
 		"wide_lodef"	"250"
 		"tall"			"30"
-		"tall_hidef"	"55"
+
 		"font"			"MatchmakingDialogMenuLarge"
 		"font_lodef"	"MatchmakingDialogMenuSmall"
 	}
@@ -2491,7 +2491,7 @@
 			"ypos_lodef"	"23"
 			"wide"			"85"
 			"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+
 		}
 		
 		"DescOne"
@@ -2541,7 +2541,7 @@
 			"ypos_lodef"	"23"
 			"wide"			"85"
 			"wide_lodef"	"100"
-			"textAlignment_hidef"	"east"
+
 		}
 		
 		"DescOne"
@@ -3119,9 +3119,9 @@
 	"uparrow"
 	{
 		"xpos_lodef"	"525"
-		"xpos_hidef"	"670"
+
 		"ypos_lodef"	"322"
-		"ypos_hidef"	"458"
+
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
@@ -3130,9 +3130,9 @@
 	"downarrow"
 	{
 		"xpos_lodef"	"547"
-		"xpos_hidef"	"700"
+
 		"ypos_lodef"	"322"
-		"ypos_hidef"	"458"
+
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
@@ -3154,10 +3154,10 @@
 	"SelectButton"
 	{
 		"xpos_lodef"	"190"
-		"xpos_hidef"	"200"
+
 		"ypos_lodef"	"320"
-		"ypos_hidef"	"450"
-		"tall_hidef"	"40"
+
+
 		"zpos"				"7"
 		"textAlignment"	"east"
 		"ControlName"	"Label"
@@ -3173,7 +3173,7 @@
 		"ypos_lodef"		"320"
 		"zpos"				"7"
 		"wide"				"240"
-		"tall_hidef"		"40"
+
 		"ControlName"		"Label"
 		"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
@@ -3184,11 +3184,11 @@
 	"BackButton"
 	{
 		"xpos_lodef"	"350"
-		"xpos_hidef"	"425"
+
 		"ypos_lodef"	"320"
-		"ypos_hidef"	"450"
+
 		"zpos"			"8"
-		"tall_hidef"	"40"
+
 		"textAlignment"	"east"
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -3203,7 +3203,7 @@
 		"ypos_lodef"		"320"
 		"zpos"				"8"
 		"wide"				"240"
-		"tall_hidef"		"40"
+
 		"ControlName"		"Label"
 		"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
@@ -3525,9 +3525,9 @@
 	"uparrow"
 	{
 		"xpos_lodef"	"545"
-		"xpos_hidef"	"820"
+
 		"ypos_lodef"	"322"
-		"ypos_hidef"	"450"
+
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_UPCURSOR"
@@ -3536,9 +3536,9 @@
 	"downarrow"
 	{
 		"xpos_lodef"	"567"
-		"xpos_hidef"	"845"
+
 		"ypos_lodef"	"322"
-		"ypos_hidef"	"450"
+
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_DOWNCURSOR"
@@ -3551,7 +3551,7 @@
 		"ypos"				"30"
 		"ypos_lodef"		"35"
 		"wide"				"240"
-		"tall_hidef"		"40"
+
 		"ControlName"		"Label"
 		"textAlignment"		"east"
 		"font"				"RankingDialogHeaders"
@@ -3561,10 +3561,10 @@
 	"SelectButton"
 	{
 		"xpos_lodef"	"190"
-		"xpos_hidef"	"320"
+
 		"ypos_lodef"	"322"
-		"ypos_hidef"	"440"
-		"tall_hidef"	"40"
+
+
 		"zpos"			"7"
 		"textAlignment"	"east"
 		"ControlName"	"Label"
@@ -3578,7 +3578,7 @@
 		"xpos_lodef"		"260"
 		"ypos"				"445"
 		"ypos_lodef"		"322"
-		"tall_hidef"		"40"
+
 		"zpos"				"7"
 		"wide"				"240"
 		"ControlName"		"Label"
@@ -3591,10 +3591,10 @@
 	"BackButton"
 	{
 		"xpos_lodef"	"350"
-		"xpos_hidef"	"570"
+
 		"ypos_lodef"	"322"
-		"ypos_hidef"	"440"
-		"tall_hidef"	"40"
+
+
 		"zpos"			"8"
 		"textAlignment"	"east"
 		"ControlName"	"Label"
@@ -3608,7 +3608,7 @@
 		"xpos_lodef"		"420"
 		"ypos"				"445"
 		"ypos_lodef"		"322"
-		"tall_hidef"		"40"
+
 		"zpos"				"8"
 		"wide"				"240"
 		"ControlName"		"Label"
@@ -3688,15 +3688,15 @@
 		"xpos"					"180"
 		"ypos"					"280"
 		"wide"					"520"
-		"wide_hidef"			"730"
+
 		"tall"					"181"
-		"tall_hidef"			"255"
+
 		"chapterypos"			"48"
-		"chapterypos_hidef"		"68"
+
 		"scrollslow"			"0.2"
 		"scrollfast"			"0.1"
 		"centerbgtall"			"120"
-		"centerbgtall_hidef"	"170"
+
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -3712,7 +3712,7 @@
 		"fieldName"			"LeftArrow"
 		"xpos" 				"15"
 		"ypos"				"110"
-		"ypos_hidef"		"155"
+
 		"wide"				"32"
 		"tall"				"32"
 		"autoResize"		"0"
@@ -3731,9 +3731,9 @@
 		"ControlName" 		"Label"
 		"fieldName"			"RightArrow"
 		"xpos" 				"484"
-		"xpos_hidef"		"683"
+
 		"ypos"				"110"
-		"ypos_hidef"		"155"
+
 		"wide"				"32"
 		"tall"				"32"
 		"autoResize"		"0"
@@ -3752,9 +3752,9 @@
 		"ControlName" 		"Label"
 		"fieldName"			"UpArrow"
 		"xpos" 				"245"
-		"xpos_hidef"		"350"
+
 		"ypos"				"88"
-		"ypos_hidef"		"130"
+
 		"zpos"				"90"
 		"wide"				"32"
 		"tall"				"32"
@@ -3774,9 +3774,9 @@
 		"ControlName" 		"Label"
 		"fieldName"			"DownArrow"
 		"xpos" 				"245"
-		"xpos_hidef"		"350"
+
 		"ypos"				"123"
-		"ypos_hidef"		"178"
+
 		"zpos"				"100"
 		"wide"				"32"
 		"tall"				"32"
@@ -3796,14 +3796,14 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"BonusSelectionBorder"
 		"xpos"				"208"
-		"xpos_hidef"		"294"
+
 		"ypos"				"112"
-		"ypos_hidef"		"158"
+
 		"zpos"				"75"
 		"wide"				"100"
-		"wide_hidef"		"142"
+
 		"tall"				"17"
-		"tall_hidef"		"24"
+
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"0"
@@ -3816,12 +3816,12 @@
 		"fieldName"		"BonusSelectionLabel"
 		"xpos"			"0"
 		"ypos"			"108"
-		"ypos_hidef"	"152"
+
 		"zpos"			"100"
 		"wide"			"520"
-		"wide_hidef"	"730"
+
 		"tall"			"24"
-		"tall_hidef"	"35"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -3831,21 +3831,21 @@
 
 		"wrap"			"0"
 		"font"			"DefaultLarge"
-		"font_hidef"	"MenuLarge"
+
 	}
 	"ChallengeEarnedMedal"
 	{
 		"ControlName"	"CBitmapImagePanel"
 		"fieldName"		"ChallengeEarnedMedal"
 		"xpos"			"12"
-		"xpos_hidef"	"18"
+
 		"ypos"			"43"
-		"ypos_hidef"	"50"
+
 		"zpos"			"200"
 		"wide"			"45"
-		"wide_hidef"	"64"
+
 		"tall"			"45"
-		"tall_hidef"	"64"
+
 		"visible"		"0"
 		"image"			"medals/medal_00_none"
 	}
@@ -3854,12 +3854,12 @@
 		"ControlName"		"Label"
 		"fieldName"			"ChallengeBestLabel"
 		"xpos"				"12"
-		"xpos_hidef"		"18"
+
 		"ypos"				"87"
-		"ypos_hidef"		"116"
+
 		"zpos"				"200"
 		"wide"				"45"
-		"wide_hidef"		"64"
+
 		"tall"				"30"
 		"visible"			"0"
 		"enabled"			"1"
@@ -3874,12 +3874,12 @@
 		"xpos"			"463"
 		"xpos"			"648"
 		"ypos"			"43"
-		"ypos_hidef"	"50"
+
 		"zpos"			"90"
 		"wide"			"45"
-		"wide_hidef"	"64"
+
 		"tall"			"45"
-		"tall_hidef"	"64"
+
 		"visible"		"0"
 		"image"			"medals/medal_00_none"
 	}
@@ -3888,12 +3888,12 @@
 		"ControlName"		"Label"
 		"fieldName"			"ChallengeNextLabel"
 		"xpos"				"463"
-		"xpos_hidef"		"648"
+
 		"ypos"				"87"
-		"ypos_hidef"		"116"
+
 		"zpos"				"99"
 		"wide"				"45"
-		"wide_hidef"		"64"
+
 		"tall"				"30"
 		"visible"			"0"
 		"enabled"			"1"
@@ -3909,7 +3909,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"518"
-		"wide_hidef"	"730"
+
 		"tall"			"40"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -3928,7 +3928,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"518"
-		"wide_hidef"	"730"
+
 		"tall"			"40"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -4010,11 +4010,11 @@
 		"fieldName"		"LevelPicBorder"
 		"xpos"			"0"
 		"ypos"			"34"
-		"ypos_hidef"	"48"
+
 		"wide"			"122"
-		"wide_hidef"	"172"
+
 		"tall"			"75"
-		"tall_hidef"	"106"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -4025,16 +4025,16 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LevelPic"
 		"xpos"			"7"	
-		"xpos_hidef"	"10"
+
 		"ypos"			"41"
-		"ypos_hidef"	"58"
+
 		"wide"			"107"
-		"wide_hidef"	"152"
+
 		"tall"			"61"
-		"tall_hidef"	"86"
+
 		"autoResize"	"0"
 		"scaleImage"		"1"
-		"scaleImage_hidef"	"0"
+
 		"scaleAmount"		"0.72"
 		"scaleAmount"	"0"
 		"pinCorner"		"0"
@@ -4049,12 +4049,12 @@
 		"xpos"			"463"
 		"xpos"			"648"
 		"ypos"			"43"
-		"ypos_hidef"	"50"
+
 		"zpos"			"90"
 		"wide"			"45"
-		"wide_hidef"	"64"
+
 		"tall"			"45"
-		"tall_hidef"	"64"
+
 		"visible"		"0"
 		"image"			"medals/medal_00_none"
 	}
@@ -4064,11 +4064,11 @@
 		"fieldName"		"ChapterLabel"
 		"xpos"			"0"
 		"ypos"			"14"
-		"ypos_hidef"	"20"
+
 		"wide"			"107"
-		"wide_hidef"	"152"
+
 		"tall"			"14"
-		"tall_hidef"	"20"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -4079,7 +4079,7 @@
 
 		"wrap"			"0"
 		"font"			"DefaultLarge"
-		"font_hidef"	"UiBold"
+
 	}
 	
 	// not used in xbox NewGame Dialog
@@ -4110,9 +4110,9 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"107"
-		"wide_hidef"	"152"
+
 		"tall"			"14"
-		"tall_hidef"	"20"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -4123,7 +4123,7 @@
 
 		"wrap"		"0"
 		"font"			"DefaultLarge"
-		"font_hidef"	"UiBold"
+
 		"labelText"		"#GameUI_BonusMapsUnlocked"
 	}
 
@@ -4133,9 +4133,9 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"CommentaryIcon"
 		"xpos"				"3"
-		"xpos_hidef"		"10"
+
 		"ypos"				"72"
-		"ypos_hidef"		"120"
+
 		"wide"				"43"
 		"tall"				"42"
 		"autoResize"		"0"
@@ -4159,9 +4159,9 @@
 		"ypos"			"0"
 
 		"wide"				"200"
-		"wide_hidef"		"250"
+
 		"tall"				"35"
-		"tall_hidef"		"40"
+
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
@@ -4177,9 +4177,9 @@
 		"ypos"			"0"
 
 		"wide"				"200"
-		"wide_hidef"		"250"
+
 		"tall"				"20"
-		"tall_hidef"		"20"
+
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
@@ -4197,7 +4197,7 @@
 		"xpos"				"2"
 		"ypos"				"0"
 		"wide"				"200"
-		"wide_hidef"		"250"
+
 		"tall"				"20"
 		"autoresize"		"0"
 		"visible"			"1"
@@ -4215,7 +4215,7 @@
 		"autoresize"		"0"
 
 		"wide"				"200"
-		"wide_hidef"		"250"
+
 		"tall"				"16"
 	}
 }

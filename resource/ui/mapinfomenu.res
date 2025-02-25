@@ -21,7 +21,7 @@
 		"fieldName"		"MapInfoTitle"
 		"xpos"			"c-184"
 		"xpos_lodef"			"c-174"	
-		"xpos_hidef"			"c-174"
+
 		"ypos"			"95"
 		"ypos_lodef"			"110"
 		"zpos"			"1"
@@ -43,7 +43,7 @@
 		"fieldName"		"MapInfoType"
 		"xpos"			"c-184"
 		"xpos_lodef"			"c-174"
-		"xpos_hidef"			"c-174"
+
 		"ypos"			"125"
 		"ypos_lodef"			"140"
 		"zpos"			"1"
@@ -66,15 +66,15 @@
 		"font"			"ChalkboardText"
 		"xpos"			"c-184"
 		"xpos_lodef"			"c-174"
-		"xpos_hidef"			"c-174"
+
 		"ypos"			"160"
-		"ypos_hidef"			"155"
+
 		"zpos"			"3"
 		"wide"			"195"
 		"wide_lodef"			"195"
-		"wide_hidef"			"210"
+
 		"tall"			"200"
-		"tall_hidef"			"200"
+
 		"tall_lodef"	"200"
 		"autoResize"	"3"
 		"pinCorner"		"0"
@@ -91,16 +91,16 @@
 		"fieldName"		"MapImage"
 		"xpos"			"c10"
 		"xpos_lodef"			"c35"
-		"xpos_hidef"			"c35"
+
 		"ypos"			"75"
 		"ypos_lodef"			"100"
-		"ypos_hidef"			"100"
+
 		"zpos"			"2"
 		"wide"			"275"
-		"wide_hidef"			"225"
+
 		"wide_lodef"	"225"
 		"tall"			"275"
-		"tall_hidef"			"225"
+
 		"tall_lodef"	"225"
 		"visible"		"0"
 		"enabled"		"1"
@@ -114,10 +114,10 @@
 		"fieldName"		"MapInfoContinue"
 		"xpos"			"r190"
 		"xpos_lodef"			"r222"
-		"xpos_hidef"			"r232"
+
 		"ypos"			"r40"
 		"ypos_lodef"			"r64"
-		"ypos_hidef"			"r54"
+
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -142,7 +142,7 @@
 		"xpos"			"c-50"
 		"ypos"			"r40"
 		"ypos_lodef"			"r64"
-		"ypos_hidef"			"r54"
+
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -165,10 +165,10 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoBack"
 		"xpos"			"40"
-		"xpos_hidef"			"50"
+
 		"ypos"			"r40"
 		"ypos_lodef"			"r64"
-		"ypos_hidef"			"r54"
+
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -209,7 +209,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 			"origin_x_lodef" "320"
-			"origin_x_hidef" "310"
+
 			"origin_y" "0"
 			"origin_z" "-39"
 		}
@@ -222,12 +222,12 @@
 		"xpos"			"0"
 		"ypos"			"r50"
 		"ypos_lodef"			"r74"
-		"ypos_hidef"			"r65"
+
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
 		"tall_lodef"			"74"
-		"tall_hidef"			"65"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -249,7 +249,7 @@
 		"buttongap"			"50"
 		"textadjust"		"3"
 		"buttonoffsety"		"20"
-		"buttonoffsety_hidef"		"0"
+
 		"buttonoffsety_lodef"		"18"
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		"fonttext_lodef"			"MatchmakingDialogMenuSmall"

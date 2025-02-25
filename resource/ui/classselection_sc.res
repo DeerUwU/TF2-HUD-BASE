@@ -36,7 +36,7 @@
 		"fieldName"		"PrevOptionHintIcon"
 		"xpos"			"c-321"
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"4"
@@ -55,7 +55,7 @@
 		"fieldName"		"NextOptionHintIcon"
 		"xpos"			"c289"
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"4"
@@ -74,10 +74,10 @@
 		"fieldName"			"random"
 		"xpos"				"c250"
 		"xpos_lodef"				"c217"
-		"xpos_hidef"				"c238"
+
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -136,9 +136,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"RandomHintIcon"
 		"xpos"			"c262"
-		"xpos_hidef"	"c250"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -156,10 +156,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Offense"
 		"xpos"			"c-300"
-		"xpos_hidef"			"c-287"
+
 		"xpos_lodef"	"c-260"
 		"ypos"			"96"
-		"ypos_hidef"			"102"
+
 		"ypos_lodef"	"116"
 		"zpos"			"2"
 		"wide"			"90"
@@ -182,11 +182,11 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"scout"
 		"xpos"				"c-300"
-		"xpos_hidef"				"c-290"
+
 		"xpos_lodef"		"c-265"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -246,9 +246,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"ScoutHintIcon"
 		"xpos"			"c-288"
-		"xpos_hidef"	"c290"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -266,11 +266,11 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"soldier"
 		"xpos"				"c-250"
-		"xpos_hidef"				"c-244"
+
 		"xpos_lodef"		"c-225"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -330,9 +330,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"SoldierHintIcon"
 		"xpos"			"c-238"
-		"xpos_hidef"	"c-244"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -349,11 +349,11 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"pyro"
 		"xpos"				"c-200"
-		"xpos_hidef"				"c-194"
+
 		"xpos_lodef"		"c-180"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -412,9 +412,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"PyroHintIcon"
 		"xpos"			"c-188"
-		"xpos_hidef"	"c-194"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -432,10 +432,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Defense"
 		"xpos"			"c-110"
-		"xpos_hidef"			"c-105"
+
 		"xpos_lodef"	"c-95"
 		"ypos"			"96"
-		"ypos_hidef"			"102"
+
 		"ypos_lodef"	"116"
 		"zpos"			"2"
 		"wide"			"90"
@@ -461,7 +461,7 @@
 		"xpos_lodef"		"c-100"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -521,7 +521,7 @@
 		"fieldName"		"DemomanHintIcon"
 		"xpos"			"c-98"
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -542,7 +542,7 @@
 		"xpos_lodef"		"c-55"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -602,7 +602,7 @@
 		"fieldName"		"HeavyHintIcon"
 		"xpos"			"c-48"
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -622,7 +622,7 @@
 		"xpos"				"c-10"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -682,7 +682,7 @@
 		"fieldName"		"EngineerHintIcon"
 		"xpos"			"c2"
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -700,10 +700,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Support"
 		"xpos"			"c76"
-		"xpos_hidef"			"c74"
+
 		"xpos_lodef"	"c70"
 		"ypos"			"96"
-		"ypos_hidef"			"102"
+
 		"ypos_lodef"	"116"
 		"zpos"			"2"
 		"wide"			"90"
@@ -726,11 +726,11 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"medic"
 		"xpos"				"c78"
-		"xpos_hidef"				"c70"
+
 		"xpos_lodef"		"c65"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -789,9 +789,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"MedicHintIcon"
 		"xpos"			"c90"
-		"xpos_hidef"	"c70"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -809,11 +809,11 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"sniper"
 		"xpos"				"c128"
-		"xpos_hidef"				"c120"
+
 		"xpos_lodef"		"c105"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -872,9 +872,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"SniperHintIcon"
 		"xpos"			"c140"
-		"xpos_hidef"	"c120"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -892,11 +892,11 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"spy"
 		"xpos"				"c178"
-		"xpos_hidef"				"c170"
+
 		"xpos_lodef"		"c145"
 		"ypos"				"-5"
 		"ypos_lodef"				"9"
-		"ypos_hidef"				"0"
+
 		"zpos"				"6"
 		"wide"				"50"
 		"tall"				"100"
@@ -955,9 +955,9 @@
 		"ControlName"	"CSCHintIcon"
 		"fieldName"		"SpyHintIcon"
 		"xpos"			"c190"
-		"xpos_hidef"	"c170"
+
 		"ypos"			"70"
-		"ypos_hidef"	"75"
+
 		"wide"			"25"
 		"tall"			"25"
 		"zpos"			"9"
@@ -1077,10 +1077,10 @@
 		"fieldName"		"ClassMenuSelect"
 		"xpos"			"30"
 		"xpos_lodef"			"62"
-		"xpos_hidef"			"72"
+
 		"ypos"			"r40"
 		"ypos_lodef"			"r60"
-		"ypos_hidef"			"r54"
+
 		"zpos"			"5"
 		"wide"			"450"
 		"tall"			"30"
@@ -1119,7 +1119,7 @@
 			"angles_z" "0"
 			"origin_x" "365"
 			"origin_x_lodef" "415"
-			"origin_x_hidef" "380"
+
 			"origin_y" "0"
 			"origin_z" "-40"
 		}
@@ -1130,10 +1130,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Hint"
 		"xpos"			"c-300"
-		"xpos_hidef"	"c-287"
+
 		"xpos_lodef"	"c-260"
 		"ypos"			"95"
-		"ypos_hidef"	"101"
+
 		"ypos_lodef"	"115"
 		"zpos"			"2"
 		"wide"			"600"
@@ -1160,12 +1160,12 @@
 		"xpos"			"0"
 		"ypos"			"r50"
 		"ypos_lodef"			"r74"
-		"ypos_hidef"			"r65"
+
 		"zpos"			"4"
 		"wide"			"f0"
 		"tall"			"50"
 		"tall_lodef"			"74"
-		"tall_hidef"			"65"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -1185,12 +1185,12 @@
 		"button_separator"	"10"
 		"button_separator_lodef"	"5"
 		"buttongap"			"50"
-		"buttongap_hidef"		"35"
+
 		"buttongap_lodef"			"18"
 		"textadjust"		"3"
 		"textadjust_lodef"		"0"
 		"buttonoffsety"		"20"
-		"buttonoffsety_hidef"		"0"
+
 		"buttonoffsety_lodef"		"18"
 		"center"			"0"
 		"button_pin_right_lodef"	"55"

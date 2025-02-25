@@ -23,9 +23,9 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"		"NemesisSubPanel"
 			"xpos"			"c46"
-			"xpos_hidef"	"c109"
+
 			"ypos"			"223"
-			"ypos_hidef"		"223"
+
 			"ypos_lodef"		"193"
 			"zpos"			"4"
 			"wide"			"166"
@@ -67,12 +67,12 @@
 				"font"			"HudFontMediumSmall"
 				"xpos"			"44"
 				"ypos"			"10"
-				"ypos_hidef"		"11"
+
 				"ypos_lodef"		"13"
 				"zpos"			"6"
 				"wide"			"112"
 				"tall"			"18"
-				"tall_hidef"		"24"
+
 				"autoResize"		"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -86,9 +86,9 @@
 			"ControlName"		"CTFImagePanel"
 			"fieldName"		"FreezePanelBG"
 			"xpos"			"c-38"
-			"xpos_hidef"		"c25"
+
 			"ypos"			"245"
-			"ypos_hidef"		"245"
+
 			"ypos_lodef"		"215"
 			"zpos"			"0"
 			"wide"			"266"
@@ -105,9 +105,9 @@
 			"fieldName"		"FreezeLabel"
 			"font"			"DefaultSmall"
 			"xpos"			"c2"
-			"xpos_hidef"		"c65"
+
 			"ypos"			"255"
-			"ypos_hidef"		"256"
+
 			"ypos_lodef"		"225"
 			"zpos"			"1"
 			"wide"			"252"
@@ -128,9 +128,9 @@
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"HudFontSmall"
 			"xpos"			"c6"			// No avatar image on X360
-			"xpos_hidef"		"c69"
+
 			"ypos"			"266"
-			"ypos_hidef"		"266"
+
 			"ypos_lodef"		"236"
 			"zpos"			"1"
 			"wide"			"252"
@@ -148,9 +148,9 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"		"FreezePanelHealth"
 			"xpos"			"c-30"
-			"xpos_hidef"		"c35"
+
 			"ypos"			"253"
-			"ypos_hidef"		"253"
+
 			"ypos_lodef"		"223"
 			"zpos"			"1"
 			"wide"			"31"

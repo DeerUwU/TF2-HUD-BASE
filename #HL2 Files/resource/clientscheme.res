@@ -53,18 +53,18 @@ Scheme
 		// Top-left corner of the "Half-Life 2" on the main screen
 		"Main.Title1.X"			"53"
 		"Main.Title1.Y"			"190"
-		"Main.Title1.Y_hidef"	"184"
+
 		"Main.Title1.Color"	"255 255 255 255"
 
 		// Top-left corner of secondary title e.g. "DEMO" on the main screen
 		"Main.Title2.X"				"291"
 		"Main.Title2.Y"				"207"
-		"Main.Title2.Y_hidef"		"242"
+
 		"Main.Title2.Color"	"255 255 255 200"
 
 		// Top-left corner of the menu on the main screen
 		"Main.Menu.X"			"53"
-		"Main.Menu.X_hidef"		"76"
+
 		"Main.Menu.Y"			"240"
 
 		// Blank space to leave beneath the menu on the main screen
@@ -281,7 +281,7 @@ Scheme
 			{
 				"name"		"HalfLife2"
 				"tall"		"64"
-				"tall_hidef"	"58"
+
 				"weight"	"0"
 				"antialias" "1"
 				"additive"	"1"
@@ -294,7 +294,7 @@ Scheme
 			{
 				"name"		"HalfLife2"
 				"tall"		"64"
-				"tall_hidef"	"58"
+
 				"weight"	"0"
 				"antialias" "1"
 				"blur"		"5"
@@ -506,8 +506,8 @@ Scheme
 				"name"		"Buttons"
 				"scalex"	"0.63"
 				"scaley"	"0.63"
-				"scalex_hidef"	"1.0"
-				"scaley_hidef"	"1.0"
+
+
 			}
 		}
 		BudgetLabel
@@ -591,7 +591,7 @@ Scheme
 				"name"		"Verdana" [$OSX]
 				"tall"		"16" [!$OSX]
 				"tall"		"14" [$OSX]
- 				"tall_hidef"	"24"
+
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -634,7 +634,7 @@ Scheme
 			{
 				"name"  "HalfLife2"
 				"tall"			"32"
-				"tall_hidef"	"46"
+
 				"weight" "0"
 				"additive" "0"
 				"antialias" "1"

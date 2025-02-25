@@ -365,7 +365,7 @@
 		"labelText"		"%server%"
 		"textAlignment"		"west"
 		"xpos"			"11"
-		"xpos_hidef"	"31"
+
 		"ypos"			"60"
 		"ypos_lodef"	"62"
 		"wide"			"300"

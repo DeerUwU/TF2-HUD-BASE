@@ -337,7 +337,7 @@ Scheme
 			{
 				"name"			"Tahoma"
 				"tall"			"20"
-				"tall_hidef"	"28"
+
 				"weight"		"2000"
 				"outline"		"1"
 			}
@@ -348,10 +348,10 @@ Scheme
 			{
 				"name"			"Tahoma"
 				"tall"			"20"
-				"tall_hidef"	"28"
+
 				"weight"		"2000"
 				"blur"			"3"
-				"blur_hidef"	"5"
+
 			}
 		}
 		"MenuLarge"
@@ -380,8 +380,8 @@ Scheme
 				"name"			"Buttons"
 				"scalex"		"0.8"
 				"scaley"		"0.8"
-				"scalex_hidef"	"1.0"
-				"scaley_hidef"	"1.0"
+
+
 			}
 		}
 		"ConsoleText"
@@ -600,7 +600,7 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"16"
-				"tall_hidef"	"24"
+
 				"weight"		"900"
 				"antialias"		"1"
 			}
@@ -612,10 +612,10 @@ Scheme
 			{
 				"name"			"Trebuchet MS"
 				"tall"			"16"
-				"tall_hidef"	"24"
+
 				"weight"		"900"
 				"blur"			"3"
-				"blur_hidef"	"5"
+
 				"antialias"		"1"
 			}
 		}

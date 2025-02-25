@@ -69,12 +69,12 @@
 		"xpos_minmode"	"c-300"
 		"ypos"			"50"
 		"ypos_minmode"	"3"
-		"ypos_hidef"	"79"
+
 		"ypos_lodef"	"85"
 		"wide"			"600"
 		"wide_minmode"	"300"
 		"tall"			"18"
-		"tall_hidef"		"23"
+
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -106,7 +106,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
 		"font"			"HudFontSmall"
-		"font_hidef"		"HudFontMedium"
+
 		"xpos"			"r260"	[$WIN32]
 		"ypos"			"16"	[$WIN32]
 		"xpos"			"r285"	[$X360]
@@ -114,7 +114,7 @@
 		"wide"			"240"	[$WIN32]
 		"wide"			"220"	[$X360]
 		"tall"			"20"
-		"tall_hidef"		"30"
+
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -233,16 +233,16 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TipLabel"
 		"xpos"			"15"
-		"xpos_hidef"	"60"
+
 		"xpos_lodef"	"45"
 		"ypos"			"r67"
 		"ypos_lodef"		"28"
-		"ypos_hidef"		"35"
+
 		"wide"			"145"
-		"wide_hidef"	"230"
+
 		"wide_lodef"	"240"
 		"tall"			"64"
-		"tall_hidef"	"70"
+
 		"tall_lodef"	"70"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -253,7 +253,7 @@
 		"textAlignment"		"center"	[$WIN32]
 		"textAlignment"		"north-west"	[$X360]
 		"font"			"SpectatorKeyHints"
-		"font_hidef"	"HudFontSmall"
+
 		"font_lodef"	"DefaultVerySmall"
 		"wrap"			"1"
 	}

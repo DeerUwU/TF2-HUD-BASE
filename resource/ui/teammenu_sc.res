@@ -276,10 +276,10 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
 		"xpos"			"r190"
-		"xpos_hidef"			"r200"
+
 		"ypos"			"r40"
 		"ypos_lodef"			"r64"
-		"ypos_hidef"			"r54"
+
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -322,10 +322,10 @@
 		"fieldName"		"TeamMenuSelect"
 		"xpos"			"30"
 		"xpos_lodef"			"52"
-		"xpos_hidef"			"72"
+
 		"ypos"			"r40"
 		"ypos_lodef"			"r60"
-		"ypos_hidef"			"r54"
+
 		"zpos"			"6"
 		"wide"			"450"
 		"tall"			"30"
@@ -348,10 +348,10 @@
 		"fieldName"		"TeamMenuAuto"
 		"xpos"			"c-280" 
 		"xpos_lodef"	"c-255"
-		"xpos_hidef"	"c-260"
+
 		"ypos"			"55"
 		"ypos_lodef"	"72"
-		"ypos_hidef"	"65"
+
 		"zpos"			"1"
 		"wide"			"102" 
 		"tall"			"24"
@@ -374,7 +374,7 @@
 		"fieldName"		"TeamMenuSpectate"
 		"xpos"			"c-112"
 		"xpos_lodef"	"c-125"
-		"xpos_hidef"	"c-109"
+
 		"ypos"			"255"
 		"ypos_lodef"	"292"
 		"zpos"			"1"
@@ -418,7 +418,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_hidef" "305"
+
 			"origin_x_lodef" "320"
 			"origin_y" "0"
 			"origin_z" "-34"
@@ -432,12 +432,12 @@
 		"xpos"			"0"
 		"ypos"			"r50"
 		"ypos_lodef"			"r74"
-		"ypos_hidef"			"r65"
+
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
 		"tall_lodef"			"74"
-		"tall_hidef"			"65"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -456,7 +456,7 @@
 		"xpos_lodef"			"c8"
 		"ypos"			"53"
 		"ypos_lodef"			"72"
-		"ypos_hidef"	"63"
+
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
@@ -480,7 +480,7 @@
 		"xpos_lodef"			"c176"
 		"ypos"			"53"
 		"ypos_lodef"			"72"
-		"ypos_hidef"	"63"
+
 		"zpos"			"1"
 		"wide"			"90"
 		"tall"			"30"
@@ -520,7 +520,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 			"origin_x_lodef" "320"
-			"origin_x_hidef" "305"
+
 			"origin_y" "0"
 			"origin_z" "-34"
 			
@@ -593,7 +593,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 			"origin_x_lodef" "320"
-			"origin_x_hidef" "305"
+
 			"origin_y" "0"
 			"origin_z" "-34"
 			
@@ -666,7 +666,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 			"origin_x_lodef" "320"
-			"origin_x_hidef" "305"
+
 			"origin_y" "0"
 			"origin_z" "-34"
 			
@@ -715,7 +715,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 			"origin_x_lodef" "320"
-			"origin_x_hidef" "305"
+
 			"origin_y" "0"
 			"origin_z" "-34"
 			

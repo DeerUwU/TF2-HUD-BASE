@@ -99,7 +99,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_playingto"
-		"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
+
 		"scaleImage"	"1"	
 		
 		"if_hybrid"
@@ -754,7 +754,7 @@
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontGiant"
-				"font_hidef"	"HudFontGiant"
+
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"		
 				"proportionalToParent"	"1"
@@ -774,7 +774,7 @@
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontGiant"
-				"font_hidef"	"HudFontGiant"
+
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
@@ -809,7 +809,7 @@
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
 				"font"			"HudFontGiant"
-				"font_hidef"	"HudFontGiant"
+
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"	
 				"proportionalToParent"	"1"	
@@ -829,7 +829,7 @@
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
 				"font"			"HudFontGiant"
-				"font_hidef"	"HudFontGiant"
+
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"

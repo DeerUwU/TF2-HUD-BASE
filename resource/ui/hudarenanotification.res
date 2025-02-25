@@ -47,7 +47,7 @@
 		"font"			"HudFontSmallBold"
 		"xpos"			"75"
 		"ypos"			"30"
-		"ypos_hidef"	"23"
+
 		"ypos_lodef"	"20"
 		"zpos"			"1"
 		"wide"			"230"	[$WIN32]
@@ -69,7 +69,7 @@
 		"font"			"HudFontSmallest"
 		"xpos"			"75"
 		"ypos"			"75"
-		"ypos_hidef"	"23"
+
 		"ypos_lodef"	"20"
 		"zpos"			"1"
 		"wide"			"230"	[$WIN32]
