@@ -1,4 +1,8 @@
-# **DEFAULT TF2 HUD FILES**
+# **Clean Base Template for TF2 Huds**
+
+This hud is meant to be used as a base for other huds. The main point is simply to remove all deprecated parameters and providing a basic structure to organize fonts, borders and colors. This will also include a basic setup for logging-based hud customizations.
+
+
 
 This repository contains all the files related to the TF2 UI
 
