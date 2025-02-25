@@ -16,9 +16,9 @@
 		"image"			"../hud/ammo_blue_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
-		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
+
 		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
+
 	}
 	"HudWeaponLowAmmoImage"
 	{
@@ -36,9 +36,9 @@
 		"image"			"../hud/ammo_red_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
-		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
+
 		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
+
 	}
 	"AmmoInClip"
 	{
@@ -54,7 +54,7 @@
 		"wide"			"55"
 		"tall"			"40"
 		"tall_minmode"	"38"
-		"tall_lodef"	"45"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"	
@@ -73,12 +73,12 @@
 		"ypos"			"1"
 		"ypos_minmode"	"2"
 
-		"ypos_lodef"	"2"
+
 		"zpos"			"5"
 		"wide"			"55"
 		"tall"			"40"
 		"tall_minmode"	"39"
-		"tall_lodef"	"45"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"	
@@ -90,17 +90,17 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
 		"font"			"HudFontMediumSmall"
-		"font_lodef"	"HudFontMedium"
+
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"TanLight"
 		"xpos"			"59"
 		"xpos_minmode"	"65"
 		"ypos"			"8"
-		"ypos_lodef"	"10"
+
 		"zpos"			"7"
 		"wide"			"40"
 		"tall"			"27"
-		"tall_lodef"	"30"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-west"		
@@ -111,17 +111,17 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
 		"font"			"HudFontMediumSmall"
-		"font_lodef"	"HudFontMedium"
+
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"60"
 		"xpos_minmode"	"66"
 		"ypos"			"9"
-		"ypos_lodef"	"11"
+
 		"zpos"			"7"
 		"wide"			"40"
 		"tall"			"27"
-		"tall_lodef"	"30"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-west"		
@@ -137,10 +137,10 @@
 		"ypos"			"2"
 		"zpos"			"5"
 		"wide"			"84"
-		"wide_lodef"	"83"
+
 		"tall"			"40"
 		"tall_minmode"	"36"
-		"tall_lodef"	"45"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"		
@@ -155,16 +155,16 @@
 		"fgcolor"		"Black"
 		"xpos"			"1"
 
-		"xpos_lodef"	"2"
+
 		"ypos"			"3"
 
-		"ypos_lodef"	"4"
+
 		"zpos"			"5"
 		"wide"			"84"
-		"wide_lodef"	"83"
+
 		"tall"			"40"
 		"tall_minmode"	"36"
-		"tall_lodef"	"45"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"		

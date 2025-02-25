@@ -20,10 +20,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapInfoTitle"
 		"xpos"			"c-184"
-		"xpos_lodef"			"c-174"	
+
 
 		"ypos"			"95"
-		"ypos_lodef"			"110"
+
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"24"
@@ -42,10 +42,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapInfoType"
 		"xpos"			"c-184"
-		"xpos_lodef"			"c-174"
+
 
 		"ypos"			"125"
-		"ypos_lodef"			"140"
+
 		"zpos"			"1"
 		"wide"			"225"
 		"tall"			"24"
@@ -65,17 +65,17 @@
 		"fieldName"		"MapInfoText"
 		"font"			"ChalkboardText"
 		"xpos"			"c-184"
-		"xpos_lodef"			"c-174"
+
 
 		"ypos"			"160"
 
 		"zpos"			"3"
 		"wide"			"195"
-		"wide_lodef"			"195"
+
 
 		"tall"			"200"
 
-		"tall_lodef"	"200"
+
 		"autoResize"	"3"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -90,18 +90,18 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MapImage"
 		"xpos"			"c10"
-		"xpos_lodef"			"c35"
+
 
 		"ypos"			"75"
-		"ypos_lodef"			"100"
+
 
 		"zpos"			"2"
 		"wide"			"275"
 
-		"wide_lodef"	"225"
+
 		"tall"			"275"
 
-		"tall_lodef"	"225"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			""
@@ -113,10 +113,10 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoContinue"
 		"xpos"			"r190"
-		"xpos_lodef"			"r222"
+
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -161,7 +161,7 @@
 		"fieldName"		"MapInfoWatchIntro"
 		"xpos"			"c-50"
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -208,7 +208,7 @@
 		"xpos"			"40"
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -269,7 +269,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-39"
@@ -282,12 +282,12 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"0"
 		"ypos"			"r50"
-		"ypos_lodef"			"r74"
+
 
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
-		"tall_lodef"			"74"
+
 
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -306,14 +306,14 @@
 		"zpos"				"6"
 		"tall"				"80"
 		"button_separator"	"10"
-		"button_separator_lodef"	"5"
+
 		"buttongap"			"50"
 		"textadjust"		"3"
 		"buttonoffsety"		"20"
 
-		"buttonoffsety_lodef"		"18"
+
 		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+
 		"fgcolor"			"HudOffWhite" 	
 		
 		"button"

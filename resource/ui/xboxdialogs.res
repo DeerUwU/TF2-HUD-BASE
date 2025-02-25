@@ -32,7 +32,7 @@
 
 		"tall"			"315"
 
-		"footer_buttongap_lodef"			"10"
+
 	}
 	
 	"TitleLabel"
@@ -244,9 +244,9 @@
 		"fieldName"		"OptionsFooter"
 		"center"		"1"
 		"tall"			"100"
-		"tall_lodef"		"60"
 
-		"buttonoffsety_lodef"	"5"
+
+
 		"bgcolor"			"46 43 42 255"
 		"paintbackground"	"1"
 	}	
@@ -261,9 +261,9 @@
 		"fieldName"		"NewGameFooter"
 		"center"		"1"
 		"tall"			"100"
-		"tall_lodef"		"60"
 
-		"buttonoffsety_lodef"	"5"
+
+
 		"bgcolor"			"46 43 42 255"
 		"paintbackground"	"1"
 	}	
@@ -278,17 +278,17 @@
 	"MessageDialog"
 	{
 		"fieldName"			"MessageDialog"
-		"xpos_lodef"		"c-220"
+
 		"wide"				"562"
-		"wide_lodef"				"435"
+
 		"tall"				"205"
-		"tall_lodef"				"180"
+
 		"titlecolor"		"0 0 0 255"
 		"messagecolor"		"200 184 151 255"
 		"buttontextcolor"	"200 184 151 255"
 		"footer_tall"		"50"
 		"button_margin"		"8"
-		"button_margin_lodef"		"15"
+
 		"button_separator"	"10"
 		"activity_indent"	"100"
 	}
@@ -315,14 +315,14 @@
 		"ControlName"	"Label"
 		"fieldName"		"MessageLabel"
 
-		"font_lodef"		"MenuMedium"
+
 		"xpos"			"40"
-		"xpos_lodef"			"20"
+
 		"ypos"			"25"
-		"ypos_lodef"		"20"
+
 		"zpos"			"2"
 		"wide"			"500"
-		"wide_lodef"			"390"
+
 		"tall"			"100"
 		"wrap"			"1"
 		"visible"		"1"
@@ -337,9 +337,9 @@
 		"ControlName"	"AnimatingImagePanel"
 		"fieldName"		"AnimatingPanel"
 		"xpos"			"45"
-		"xpos_lodef"			"25"
+
 		"ypos"			"40"
-		"ypos_lodef"			"27"
+
 		"zpos"			"9"
 		"wide"			"75"
 		"tall"			"75"
@@ -355,7 +355,7 @@
 "MenuItem.res"
 {
 	"bottommargin"			"3"
-	"bottommargin_lodef"	"3"
+
 	"rightmargin"			"10"
 
 	"menuitemtext"
@@ -363,7 +363,7 @@
 		"ControlName"	"label"
 		"xpos"			"8"
 		"ypos"			"8"
-		"ypos_lodef"	"3"
+
 		"font"			"MatchmakingDialogMenuLarge"
 	}
 	
@@ -372,7 +372,7 @@
 		// This label should only be created in code, so don't set "ControlName"
 		"xpos"			"8"
 		"ypos"			"30"
-		"ypos_lodef"	"20"
+
 		"font"			"MatchmakingDialogMenuSmall"
 	}
 }
@@ -383,36 +383,36 @@
 "PlayerItem.res"
 {
 	"bottommargin"			"4"
-	"bottommargin_lodef"	"0"
+
 	
 	"rightmargin"			"5"
-	"rightmargin_lodef"		"0"
+
 
 	"menuitemtext"
 	{
 		"ControlName"	"label"
 		"xpos"			"35"
-		"xpos_lodef"	"20"
+
 		"ypos"			"3"
-		"ypos_lodef"	"1"
+
 		"font"			"MatchmakingDialogMenuSmall"
-		"font_lodef"	"MatchmakingDialogMenuSmall"
+
 	}
 	
 	"voiceicon"
 	{
 		"ControlName"	"label"
 		"xpos"			"5"
-		"xpos_lodef"	"5"
+
 		"ypos"			"7"
-		"ypos_lodef"	"4"
+
 		"wide"			"16"
-		"wide_lodef"	"12"
+
 		"tall"			"16"
-		"tall_lodef"	"12"
+
 		"labeltext"		"#TF_Icon_Alert"
 		"font"			"GameUIButtonsSmall"
-		"font_lodef"	"GameUIButtonsSmallest"
+
 	}
 
 	"readyicon"
@@ -433,9 +433,9 @@
 "BrowserItem.res"
 {
 	"bottommargin"			"0"
-	"bottommargin_lodef"	"3"
+
 	"rightmargin"			"5"
-	"rightmargin_lodef"		"10"
+
 	
 	"menuitemtext"
 	{
@@ -443,40 +443,40 @@
 		"xpos"			"5"
 		"ypos"			"5"
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 	}
 
 	"players"
 	{
 		"ControlName"	"label"
 		"xpos"			"265"
-		"xpos_lodef"	"165"
+
 		"ypos"			"5"
-		"ypos_lodef"	"4"
+
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuBrowserDetails"
+
 	}
 
 	"scenario"
 	{
 		"ControlName"	"label"
 		"ypos"			"5"
-		"ypos_lodef"	"7"
+
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuBrowserDetails"
+
 	}
 
 	"ping"
 	{
 		"ControlName"	"label"
 		"xpos"			"425"
-		"xpos_lodef"	"325"
+
 		"ypos"			"0"
-		"ypos_lodef"	"3"
+
 		"wide"			"30"
-		"wide_lodef"	"25"
+
 		"tall"			"30"
-		"tall_lodef"	"25"
+
 		"font"			"GameUIButtonsSmall"
 	}
 }
@@ -487,13 +487,13 @@
 "SectionedItem.res"
 {	
 	"bottommargin"			"0"
-	"bottommargin_lodef"	"3"
+
 	
 	"menuitemtext"
 	{
 		"labeltext"	""
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 	}
 }
 
@@ -508,7 +508,7 @@
 	
 	// OptionsItem properties
 	"optionsxpos"		"270"
-	"optionsxpos_lodef"			"225"
+
 	"optionsminwide"	"20"
 	"optionsleftmargin"	"10"
 	"optionsfont"		"MatchmakingDialogMenuLarge"
@@ -527,11 +527,11 @@
 		"ControlName"	"Label"
 		"xpos"			"200"
 		"ypos"			"1"
-		"ypos_lodef"			"0"
+
 		"wide"			"32"
-		"wide_lodef"			"28"
+
 		"tall"			"32"
-		"tall_lodef"			"28"
+
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_LEFTCURSOR"
 	}
@@ -540,11 +540,11 @@
 	{
 		"ControlName"	"Label"
 		"ypos"			"1"
-		"ypos_lodef"			"0"
+
 		"wide"			"32"
-		"wide_lodef"			"28"
+
 		"tall"			"32"
-		"tall_lodef"			"28"
+
 		"font"			"GameUIButtons"
 		"labeltext"		"#GameUI_Icons_RIGHTCURSOR"
 	}
@@ -577,7 +577,7 @@
 		"xpos"			"45"
 		"ypos"			"3"
 
-		"font_lodef"	"MatchmakingDialogMenuSmall"
+
 	}
 	
 	"menuitemdesc"
@@ -586,14 +586,14 @@
 		"xpos"			"45"
 		"ypos"			"25"
 
-		"font_lodef"	"MatchmakingDialogMenuSmall"
+
 	}
 
 	"points"
 	{
 		"ControlName"	"label"
 		"ypos"			"13"
-		"ypos_lodef"	"10"
+
 		"font"			"MatchmakingDialogMenuSmall"
 	}
 	
@@ -614,13 +614,13 @@
 	{
 		"ControlName"	"imagepanel"
 
-		"xpos_lodef"	"435"
+
 		"ypos"			"6"
-		"ypos_lodef"	"6"
+
 		"wide"			"32"
 		"tall"			"32"
-		"wide_lodef"	"24"
-		"tall_lodef"	"24"
+
+
 		"bgcolor"		"0 0 0 255"
 		"fgcolor"		"0 0 0 255"
 		"scaleImage"	"1"
@@ -691,8 +691,8 @@
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"
-		"visible_lodef"	"0"
-		"enabled_lodef"	"0"
+
+
 	}
 	
 	"MatchmakingFooterPanel"
@@ -702,18 +702,18 @@
 		"bgcolor"			"TanDarker"
 		"paintbackground"	"1"
 		"tall"				"100"
-		"tall_lodef"				"60"
+
 		"center"			"1"
 		"buttonoffsety"		"20"
-		"buttonoffsety_lodef"		"5"
+
 		"button_separator"	"10"
-		"button_separator_lodef"	"2"
+
 		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+
 		"buttongap"			"50"
-		"buttongap_lodef"			"30"
+
 		"textadjust"		"3"
-		"textadjust_lodef"		"0"
+
 	}	
 }
 
@@ -725,9 +725,9 @@
 	"WelcomeDialog"
 	{
 		"xpos"			"100"
-		"xpos_lodef"			"80"
+
 		"ypos"			"120"
-		"ypos_lodef"			"25"
+
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -744,7 +744,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Welcome"
 	}
@@ -753,7 +753,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		"ypos_lodef"			"45"
+
  		"itemspacing"	"2"
 		"minwide"		"300"
 
@@ -815,9 +815,9 @@
 	"PauseDialog"
 	{
 		"xpos"			"100"
-		"xpos_lodef"			"100"
+
 		"ypos"			"200"
-		"ypos_lodef"			"50"
+
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -840,7 +840,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Paused_Title"
 	}
@@ -849,10 +849,10 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		"ypos_lodef"			"45"
+
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"			"350"
+
 		
   		"CommandItem"
  		{
@@ -901,9 +901,9 @@
 	"PlayerMatchDialog"
 	{
 		"xpos"			"100"
-		"xpos_lodef"			"100"
+
 		"ypos"			"250"
-		"ypos_lodef"			"100"
+
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -926,7 +926,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 		"labeltext"		"#TF_Unranked"
 	}
@@ -935,10 +935,10 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		"ypos_lodef"			"45"
+
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"			"350"
+
 
  		"CommandItem"
  		{
@@ -969,9 +969,9 @@
 	"RankedMatchDialog"
 	{
 		"xpos"			"100"
-		"xpos_lodef"			"100"
+
 		"ypos"			"250"
-		"ypos_lodef"			"100"
+
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -994,7 +994,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 		"labeltext"		"#TF_Ranked"
 	}
@@ -1003,10 +1003,10 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		"ypos_lodef"			"45"
+
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"		"350"
+
 
  		"CommandItem"
  		{
@@ -1037,9 +1037,9 @@
 	"SystemLinkDialog"
 	{
 		"xpos"			"100"
-		"xpos_lodef"			"100"
+
 		"ypos"			"250"
-		"ypos_lodef"			"100"
+
 		"borderwidth"	"25"
 		
 		"Footer"
@@ -1062,7 +1062,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 		"labeltext"		"#TF_SystemLink_Title"
 	}
@@ -1071,7 +1071,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		"ypos_lodef"			"45"
+
  		"itemspacing"	"2"
 		"minwide"		"300"
 
@@ -1098,13 +1098,13 @@
 {	
 	"AchievementsDialog"
 	{
-		"xpos_lodef"	"c-265"
-		"ypos_lodef"	"40"
+
+
 		"borderwidth"	"15"
 
-		"tall_lodef"	"367"
+
 		"gametotal"		"100"
-		"center_lodef"	"0"
+
 		
 		"Footer"
 		{
@@ -1128,10 +1128,10 @@
 	"ProgressBg"
 	{
 
-		"xpos_lodef"	"250"
+
 		"ypos"			"50"
 		"wide"			"298"
-		"wide_lodef"	"264"
+
 		"tall"			"10"
 	}
 	
@@ -1149,9 +1149,9 @@
 
 	"uparrow"
 	{
-		"xpos_lodef"	"460"
 
-		"ypos_lodef"	"325"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -1160,9 +1160,9 @@
 
 	"downarrow"
 	{
-		"xpos_lodef"	"482"
 
-		"ypos_lodef"	"325"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -1173,13 +1173,13 @@
 	{
 		"xpos"				"15"
 		"ypos"				"90"
-		"ypos_lodef"				"85"
+
  		"itemspacing"		"3"
- 		"itemspacing_lodef"		"2"
 
-		"minwide_lodef"		"500"
 
-		"maxvisibleitems_lodef"	"4"
+
+
+
 
 		// Menu items are returned by a system query and created at runtime
 	}
@@ -1193,9 +1193,9 @@
 	"RankingsDialog"
 	{
 		"xpos"			"100"
-		"xpos_lodef"			"100"
+
 		"ypos"			"250"
-		"ypos_lodef"			"100"
+
 		"borderwidth"	"15"
 		
 		"Footer"
@@ -1218,7 +1218,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Rankings_Title"
 	}
@@ -1227,10 +1227,10 @@
 	{
 		"xpos"			"15"
 		"ypos"			"50"
-		"ypos_lodef"			"45"
+
  		"itemspacing"	"2"
 		"minwide"		"425"
-		"minwide_lodef"			"350"
+
 
  		"CommandItem"
  		{
@@ -1259,13 +1259,13 @@
 	"ScenarioInfoPanel"
 	{
 		"xpos"			"495"
-		"xpos_lodef"	"380"
+
 		"ypos"			"45"
-		"ypos_lodef"	"50"
+
 		"wide"			"286"
-		"wide_lodef"	"165"
+
 		"tall"			"270"
-		"tall_lodef"	"250"
+
 	}
 	
 	"Title"
@@ -1273,10 +1273,10 @@
 		"ControlName"	"Label"
 		"font"			"MatchmakingDialogTitle"
 		"xpos"			"15"
-		"xpos_lodef"	"10"
+
 		"ypos"			"10"
 		"wide"			"271"
-		"wide_lodef"			"145"
+
 		"tall"			"28"
 	}
 
@@ -1285,15 +1285,15 @@
 		"ControlName"	"Label"
 		"labelText"		""
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"			"MatchmakingDialogMenuSmall"
+
 		"xpos"			"15"
-		"xpos_lodef"	"10"
+
 		"ypos"			"35"
-		"ypos_lodef"			"30"
+
 		"wide"			"271"
-		"wide_lodef"			"145"
+
 		"tall"			"24"
-		"tall_lodef"	"40"
+
 		"textAlignment"	"north-west"
 		"wrap"			"1"
 	}
@@ -1302,14 +1302,14 @@
 	{
 		"ControlName"	"ImagePanel"
 		"xpos"			"15"
-		"xpos_lodef"	"10"
+
 		"ypos"			"60"
-		"ypos_lodef"			"70"
+
 		"wide"			"256"
-		"wide_lodef"			"145"
+
 		"tall"			"190"
-		"tall_lodef"			"108"
-		"scaleImage_lodef"	"1"
+
+
 	}
 
 	"DescOne"
@@ -1317,14 +1317,14 @@
 		"ControlName"	"Label"
 		"labelText"		""
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"			"MatchmakingDialogMenuSmall"
+
 		"xpos"			"15"
-		"xpos_lodef"	"10"
+
 		"ypos"			"70"
 		"wide"			"271"
-		"wide_lodef"			"145"
+
 		"tall"			"24"
-		"tall_lodef"	"48"
+
 		"textAlignment"	"north-west"
 	}
 	"DescTwo"
@@ -1332,12 +1332,12 @@
 		"ControlName"	"Label"
 		"labelText"		""
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"			"MatchmakingDialogMenuSmall"
+
 		"xpos"			"15"
-		"xpos_lodef"	"10"
+
 		"ypos"			"90"
 		"wide"			"271"
-		"wide_lodef"			"145"
+
 		"tall"			"24"
 	}
 	"DescThree"
@@ -1345,12 +1345,12 @@
 		"ControlName"	"Label"
 		"labelText"		""
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"			"MatchmakingDialogMenuSmall"
+
 		"xpos"			"15"
-		"xpos_lodef"	"10"
+
 		"ypos"			"110"
 		"wide"			"271"
-		"wide_lodef"			"145"
+
 		"tall"			"24"
 	}
 }
@@ -1363,9 +1363,9 @@
 	"SessionOptions"
 	{		
 		"wide"			"800"
-		"wide_lodef"			"560"
+
 		"tall"			"340"
-		"tall_lodef"			"280"
+
 		"borderwidth"	"30"
 		
 		"SessionProperty"
@@ -1486,42 +1486,42 @@
 				"title"			"2Fort"
 				"subtitle"		"#Gametype_CTF"
 				"image"			"maps/menu_screen_ctf_2fort"
-				"tall_lodef"	"172"
+
 			}
 			"ScenarioInfo"
 			{
 				"title"			"Dustbowl"
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_dustbowl"
-				"tall_lodef"	"172"
+
 			}
 			"ScenarioInfo"
 			{
 				"title"			"Granary"
 				"subtitle"		"#Gametype_CP"
 				"image"			"maps/menu_screen_cp_granary"
-				"tall_lodef"	"172"
+
 			}
 			"ScenarioInfo"
 			{
 				"title"			"Well"
 				"subtitle"		"#Gametype_CP"
 				"image"			"maps/menu_screen_cp_well"
-				"tall_lodef"	"172"
+
 			}
 			"ScenarioInfo"
 			{
 				"title"			"Gravel Pit"
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_gravelpit"
-				"tall_lodef"	"172"
+
 			}
 			"ScenarioInfo"
 			{
 				"title"			"Hydro"
 				"subtitle"		"#TF_TerritoryControl"
 				"image"			"maps/menu_screen_tc_hydro"
-				"tall_lodef"	"172"
+
 			}
 		}
 		
@@ -1545,7 +1545,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogSessionOptionsTitle"
 	}
 	
@@ -1554,9 +1554,9 @@
 		"ControlName"	"Label"
 		"xpos"			"15"
 		"ypos"			"320"
-		"ypos_lodef"	"240"
+
 		"wide"			"750"
-		"wide_lodef"	"500"
+
 		"tall"			"50"
 		"zpos"			"1"
 		"font"			"MatchmakingDialogMenuMediumSmall"
@@ -1569,11 +1569,11 @@
 	"DialogMenu"
 	{
 		"xpos"			"15"
-		"xpos_lodef"			"10"
+
 		"ypos"			"70"
-		"ypos_lodef"			"50"
+
 		"minwide"		"400"
-		"minwide_lodef"			"380"
+
  		"itemspacing"	"2"
 	
 		"OptionsItem"
@@ -1767,21 +1767,21 @@
 {
 	"SessionLobby_Host"
 	{		
-		"xpos_lodef"				"c-294"
-		"ypos_lodef"				"15"
+
+
 		"wide"				"900"
-		"wide_lodef"				"588"
+
 		"tall"				"510"
-		"tall_lodef"				"405"
+
 		"borderwidth"		"30"
 		"teamspacing"		"10"
-		"teamspacing_lodef"			"3"
+
 				
 		"commandstring"		"StartHost"
 		"hostlobby"			"1"
-		"center_lodef"				"0"
 
-		"footer_buttongap_lodef"			"15"
+
+
 		
 		"Footer"
 		{
@@ -1822,7 +1822,7 @@
 		"tall"			"32"
 		"zpos"			"3"
 		"visible"		"0"
-		"visible_lodef"	"1"
+
 	}
 	
 	"PlayerReviewLabel"
@@ -1834,15 +1834,15 @@
 		"ypos"			"367"
 		"wide"			"300"
 		"visible"		"0"
-		"visible_lodef"	"1"
+
 	}
 	
 	"DialogTitle"
 	{
 		"xpos"			"15"
-		"xpos_lodef"	"25"
+
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Lobby_Title"
 	}
@@ -1850,24 +1850,24 @@
 	"HostLabel"
 	{
 		"xpos"			"15"
-		"xpos_lodef"	"25"
+
 		"ypos"			"45"
-		"ypos_lodef"	"50"
+
 		"wide"			"350"
-		"wide_lodef"	"250"
+
 		"tall"			"40"
 
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuSmall"
+
 	}
 
 	"LobbyStateBg"
 	{
 		"xpos"			"15"
 		"ypos"			"120"
-		"ypos_lodef"	"100"
+
 		"wide"			"370"
-		"wide_lodef"	"233"
+
 		"tall"			"35"
 	}
 	
@@ -1878,7 +1878,7 @@
 		"font"			"GameUIButtons"
 		"xpos"			"25"
 		"ypos"			"121"
-		"ypos_lodef"	"101"
+
 		"wide"			"32"
 		"tall"			"32"
 	}
@@ -1886,14 +1886,14 @@
 	"LobbyStateLabel"
 	{
 		"xpos"			"68"
-		"xpos_lodef"	"53"
+
 		"ypos"			"125"
-		"ypos_lodef"	"105"
+
 		"wide"			"350"
-		"wide_lodef"	"223"
+
 		"tall"			"30"
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuMediumSmall"
+
 		"labeltext"		"#game_WaitingForPlayers"
 	}
 	
@@ -1902,11 +1902,11 @@
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"15"
 		"ypos"			"162"
-		"ypos_lodef"	"142"
+
 		"wide"			"370"
-		"wide_lodef"	"233"
+
 		"tall"			"190"
-		"tall_lodef"	"155"
+
 		
 		// If there is a "PropertyString" entry, then it is used as a lookup
 		// to set the label text from the keyvalues that get passed into the dialog
@@ -1924,63 +1924,63 @@
 			"font"				"MatchmakingDialogMenuLarge"
 			"xpos"				"15"
 			"ypos"				"45"
-			"ypos_lodef"				"40"
+
 			"wide"				"275"
 		}	
 		"DescOne"
 		{
 			"PropertyString"	"CONTEXT_GAME_TYPE"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"15"
 			"ypos"				"100"
-			"ypos_lodef"		"80"
+
 			"wide"				"275"
 		}
 		"DescTwo"
 		{
 			"labelText"			"#TF_MatchOption_WinLimit"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"15"
 			"ypos"				"130"
-			"ypos_lodef"		"100"
+
 			"wide"				"275"
 		}
 		"DescThree"
 		{
 			"labelText"			"#TF_GameTime"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"15"
 			"ypos"				"160"
-			"ypos_lodef"		"120"
+
 			"wide"				"275"
 		}
 		"ValueTwo"
 		{
 			"PropertyString"	"PROPERTY_WIN_LIMIT"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"75"
-			"xpos_lodef"		"143"
+
 			"ypos"				"130"
-			"ypos_lodef"		"100"
+
 			"wide"				"275"
-			"wide_lodef"		"75"
+
 			"textAlignment"		"east"
 		}
 		"ValueThree"
 		{
 			"PropertyString"	"PROPERTY_MAX_GAME_TIME"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"75"
-			"xpos_lodef"		"143"
+
 			"ypos"				"160"
-			"ypos_lodef"		"120"
+
 			"wide"				"275"
-			"wide_lodef"		"75"
+
 			"textAlignment"		"east"
 		}
 	}
@@ -1990,11 +1990,11 @@
 		"ControlName"	"EditablePanel"
 		"xpos"			"15"
 		"ypos"			"360"
-		"ypos_lodef"	"304"
+
 		"wide"			"370"
-		"wide_lodef"	"233"
+
 		"tall"			"123"		
-		"tall_lodef"	"90"
+
 		
 		"Buttons"
 		{
@@ -2002,7 +2002,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"370"
-			"wide_lodef"	"233"
+
 			"tall"			"123"
 			
 			"StartGameButton"
@@ -2011,9 +2011,9 @@
 				"labeltext"		"#GameUI_Icons_START"
 				"font"			"GameUIButtons"
 				"xpos"			"32"
-				"xpos_lodef"	"25"
+
 				"ypos"			"7"
-				"ypos_lodef"	"0"
+
 				"wide"			"64"
 				"tall"			"32"
 			}
@@ -2024,9 +2024,9 @@
 				"labeltext"		"#GameUI_Icons_Y_BUTTON"
 				"font"			"GameUIButtons"
 				"xpos"			"32"
-				"xpos_lodef"	"25"
+
 				"ypos"			"83"
-				"ypos_lodef"	"56"
+
 				"wide"			"64"
 				"tall"			"32"
 			}
@@ -2037,9 +2037,9 @@
 				"labeltext"		"#GameUI_Icons_L_SHOULDER"
 				"font"			"GameUIButtons"
 				"xpos"			"15"
-				"xpos_lodef"	"12"
+
 				"ypos"			"45"
-				"ypos_lodef"	"28"
+
 				"wide"			"64"
 				"tall"			"32"
 			}
@@ -2050,11 +2050,11 @@
 			"ControlName"	"Label"
 			"labeltext"		"#GameUI_StartGame"
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"	"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"			"98"
-			"xpos_lodef"	"70"
+
 			"ypos"			"14"
-			"ypos_lodef"	"7"
+
 			"wide"			"300"
 		}
 		
@@ -2063,11 +2063,11 @@
 			"ControlName"	"Label"
 			"labeltext"		"#GameUI_StopCountdown"
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"	"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"			"98"
-			"xpos_lodef"	"70"
+
 			"ypos"			"14"
-			"ypos_lodef"	"7"
+
 			"wide"			"300"
 			"visible"		"0"
 		}
@@ -2077,11 +2077,11 @@
 			"ControlName"	"Label"
 			"labeltext"		"#GameUI_ChangeGameSettings"
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"	"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"			"98"
-			"xpos_lodef"	"70"
+
 			"ypos"			"90"
-			"ypos_lodef"	"63"
+
 			"wide"			"300"
 		}	
 				
@@ -2090,11 +2090,11 @@
 			"ControlName"	"Label"
 			"labeltext"		"#TF_KickPlayer"
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"	"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"			"98"
-			"xpos_lodef"	"70"
+
 			"ypos"			"51"
-			"ypos_lodef"	"34"
+
 			"wide"			"300"
 		}
 	}
@@ -2103,24 +2103,24 @@
 	{
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"397"
-		"xpos_lodef"	"250"
+
 		"ypos"			"10"
-		"ypos_lodef"	"20"
+
 		"wide"			"180"
-		"wide_lodef"	"115"
+
 		"tall"			"70"
 
 		"Title"
 		{
 			"labeltext"		"#TF_ScoreBoard_Blue"
 			"font"			"MatchmakingDialogTitle"
-			"font_lodef"	"MatchmakingDialogMenuLarge"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"10"
-			"ypos_lodef"			"5"
+
 			"wide"			"180"
-			"wide_lodef"	"100"
+
 		}
 
 		"Subtitle"
@@ -2128,24 +2128,24 @@
 			"labelText"		"#TF_ScoreBoard_Players"
 			"font"			"MatchmakingDialogMenuSmallest"
 			"xpos"			"87"
-			"xpos_lodef"	"8"
+
 			"ypos"			"11"
-			"ypos_lodef"	"23"
+
 			"wide"			"85"
-			"wide_lodef"	"100"
+
 
 		}
 		
 		"DescOne"
 		{
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"			"MatchmakingDialogMenuSmall"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"45"
-			"ypos_lodef"	"45"
+
 			"wide"			"150"
-			"wide_lodef"	"110"
+
 		}
 	}
 
@@ -2153,24 +2153,24 @@
 	{
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"397"
-		"xpos_lodef"	"250"
+
 		"ypos"			"143"
-		"ypos_lodef"	"163"
+
 		"wide"			"180"
-		"wide_lodef"	"115"
+
 		"tall"			"70"
 
 		"Title"
 		{
 			"labeltext"		"#TF_ScoreBoard_Red"
 			"font"			"MatchmakingDialogTitle"
-			"font_lodef"	"MatchmakingDialogMenuLarge"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"10"
-			"ypos_lodef"			"5"
+
 			"wide"			"180"
-			"wide_lodef"	"100"
+
 		}
 
 		"Subtitle"
@@ -2178,48 +2178,48 @@
 			"labelText"		"#TF_ScoreBoard_Players"
 			"font"			"MatchmakingDialogMenuSmallest"
 			"xpos"			"87"
-			"xpos_lodef"	"8"
+
 			"ypos"			"11"
-			"ypos_lodef"	"23"
+
 			"wide"			"85"
-			"wide_lodef"	"100"
+
 
 		}
 		
 		"DescOne"
 		{
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"			"MatchmakingDialogMenuSmall"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"45"
-			"ypos_lodef"	"45"
+
 			"wide"			"150"
-			"wide_lodef"	"110"
+
 		}
 	}
 
  	"BluePlayers"
  	{
  		"xpos"			"580"
- 		"xpos_lodef"	"368"
+
  		"ypos"			"10"
- 		"ypos_lodef"	"20"
+
  		"tall"			"50"
  		"minwide"		"300"
- 		"minwide_lodef"	"208"
+
 	  	"itemspacing"	"1"
 	}
 
  	"RedPlayers"
  	{
  		"xpos"			"580"
- 		"xpos_lodef"	"368"
+
  		"ypos"			"133"
- 		"ypos_lodef"	"163"
+
   		"tall"			"50"
 		"minwide"		"300"
-		"minwide_lodef"	"208"
+
 	  	"itemspacing"	"1"
 	}
 }
@@ -2231,19 +2231,19 @@
 {
 	"SessionLobby_Client"
 	{
-		"xpos_lodef"				"c-294"
-		"ypos_lodef"				"15"
+
+
 		"wide"			"900"
-		"wide_lodef"			"588"
+
 		"tall"				"510"
-		"tall_lodef"				"405"
+
 		"borderwidth"	"30"
 		"teamspacing"	"10"
-		"teamspacing_lodef"		"3"
+
 		
 		"commandstring"		"StartClient"
-		"center_lodef"				"0"
-		"footer_buttongap_lodef"	"15"
+
+
 		
 		"Footer"
 		{
@@ -2284,7 +2284,7 @@
 		"tall"			"32"
 		"zpos"			"3"
 		"visible"		"0"
-		"visible_lodef"	"1"
+
 	}
 	
 	"PlayerReviewLabel"
@@ -2296,15 +2296,15 @@
 		"ypos"			"367"
 		"wide"			"300"
 		"visible"		"0"
-		"visible_lodef"	"1"
+
 	}
 	
 	"DialogTitle"
 	{
 		"xpos"			"15"
-		"xpos_lodef"	"25"
+
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_Lobby_Title"
 	}
@@ -2312,24 +2312,24 @@
 	"HostLabel"
 	{
 		"xpos"			"15"
-		"xpos_lodef"	"25"
+
 		"ypos"			"45"
-		"ypos_lodef"	"50"
+
 		"wide"			"350"
-		"wide_lodef"	"250"
+
 		"tall"			"30"
 
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuSmall"
+
 	}
 
 	"LobbyStateBg"
 	{
 		"xpos"			"15"
 		"ypos"			"120"
-		"ypos_lodef"	"100"
+
 		"wide"			"370"
-		"wide_lodef"	"233"
+
 		"tall"			"35"
 	}
 	
@@ -2340,7 +2340,7 @@
 		"font"			"GameUIButtons"
 		"xpos"			"25"
 		"ypos"			"121"
-		"ypos_lodef"	"101"
+
 		"wide"			"32"
 		"tall"			"32"
 	}
@@ -2348,14 +2348,14 @@
 	"LobbyStateLabel"
 	{
 		"xpos"			"68"
-		"xpos_lodef"	"53"
+
 		"ypos"			"125"
-		"ypos_lodef"	"105"
+
 		"wide"			"350"
-		"wide_lodef"	"223"
+
 		"tall"			"30"
 		"font"			"MatchmakingDialogMenuLarge"
-		"font_lodef"	"MatchmakingDialogMenuMediumSmall"
+
 		"labeltext"		"#TF_waitingForMinPlayers"
 	}
 	
@@ -2364,11 +2364,11 @@
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"15"
 		"ypos"			"162"
-		"ypos_lodef"	"142"
+
 		"wide"			"370"
-		"wide_lodef"	"233"
+
 		"tall"			"190"
-		"tall_lodef"	"155"
+
 		
 		// If there is a "PropertyString" entry, then it is used as a lookup
 		// to set the label text from the keyvalues that get passed into the dialog
@@ -2386,63 +2386,63 @@
 			"font"				"MatchmakingDialogMenuLarge"
 			"xpos"				"15"
 			"ypos"				"45"
-			"ypos_lodef"				"40"
+
 			"wide"				"275"
 		}	
 		"DescOne"
 		{
 			"PropertyString"	"CONTEXT_GAME_TYPE"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"15"
 			"ypos"				"100"
-			"ypos_lodef"		"80"
+
 			"wide"				"275"
 		}
 		"DescTwo"
 		{
 			"labelText"			"#TF_MatchOption_WinLimit"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"15"
 			"ypos"				"130"
-			"ypos_lodef"		"100"
+
 			"wide"				"275"
 		}
 		"DescThree"
 		{
 			"labelText"			"#TF_GameTime"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"15"
 			"ypos"				"160"
-			"ypos_lodef"		"120"
+
 			"wide"				"275"
 		}
 		"ValueTwo"
 		{
 			"PropertyString"	"PROPERTY_WIN_LIMIT"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"75"
-			"xpos_lodef"		"143"
+
 			"ypos"				"130"
-			"ypos_lodef"		"100"
+
 			"wide"				"275"
-			"wide_lodef"		"75"
+
 			"textAlignment"		"east"
 		}
 		"ValueThree"
 		{
 			"PropertyString"	"PROPERTY_MAX_GAME_TIME"
 			"font"				"MatchmakingDialogMenuLarge"
-			"font_lodef"		"MatchmakingDialogMenuMediumSmall"
+
 			"xpos"				"75"
-			"xpos_lodef"		"143"
+
 			"ypos"				"160"
-			"ypos_lodef"		"120"
+
 			"wide"				"275"
-			"wide_lodef"		"75"
+
 			"textAlignment"		"east"
 		}
 	}
@@ -2461,24 +2461,24 @@
 	{
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"397"
-		"xpos_lodef"	"250"
+
 		"ypos"			"10"
-		"ypos_lodef"	"20"
+
 		"wide"			"180"
-		"wide_lodef"	"115"
+
 		"tall"			"70"
 
 		"Title"
 		{
 			"labeltext"		"#TF_ScoreBoard_Blue"
 			"font"			"MatchmakingDialogTitle"
-			"font_lodef"	"MatchmakingDialogMenuLarge"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"10"
-			"ypos_lodef"			"5"
+
 			"wide"			"180"
-			"wide_lodef"	"100"
+
 		}
 
 		"Subtitle"
@@ -2486,24 +2486,24 @@
 			"labelText"		"#TF_ScoreBoard_Players"
 			"font"			"MatchmakingDialogMenuSmallest"
 			"xpos"			"87"
-			"xpos_lodef"	"8"
+
 			"ypos"			"11"
-			"ypos_lodef"	"23"
+
 			"wide"			"85"
-			"wide_lodef"	"100"
+
 
 		}
 		
 		"DescOne"
 		{
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"			"MatchmakingDialogMenuSmall"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"45"
-			"ypos_lodef"	"45"
+
 			"wide"			"150"
-			"wide_lodef"	"110"
+
 		}
 	}
 
@@ -2511,24 +2511,24 @@
 	{
 		"ControlName"	"CScenarioInfoPanel"
 		"xpos"			"397"
-		"xpos_lodef"	"250"
+
 		"ypos"			"143"
-		"ypos_lodef"	"163"
+
 		"wide"			"180"
-		"wide_lodef"	"115"
+
 		"tall"			"70"
 
 		"Title"
 		{
 			"labeltext"		"#TF_ScoreBoard_Red"
 			"font"			"MatchmakingDialogTitle"
-			"font_lodef"	"MatchmakingDialogMenuLarge"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"10"
-			"ypos_lodef"			"5"
+
 			"wide"			"180"
-			"wide_lodef"	"100"
+
 		}
 
 		"Subtitle"
@@ -2536,48 +2536,48 @@
 			"labelText"		"#TF_ScoreBoard_Players"
 			"font"			"MatchmakingDialogMenuSmallest"
 			"xpos"			"87"
-			"xpos_lodef"	"8"
+
 			"ypos"			"11"
-			"ypos_lodef"	"23"
+
 			"wide"			"85"
-			"wide_lodef"	"100"
+
 
 		}
 		
 		"DescOne"
 		{
 			"font"			"MatchmakingDialogMenuLarge"
-			"font_lodef"			"MatchmakingDialogMenuSmall"
+
 			"xpos"			"12"
-			"xpos_lodef"	"8"
+
 			"ypos"			"45"
-			"ypos_lodef"	"45"
+
 			"wide"			"150"
-			"wide_lodef"	"110"
+
 		}
 	}
 
  	"BluePlayers"
  	{
  		"xpos"			"580"
- 		"xpos_lodef"	"368"
+
  		"ypos"			"10"
- 		"ypos_lodef"	"20"
+
  		"tall"			"50"
  		"minwide"		"300"
- 		"minwide_lodef"	"208"
+
 	  	"itemspacing"	"1"
 	}
 
  	"RedPlayers"
  	{
  		"xpos"			"580"
- 		"xpos_lodef"	"368"
+
  		"ypos"			"133"
- 		"ypos_lodef"	"163"
+
   		"tall"			"50"
 		"minwide"		"300"
-		"minwide_lodef"	"208"
+
 	  	"itemspacing"	"1"
 	}
 }
@@ -2590,9 +2590,9 @@
 	"SessionBrowser_Live"
 	{		
 		"wide"			"900"
-		"wide_lodef"	"580"
+
 		"tall"			"395"
-		"tall_lodef"	"320"
+
 		"borderwidth"	"30"
 			
 		// These should be in the same order as the scenario defines in hl2orange.spa.h
@@ -2604,13 +2604,13 @@
 				"subtitle"		"#Gametype_CTF"
 				"image"			"maps/menu_screen_ctf_2fort"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2618,13 +2618,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_dustbowl"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2632,13 +2632,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_granary"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2646,13 +2646,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_well"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2660,13 +2660,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_gravelpit"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2674,17 +2674,17 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_tc_hydro"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 		}
 		
-		"footer_buttongap_lodef"	"15"
+
 			
 		"Footer"
 		{
@@ -2718,7 +2718,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_SystemLink_Client_Dialog"
 	}
@@ -2726,11 +2726,11 @@
 	"DialogMenu"
 	{	
 		"xpos"				"15"
-		"xpos_lodef"				"3"
+
 		"ypos"				"45"
-		"ypos_lodef"		"50"
+
 		"minwide"			"570"
-		"minwide_lodef"		"405"
+
  		"itemspacing"		"2"
 		"maxvisibleitems"	"7"
 		"activecolumn"		"3"
@@ -2744,47 +2744,47 @@
  			{
  				"header"		"#TF_HostName"
  				"xpos"			"5"
- 				"xpos_lodef"			"4"
+
  				"ypos"			"4"
- 				"ypos_lodef"			"1"
+
  				"wide"			"295"
- 				"wide_lodef"			"202"
+
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
  			}
  			"Column"
  			{
 				"header"		"#TF_Players"
    				"ypos"			"5"
-   				"ypos_lodef"			"1"
+
 				"wide"			"80"
-				"wide_lodef"			"66"
+
   				"align"			"5"	// east
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
  			"Column"
  			{
 				"header"		"#TF_MatchOption_Scenario"
    				"ypos"			"4"
-   				"ypos_lodef"			"1"
+
 				"wide"			"145"
-				"wide_lodef"			"105"
+
   				"align"			"5"	// east
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
  			"Column"
  			{
 				"header"		"#TF_Scoreboard_Ping"
-				"header_lodef"		" "
+
   				"ypos"			"0"
-  				"ypos_lodef"			"0"
+
 				"wide"			"40"
-				"wide_lodef"	"25"
+
   				"align"			"4"	// center
 				"font"			"GameUIButtonsSmall"
 				"fgcolor"		"white"
@@ -2801,9 +2801,9 @@
 	"SessionBrowser_SystemLink"
 	{		
 		"wide"			"900"
-		"wide_lodef"	"580"
+
 		"tall"			"395"
-		"tall_lodef"	"320"
+
 		"borderwidth"	"30"
 			
 		// These should be in the same order as the scenario defines in hl2orange.spa.h
@@ -2815,13 +2815,13 @@
 				"subtitle"		"#Gametype_CTF"
 				"image"			"maps/menu_screen_ctf_2fort"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2829,13 +2829,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_dustbowl"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2843,13 +2843,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_granary"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2857,13 +2857,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_well"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2871,13 +2871,13 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_cp_gravelpit"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 			"ScenarioInfo"
 			{
@@ -2885,17 +2885,17 @@
 				"subtitle"		"#TF_AttackDefend"
 				"image"			"maps/menu_screen_tc_hydro"
 				"xpos"			"595"
-				"xpos_lodef"	"410"
+
 				"tall"			"330"
-				"tall_lodef"	"240"
+
 				"descOneY"		"270"
-				"descOneY_lodef"	"155"
+
 				"descTwoY"		"300"
-				"descTwoY_lodef"	"200"
+
 			}
 		}
 		
-		"footer_buttongap_lodef"			"15"
+
 		
 		"Footer"
 		{
@@ -2929,7 +2929,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"			"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_SystemLink_Client_Dialog"
 	}
@@ -2937,11 +2937,11 @@
 	"DialogMenu"
 	{	
 		"xpos"				"15"
-		"xpos_lodef"				"3"
+
 		"ypos"				"45"
-		"ypos_lodef"		"50"
+
 		"minwide"			"570"
-		"minwide_lodef"		"405"
+
  		"itemspacing"		"2"
 		"maxvisibleitems"	"7"
 		"activecolumn"		"0"
@@ -2955,37 +2955,37 @@
  			{
  				"header"		"#TF_HostName"
  				"xpos"			"5"
- 				"xpos_lodef"			"8"
+
  				"ypos"			"4"
- 				"ypos_lodef"			"1"
+
  				"wide"			"315"
- 				"wide_lodef"			"215"
+
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
  			}
  			"Column"
  			{
 				"header"		"#TF_Players"
    				"ypos"			"5"
-   				"ypos_lodef"			"1"
+
 				"wide"			"90"
-				"wide_lodef"			"70"
+
   				"align"			"5"	// east
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
  			"Column"
  			{
 				"header"		"#TF_MatchOption_Scenario"
    				"ypos"			"4"
-   				"ypos_lodef"			"1"
+
 				"wide"			"155"
-				"wide_lodef"			"105"
+
   				"align"			"5"	// east
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuBrowserHostname"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
  		}
@@ -3000,11 +3000,11 @@
 	"LeaderboardDialog_Ranked"
 	{
 		"wide"			"780"
-		"wide_lodef"	"480"
+
 		"tall"			"495"
-		"tall_lodef"	"350"
+
 		"borderwidth"	"15"
-		"borderwidth_lodef"	"10"
+
 		
 		"Footer"
 		{
@@ -3032,7 +3032,7 @@
 	{
 		"xpos"			"15"
 		"ypos"			"15"
-		"ypos_lodef"	"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_RankedLeaderboards_Title"
 	}
@@ -3040,16 +3040,16 @@
 	"DialogMenu"
 	{
 		"xpos"				"15"
-		"xpos_lodef"		"10"
+
 		"ypos"				"50"
-		"ypos_lodef"		"40"
+
 		"minwide"			"750"
-		"minwide_lodef"		"565"
+
  		"itemspacing"		"2"
 		"maxvisibleitems"	"10"
-		"maxvisibleitems_lodef"	"8"
+
 		"maxvisiblecolumns"	"6"
-		"maxvisiblecolumns_lodef" "5"
+
 		"activecolumn"		"-1"	
 		
  		"Columns"
@@ -3062,38 +3062,38 @@
  				"header"		"#TF_Rank"
  				"xpos"			"5"
  				"ypos"			"4"
- 				"ypos_lodef"	"0"
+
  				"wide"			"100"
  				"align"			"4"	// center
 				"locked"		"1"
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
  			}
   			"Column"
  			{
 				"header"		"#TF_Gamertag"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"480"
-				"wide_lodef"			"320"
+
   				"align"			"3"	// west
 				"locked"		"1"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
 			"Column"
  			{
 				"header"		"#TF_Scoreboard_Score"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"			"130"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
 		}
@@ -3111,16 +3111,16 @@
 	{
 		"xpos"			"15"
 		"ypos"			"458"
-		"ypos_lodef"	"324"
+
 		"ControlName"	"label"
 		"font"			"MatchmakingDialogMenuSmall"
 	}	
 	
 	"uparrow"
 	{
-		"xpos_lodef"	"525"
 
-		"ypos_lodef"	"322"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -3129,9 +3129,9 @@
 
 	"downarrow"
 	{
-		"xpos_lodef"	"547"
 
-		"ypos_lodef"	"322"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -3141,7 +3141,7 @@
 	"BestMoments"
 	{
 		"xpos"			"15"
-		"xpos_lodef"	"395"
+
 		"ypos"			"35"
 		"wide"			"240"
 		"ControlName"	"Label"
@@ -3153,9 +3153,9 @@
 	
 	"SelectButton"
 	{
-		"xpos_lodef"	"190"
 
-		"ypos_lodef"	"320"
+
+
 
 
 		"zpos"				"7"
@@ -3168,24 +3168,24 @@
 	"SelectLabel"
 	{
 		"xpos"				"280"
-		"xpos_lodef"		"260"
+
 		"ypos"				"453"
-		"ypos_lodef"		"320"
+
 		"zpos"				"7"
 		"wide"				"240"
 
 		"ControlName"		"Label"
 		"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
-		"font_lodef"		"MatchmakingDialogMenuSmall"
+
 		"labeltext"			"#GameUI_Select"
 	}	
 	
 	"BackButton"
 	{
-		"xpos_lodef"	"350"
 
-		"ypos_lodef"	"320"
+
+
 
 		"zpos"			"8"
 
@@ -3198,16 +3198,16 @@
 	"BackLabel"
 	{
 		"xpos"				"505"
-		"xpos_lodef"		"420"
+
 		"ypos"				"453"
-		"ypos_lodef"		"320"
+
 		"zpos"				"8"
 		"wide"				"240"
 
 		"ControlName"		"Label"
 		"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
-		"font_lodef"		"MatchmakingDialogMenuSmall"
+
 		"labeltext"			"#GameUI_Back"
 	}								
 }
@@ -3220,11 +3220,11 @@
 	"LeaderboardDialog_Stats"
 	{
 		"wide"			"840"
-		"wide_lodef"	"480"
+
 		"tall"			"495"
-		"tall_lodef"	"350"
+
 		"borderwidth"	"15"
-		"borderwidth_lodef"	"10"
+
 		
 		"Footer"
 		{
@@ -3251,9 +3251,9 @@
 	"DialogTitle"
 	{
 		"xpos"			"20"
-		"xpos_lodef"	"20"
+
 		"ypos"			"15"
-		"ypos_lodef"	"10"
+
 		"font"			"MatchmakingDialogTitle"
 		"labeltext"		"#TF_StatsLeaderboards_Title"
 	}
@@ -3261,15 +3261,15 @@
 	"DialogMenu"
 	{
 		"xpos"				"15"
-		"xpos_lodef"		"10"
+
 		"ypos"				"50"
 		"minwide"			"865"
-		"minwide_lodef"		"585"
+
  		"itemspacing"		"2"
 		"maxvisibleitems"	"9"
-		"maxvisibleitems_lodef"	"7"
+
 		"maxvisiblecolumns"	"5"
-		"maxvisiblecolumns_lodef" "4"
+
 		"activecolumn"		"2"	
 		
  		"Columns"
@@ -3282,220 +3282,220 @@
  				"header"		"#TF_Rank"
  				"xpos"			"5"
  				"ypos"			"4"
- 				"ypos_lodef"	"0"
+
  				"wide"			"80"
  				"align"			"4"	// center
 				"locked"		"1"
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
  			}
   			"Column"
  			{
 				"header"		"#TF_Gamertag"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"325"
-				"wide_lodef"	"195"
+
   				"align"			"3"	// west
 				"locked"		"1"
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
 			"Column"
  			{
 				"header"		"#TF_Scoreboard_Score"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_KillsLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}			
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_CapturesLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
 				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}	
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_DefensesLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}	
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_DominationLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_RevengeLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_DestructionLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_HeadshotsLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_HealingLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_InvulnLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_AssistsLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}						
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_BackstabsLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#StatPanel_Label_HealthLeached"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_SentryKillsLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 			"Column"
  			{
 				"header"		"#TF_ScoreBoard_TeleportsLabel"
    				"ypos"			"5"
-   				"ypos_lodef"	"0"
+
 				"wide"			"150"
-				"wide_lodef"	"150"
+
   				"align"			"4"	// center
 				"locked"		"0"
  				"font"			"MatchmakingDialogMenuLarge"
-				"font_lodef"	"MatchmakingDialogMenuSmall"
+
 				"fgcolor"		"MatchmakingMenuItemDescriptionColor"
 			}									
 		}
@@ -3504,29 +3504,29 @@
 	"ProgressBg"
 	{
 		"xpos"			"380"
-		"xpos_lodef"	"252"
+
 		"ypos"			"420"
-		"ypos_lodef"	"308"
+
 		"wide"			"500"
-		"wide_lodef"	"340"
+
 		"tall"			"10"
 	}
 		
 	"Numbering"
 	{
 		"xpos"			"20"
-		"xpos_lodef"	"20"
+
 		"ypos"			"450"
-		"ypos_lodef"	"322"
+
 		"ControlName"	"label"
 		"font"			"MatchmakingDialogMenuSmall"
 	}	
 	
 	"uparrow"
 	{
-		"xpos_lodef"	"545"
 
-		"ypos_lodef"	"322"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -3535,9 +3535,9 @@
 
 	"downarrow"
 	{
-		"xpos_lodef"	"567"
 
-		"ypos_lodef"	"322"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -3547,9 +3547,9 @@
 	"BestMoments"
 	{
 		"xpos"				"635"
-		"xpos_lodef"		"350"
+
 		"ypos"				"30"
-		"ypos_lodef"		"35"
+
 		"wide"				"240"
 
 		"ControlName"		"Label"
@@ -3560,9 +3560,9 @@
 	
 	"SelectButton"
 	{
-		"xpos_lodef"	"190"
 
-		"ypos_lodef"	"322"
+
+
 
 
 		"zpos"			"7"
@@ -3575,24 +3575,24 @@
 	"SelectLabel"
 	{
 		"xpos"				"400"
-		"xpos_lodef"		"260"
+
 		"ypos"				"445"
-		"ypos_lodef"		"322"
+
 
 		"zpos"				"7"
 		"wide"				"240"
 		"ControlName"		"Label"
 		"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
-		"font_lodef"		"MatchmakingDialogMenuSmall"
+
 		"labeltext"			"#GameUI_Select"
 	}	
 	
 	"BackButton"
 	{
-		"xpos_lodef"	"350"
 
-		"ypos_lodef"	"322"
+
+
 
 
 		"zpos"			"8"
@@ -3605,16 +3605,16 @@
 	"BackLabel"
 	{
 		"xpos"				"650"
-		"xpos_lodef"		"420"
+
 		"ypos"				"445"
-		"ypos_lodef"		"322"
+
 
 		"zpos"				"8"
 		"wide"				"240"
 		"ControlName"		"Label"
 		"textAlignment"		"west"
 		"font"				"MatchmakingDialogMenuLarge"
-		"font_lodef"		"MatchmakingDialogMenuSmall"
+
 		"labeltext"			"#GameUI_Back"
 	}									
 }

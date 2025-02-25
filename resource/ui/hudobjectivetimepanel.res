@@ -7,15 +7,15 @@
 		"xpos"			"16"
 		"xpos_minmode"	"35"
 
-		"xpos_lodef"	"108"
+
 		"ypos"			"9"
 		"zpos"			"2"
 		"wide"			"78"
 		"wide_minmode"	"38"
-		"wide_lodef"	"90"
+
 		"tall"			"33"
 		"tall_minmode"	"23"
-		"tall_lodef"	"38"
+
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_blue_bg"	
@@ -32,15 +32,15 @@
 		"fieldName"			"TimePanelProgressBar"
 		"xpos"				"67"
 
-		"xpos_lodef"		"165"
+
 		"ypos"				"16"
 
-		"ypos_lodef"		"16"
+
 		"zpos"				"4"	
 		"wide"				"20"
-		"wide_lodef"		"25"
+
 		"tall"				"20"
-		"tall_lodef"		"25"	
+
 		"visible"			"1"
 		"visible_minmode"	"0"
 		"enabled"			"1"
@@ -62,18 +62,18 @@
 		"fieldName"		"WaitingForPlayersLabel"
 		"xpos"			"16"
 
-		"xpos_lodef"	"0"
+
 		"ypos"			"34"
 		"ypos_minmode"	"24"
 
-		"ypos_lodef"	"41"
+
 		"zpos"			"5"
 		"wide"			"78"
 
-		"wide_lodef"	"300"
+
 		"tall"			"19"
 
-		"tall_lodef"	"22"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_WaitingForPlayers"
@@ -83,7 +83,7 @@
 		"wrap"			"0"
 		"font"			"ClockSubTextTiny"
 
-		"font_lodef"	"HudFontSmall"
+
 
 		if_match
 		{
@@ -94,7 +94,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
-			"font_lodef"			"HudFontSmallestBold"
+
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -105,7 +105,7 @@
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
 
-		"ypos_lodef"	"-100"	//off-screen
+
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -126,18 +126,18 @@
 		"fieldName"		"OvertimeLabel"
 		"xpos"			"16"
 
-		"xpos_lodef"	"0"
+
 		"ypos"			"33"
 		"ypos_minmode"	"24"
 
-		"ypos_lodef"	"41"
+
 		"zpos"			"5"
 		"wide"			"78"
 
-		"wide_lodef"	"300"
+
 		"tall"			"19"
 
-		"tall_lodef"	"22"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_Overtime"
@@ -147,7 +147,7 @@
 		"wrap"			"0"
 		"font"			"ClockSubText"
 
-		"font_lodef"	"HudFontSmall"
+
 
 		if_match
 		{
@@ -158,7 +158,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
-			"font_lodef"			"HudFontSmallestBold"
+
 		}
 	}			
 	"OvertimeBG"
@@ -169,7 +169,7 @@
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
 
-		"ypos_lodef"	"-100"	//off-screen
+
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -190,18 +190,18 @@
 		"fieldName"		"SuddenDeathLabel"
 		"xpos"			"16"
 
-		"xpos_lodef"	"0"
+
 		"ypos"			"33"
 		"ypos_minmode"	"24"
 
-		"ypos_lodef"	"41"
+
 		"zpos"			"5"
 		"wide"			"78"
 
-		"wide_lodef"	"300"
+
 		"tall"			"19"
 
-		"tall_lodef"	"22"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_SuddenDeath"
@@ -211,7 +211,7 @@
 		"wrap"			"0"
 		"font"			"ClockSubTextSuddenDeath"
 
-		"font_lodef"	"HudFontSmall"
+
 
 		if_match
 		{
@@ -222,7 +222,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
-			"font_lodef"			"HudFontSmallestBold"
+
 		}
 	}			
 	"SuddenDeathBG"
@@ -233,7 +233,7 @@
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
 
-		"ypos_lodef"	"-100"	//off-screen
+
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -254,18 +254,18 @@
 		"fieldName"		"SetupLabel"
 		"xpos"			"16"
 
-		"xpos_lodef"	"0"
+
 		"ypos"			"33"
 		"ypos_minmode"	"24"
 
-		"ypos_lodef"	"41"
+
 		"zpos"			"5"
 		"wide"			"78"
 
-		"wide_lodef"	"300"
+
 		"tall"			"19"
 
-		"tall_lodef"	"22"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_Setup"
@@ -276,7 +276,7 @@
 		"font"			"ClockSubText"
 		"font_minmode"	"ClockSubTextSuddenDeath"
 
-		"font_lodef"	"HudFontSmall"
+
 
 		if_match
 		{
@@ -287,7 +287,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
-			"font_lodef"			"HudFontSmallestBold"
+
 		}
 	}	
 	"SetupBG"
@@ -298,7 +298,7 @@
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
 
-		"ypos_lodef"	"-100"	//off-screen
+
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"
@@ -319,18 +319,18 @@
 		"fieldName"		"ServerTimeLimitLabel"
 		"xpos"			"16"
 
-		"xpos_lodef"	"0"
+
 		"ypos"			"33"
 		"ypos_minmode"	"24"
 
-		"ypos_lodef"	"41"
+
 		"zpos"			"5"
 		"wide"			"78"
 
-		"wide_lodef"	"300"
+
 		"tall"			"19"
 
-		"tall_lodef"	"22"
+
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%servertimeleft%"
@@ -341,7 +341,7 @@
 		"font"			"ClockSubText"
 		"font_minmode"	"ClockSubTextSuddenDeath"
 
-		"font_lodef"	"HudFontSmall"
+
 
 		if_match
 		{
@@ -352,7 +352,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 
-			"font_lodef"			"HudFontSmallestBold"
+
 		}
 	}	
 	"ServerTimeLimitLabelBG"
@@ -363,7 +363,7 @@
 		"xpos"			"11"	[$X360]
 		"ypos"			"31"
 
-		"ypos_lodef"	"-100"	//off-screen
+
 		"zpos"			"1"
 		"wide"			"78"
 		"tall"			"20"

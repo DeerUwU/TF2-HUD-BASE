@@ -238,7 +238,7 @@
 		"xpos"	"270"		[$WIN32]
 		"ypos"	"444"		[$WIN32]
 
-		"xpos_lodef"	"c-18"		[$X360]		// centered in screen
+
 		"ypos"	"428"		[$X360]				
 		"tall"  "24"
 		"wide"	"36"
@@ -293,8 +293,8 @@
 
 		"MediumBoxTall"	"50"
 
-		"MediumBoxWide_lodef"	"74"
-		"MediumBoxTall_lodef"	"50"
+
+
 		"LargeBoxWide" "112"
 		"LargeBoxTall" "80"
 		"BoxGap" "8"

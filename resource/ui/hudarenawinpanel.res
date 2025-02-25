@@ -23,7 +23,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/winpanel_blue_bg_team"
-			"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
+
 			"scaleImage"		"1"
 		}
 		"RedScoreBG"
@@ -39,7 +39,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/winpanel_red_bg_team"
-			"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
+
 			"scaleImage"		"1"
 		}
 		"BlueTeamLabel"
@@ -53,7 +53,7 @@
 			"ypos"			"25"
 			"wide"			"100"
 			"tall"			"20"
-			"tall_lodef"	"24"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -72,7 +72,7 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -92,7 +92,7 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -110,7 +110,7 @@
 			"ypos"			"28"
 			"wide"			"100"
 			"tall"			"20"
-			"tall_lodef"	"24"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -129,7 +129,7 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -149,7 +149,7 @@
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -348,7 +348,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 150"
-		"fillcolor_lodef"		"0 0 0 200"
+
 		"PaintBackgroundType"	"0"
 	}
 	"TopPlayersLabel"

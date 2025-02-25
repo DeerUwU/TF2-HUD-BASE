@@ -17,10 +17,10 @@
 			"ControlName"		"CExButton"
 			"fieldName"		"Next"
 			"xpos"			"r190"
-			"xpos_lodef"			"r222"
+
 
 			"ypos"			"r40"
-			"ypos_lodef"			"r64"
+
 
 			"zpos"			"6"
 			"wide"			"150"
@@ -46,10 +46,10 @@
 			"ControlName"		"CExButton"
 			"fieldName"		"Quit"
 			"xpos"			"r190"
-			"xpos_lodef"			"r222"
+
 
 			"ypos"			"r40"
-			"ypos_lodef"			"r64"
+
 
 			"zpos"			"6"
 			"wide"			"150"
@@ -77,7 +77,7 @@
 			"xpos"			"40"
 
 			"ypos"			"r40"
-			"ypos_lodef"			"r64"
+
 
 			"zpos"			"6"
 			"wide"			"150"
@@ -103,12 +103,12 @@
 			"fieldName"		"BottomBar"
 			"xpos"			"0"
 			"ypos"			"r50"
-			"ypos_lodef"			"r74"
+
 
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"50"
-			"tall_lodef"			"74"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -125,12 +125,12 @@
 			"fieldName"		"TopBar"
 			"xpos"			"0"
 			"ypos"			"0"
-			"ypos_lodef"			"r74"
+
 
 			"zpos"			"5"
 			"wide"			"f0"
 			"tall"			"50"
-			"tall_lodef"			"74"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"

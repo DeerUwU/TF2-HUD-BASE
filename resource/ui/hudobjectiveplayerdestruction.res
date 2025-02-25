@@ -705,7 +705,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 
-				"font_lodef"	"HudFontGiant"
+
 				"fgcolor"		"TanLight"		
 				"proportionalToParent"	"1"
 			}	
@@ -725,7 +725,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 
-				"font_lodef"	"HudFontGiant"
+
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
@@ -760,7 +760,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 
-				"font_lodef"	"HudFontGiant"
+
 				"fgcolor"		"TanLight"	
 				"proportionalToParent"	"1"	
 			}	
@@ -780,7 +780,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 
-				"font_lodef"	"HudFontGiant"
+
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}

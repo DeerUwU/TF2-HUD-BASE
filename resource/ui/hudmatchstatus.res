@@ -279,14 +279,14 @@
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"c-55"
 
-		"xpos_lodef"		"c-150"
+
 		"ypos"				"0"	[$WIN32]
 		"ypos_minmode"		"-14"	[$WIN32]
 		"ypos"				"24"	[$X360]
 		"zpos"				"2"
 		"wide"				"110"
 
-		"wide_lodef"		"300"
+
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
@@ -319,20 +319,20 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
+
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
 
-			"xpos_lodef"	"114"
+
 			"ypos"			"11"
 			"ypos_minmode"	"6"
 
-			"ypos_lodef"	"18"
+
 			"zpos"			"3"
 			"wide"			"45"
 			"wide_minmode"	"30"
-			"wide_lodef"	"50"
+
 			"tall"			"31"
 			"visible"		"1"
 			"enabled"		"1"
@@ -349,7 +349,7 @@
 				"tall"			"10"
 				"font"			"HudFontSmall"
 				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+
 			}
 		}	
 	}

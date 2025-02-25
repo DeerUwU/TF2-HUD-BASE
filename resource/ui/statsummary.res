@@ -273,10 +273,10 @@
 				"textAlignment"		"east"
 				"xpos"			"c-282"
 
-				"xpos_lodef"			"c-210"
+
 				"ypos"			"212"
 
-				"ypos_lodef"			"49"
+
 				"zpos"			"5"
 				"wide"			"150" [$WIN32]
 				"wide"			"170" [$X360]
@@ -296,10 +296,10 @@
 				"textAlignment"		"west"
 				"xpos"			"c-127"
 
-				"xpos_lodef"			"c-35"
+
 				"ypos"			"212"
 
-				"ypos_lodef"			"49"
+
 				"zpos"			"5"
 				"wide"			"150"
 				"tall"			"20"
@@ -326,10 +326,10 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 
-				"visible_lodef"		"0"
+
 				"enabled"		"1"
 
-				"enabled_lodef"		"0"
+
 			}				
 		}
 		"InteractiveHeaders"	
@@ -411,16 +411,16 @@
 			"fieldName"		"AveragesBG"
 			"xpos"			"c-295"
 
-			"xpos_lodef"			"c-283"
+
 			"ypos"			"165"
 
-			"ypos_lodef"			"22"
+
 			"wide"			"406"
 
-			"wide_lodef"	"566"
+
 			"tall"			"300"
 
-			"tall_lodef"			"633"
+
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -435,14 +435,14 @@
 			"labelText"		"#StatSummary_Label_PerformanceReport"
 			"textAlignment"		"west"
 
-			"textAlignment_lodef"		"center"
+
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"170" [!$OSX]
 			"ypos"			"185" [$OSX]
 
-			"ypos_lodef"			"32"
+
 			"wide"			"300"
 			"tall"			"20"
 			"autoResize"	"0"
@@ -456,10 +456,10 @@
 			"fieldName"		"ClassBarBG1A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"230"
 
-			"ypos_lodef"			"67"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -477,10 +477,10 @@
 			"fieldName"		"ClassBarBG1B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"230"
 
-			"ypos_lodef"			"67"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -498,10 +498,10 @@
 			"fieldName"		"ClassBar1A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"232"
 
-			"ypos_lodef"			"69"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -519,10 +519,10 @@
 			"fieldName"		"ClassBar1B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"232"
 
-			"ypos_lodef"			"69"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -543,10 +543,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"228"
 
-			"ypos_lodef"			"65"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -564,10 +564,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"228"
 
-			"ypos_lodef"			"65"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -582,15 +582,15 @@
 			"fieldName"		"ClassLabel1"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class1%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"228"
 
-			"ypos_lodef"			"65"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -605,10 +605,10 @@
 			"fieldName"		"ClassBarBG2A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"248"
 
-			"ypos_lodef"			"85"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -626,10 +626,10 @@
 			"fieldName"		"ClassBarBG2B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"248"
 
-			"ypos_lodef"			"85"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -647,10 +647,10 @@
 			"fieldName"		"ClassBar2A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"250"
 
-			"ypos_lodef"			"87"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -668,10 +668,10 @@
 			"fieldName"		"ClassBar2B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"250"
 
-			"ypos_lodef"			"87"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -692,10 +692,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"246"
 
-			"ypos_lodef"			"83"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -713,10 +713,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"246"
 
-			"ypos_lodef"			"83"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -731,15 +731,15 @@
 			"fieldName"		"ClassLabel2"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"	"ScoreboardVerySmall"
+
 			"labelText"		"%class2%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"246"
 
-			"ypos_lodef"			"83"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -754,10 +754,10 @@
 			"fieldName"		"ClassBarBG3A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"266"
 
-			"ypos_lodef"			"103"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -775,10 +775,10 @@
 			"fieldName"		"ClassBarBG3B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"266"
 
-			"ypos_lodef"			"103"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -796,10 +796,10 @@
 			"fieldName"		"ClassBar3A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"268"
 
-			"ypos_lodef"			"105"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -817,10 +817,10 @@
 			"fieldName"		"ClassBar3B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"268"
 
-			"ypos_lodef"			"105"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -841,10 +841,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"264"
 
-			"ypos_lodef"			"101"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -862,10 +862,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"264"
 
-			"ypos_lodef"			"101"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -880,15 +880,15 @@
 			"fieldName"		"ClassLabel3"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class3%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"264"
 
-			"ypos_lodef"			"101"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -903,10 +903,10 @@
 			"fieldName"		"ClassBarBG4A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"284"
 
-			"ypos_lodef"			"121"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -924,10 +924,10 @@
 			"fieldName"		"ClassBarBG4B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"284"
 
-			"ypos_lodef"			"121"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -945,10 +945,10 @@
 			"fieldName"		"ClassBar4A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"286"
 
-			"ypos_lodef"			"123"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -966,10 +966,10 @@
 			"fieldName"		"ClassBar4B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"286"
 
-			"ypos_lodef"			"123"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -990,10 +990,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"282"
 
-			"ypos_lodef"			"119"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1011,10 +1011,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"282"
 
-			"ypos_lodef"			"119"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1029,15 +1029,15 @@
 			"fieldName"		"ClassLabel4"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class4%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"282"
 
-			"ypos_lodef"			"119"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -1052,10 +1052,10 @@
 			"fieldName"		"ClassBarBG5A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"302"
 
-			"ypos_lodef"			"139"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -1073,10 +1073,10 @@
 			"fieldName"		"ClassBarBG5B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"302"
 
-			"ypos_lodef"			"139"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -1094,10 +1094,10 @@
 			"fieldName"		"ClassBar5A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"304"
 
-			"ypos_lodef"			"141"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1115,10 +1115,10 @@
 			"fieldName"		"ClassBar5B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"304"
 
-			"ypos_lodef"			"141"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1139,10 +1139,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"300"
 
-			"ypos_lodef"			"137"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1160,10 +1160,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"300"
 
-			"ypos_lodef"			"137"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1178,15 +1178,15 @@
 			"fieldName"		"ClassLabel5"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class5%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"300"
 
-			"ypos_lodef"			"137"
+
 			"zpos"			"5"
 			"wide"			"282"
 			"tall"			"20"
@@ -1201,10 +1201,10 @@
 			"fieldName"		"ClassBarBG6A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"320"
 
-			"ypos_lodef"			"157"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -1222,10 +1222,10 @@
 			"fieldName"		"ClassBarBG6B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"320"
 
-			"ypos_lodef"			"157"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -1243,10 +1243,10 @@
 			"fieldName"		"ClassBar6A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"322"
 
-			"ypos_lodef"			"159"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1264,10 +1264,10 @@
 			"fieldName"		"ClassBar6B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"322"
 
-			"ypos_lodef"			"159"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1288,10 +1288,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"318"
 
-			"ypos_lodef"			"155"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1309,10 +1309,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"318"
 
-			"ypos_lodef"			"155"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1327,15 +1327,15 @@
 			"fieldName"		"ClassLabel6"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class6%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"318"
 
-			"ypos_lodef"			"155"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -1350,10 +1350,10 @@
 			"fieldName"		"ClassBarBG7A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"338"
 
-			"ypos_lodef"			"175"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -1371,10 +1371,10 @@
 			"fieldName"		"ClassBarBG7B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"338"
 
-			"ypos_lodef"			"175"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -1392,10 +1392,10 @@
 			"fieldName"		"ClassBar7A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"340"
 
-			"ypos_lodef"			"177"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1413,10 +1413,10 @@
 			"fieldName"		"ClassBar7B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"340"
 
-			"ypos_lodef"			"177"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1437,10 +1437,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"336"
 
-			"ypos_lodef"			"173"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1458,10 +1458,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"336"
 
-			"ypos_lodef"			"173"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1476,15 +1476,15 @@
 			"fieldName"		"ClassLabel7"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class7%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"336"
 
-			"ypos_lodef"			"173"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -1499,10 +1499,10 @@
 			"fieldName"		"ClassBarBG8A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"356"
 
-			"ypos_lodef"			"193"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -1520,10 +1520,10 @@
 			"fieldName"		"ClassBarBG8B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"356"
 
-			"ypos_lodef"			"193"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -1541,10 +1541,10 @@
 			"fieldName"		"ClassBar8A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"358"
 
-			"ypos_lodef"			"195"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1562,10 +1562,10 @@
 			"fieldName"		"ClassBar8B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"358"
 
-			"ypos_lodef"			"195"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1586,10 +1586,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"354"
 
-			"ypos_lodef"			"191"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1607,10 +1607,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"354"
 
-			"ypos_lodef"			"191"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1625,15 +1625,15 @@
 			"fieldName"		"ClassLabel8"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class8%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"354"
 
-			"ypos_lodef"			"191"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -1648,10 +1648,10 @@
 			"fieldName"		"ClassBarBG9A"
 			"xpos"			"c-285"
 
-			"xpos_lodef"			"c-193"
+
 			"ypos"			"374"
 
-			"ypos_lodef"			"211"
+
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -1669,10 +1669,10 @@
 			"fieldName"		"ClassBarBG9B"
 			"xpos"			"c+30"
 
-			"xpos_lodef"			"c+122"
+
 			"ypos"			"374"
 
-			"ypos_lodef"			"211"
+
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -1690,10 +1690,10 @@
 			"fieldName"		"ClassBar9A"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"376"
 
-			"ypos_lodef"			"213"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1711,10 +1711,10 @@
 			"fieldName"		"ClassBar9B"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"376"
 
-			"ypos_lodef"			"213"
+
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -1735,10 +1735,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-282"
 
-			"xpos_lodef"			"c-190"
+
 			"ypos"			"372"
 
-			"ypos_lodef"			"209"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1756,10 +1756,10 @@
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 
-			"xpos_lodef"			"c-35"
+
 			"ypos"			"372"
 
-			"ypos_lodef"			"209"
+
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -1774,15 +1774,15 @@
 			"fieldName"		"ClassLabel9"
 			"font"			"ScoreboardSmall"
 
-			"font_lodef"			"ScoreboardVerySmall"
+
 			"labelText"		"%class9%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
 
-			"xpos_lodef"			"c+126"
+
 			"ypos"			"372"
 
-			"ypos_lodef"			"209"
+
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -1803,15 +1803,15 @@
 
 			"tall"			"260"
 
-			"tall_lodef"			"633"
+
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 
-			"visible_lodef"		"0"
+
 			"enabled"		"1"
 
-			"enabled_lodef"		"0"			
+
 			"border"		"TFThinLineBorder"
 		}
 		"RecordsLabel1"
@@ -1838,17 +1838,17 @@
 			"fieldName"		"RecordsSubBG1"
 			"xpos"			"c+124"
 
-			"xpos_lodef"			"c-270"
+
 			"ypos"			"217"
 
-			"ypos_lodef"			"229"
+
 			"zpos"			"2"
 			"wide"			"167"
 
-			"wide_lodef"			"540"
+
 			"tall"			"157"
 
-			"tall_lodef"			"183"
+
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -1885,14 +1885,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"214"
 
-			"ypos_lodef"			"246"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -1909,14 +1909,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"214"
 
-			"ypos_lodef"			"246"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -1933,14 +1933,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"224"
 
-			"ypos_lodef"			"258"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -1957,14 +1957,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"224"
 
-			"ypos_lodef"			"258"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -1981,14 +1981,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"234"
 
-			"ypos_lodef"			"270"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2005,14 +2005,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"234"
 
-			"ypos_lodef"			"270"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2029,14 +2029,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"244"
 
-			"ypos_lodef"			"282"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2053,14 +2053,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"244"
 
-			"ypos_lodef"			"282"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2077,14 +2077,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"254"
 
-			"ypos_lodef"			"294"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2101,14 +2101,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"254"
 
-			"ypos_lodef"			"294"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2125,14 +2125,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"264"
 
-			"ypos_lodef"			"306"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2149,14 +2149,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"264"
 
-			"ypos_lodef"			"306"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2173,14 +2173,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"274"
 
-			"ypos_lodef"			"318"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2197,14 +2197,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"274"
 
-			"ypos_lodef"			"318"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2221,14 +2221,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-265"
+
 			"ypos"			"284"
 
-			"ypos_lodef"			"330"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2245,14 +2245,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c-155"
+
 			"ypos"			"284"
 
-			"ypos_lodef"			"330"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2269,14 +2269,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"294"
 
-			"ypos_lodef"			"246"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2293,14 +2293,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+148"
+
 			"ypos"			"294"
 
-			"ypos_lodef"			"246"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2317,14 +2317,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"304"
 
-			"ypos_lodef"			"258"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2341,14 +2341,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+160"
+
 			"ypos"			"304"
 
-			"ypos_lodef"			"258"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2365,14 +2365,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"314"
 
-			"ypos_lodef"			"270"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2389,14 +2389,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+160"
+
 			"ypos"			"314"
 
-			"ypos_lodef"			"270"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2413,14 +2413,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"324"
 
-			"ypos_lodef"			"282"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2437,14 +2437,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+160"
+
 			"ypos"			"324"
 
-			"ypos_lodef"			"282"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2461,14 +2461,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"334"
 
-			"ypos_lodef"			"294"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2485,14 +2485,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+160"
+
 			"ypos"			"334"
 
-			"ypos_lodef"			"294"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2509,14 +2509,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"344"
 
-			"ypos_lodef"			"306"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2533,14 +2533,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+160"
+
 			"ypos"			"344"
 
-			"ypos_lodef"			"306"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2557,14 +2557,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+128"
 
-			"xpos_lodef"			"c-25"
+
 			"ypos"			"354"
 
-			"ypos_lodef"			"318"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2581,14 +2581,14 @@
 			"textAlignment"		"west"
 			"xpos"			"c+210"
 
-			"xpos_lodef"			"c+160"
+
 			"ypos"			"354"
 
-			"ypos_lodef"			"318"
+
 			"zpos"			"5"
 			"wide"			"200"
 
-			"wide_lodef"			"220"
+
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -2619,20 +2619,20 @@
 		"labelText"		"%tiptext%"
 		"textAlignment"			"west"
 
-		"textAlignment_lodef"		"north-west"
+
 		"xpos"			"c-245"
-		"xpos_lodef"			"c-180"
+
 
 		"ypos"			"405"
 
-		"ypos_lodef"			"362"
+
 		"zpos"			"12"
 		"wide"			"350"
 
-		"wide_lodef"		"360"
+
 		"tall"			"48"
 
-		"tall_lodef"	"60"
+
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -2706,17 +2706,17 @@
 		"bgcolor"			"TanDarker"
 		"paintbackground"	"1"
 		"tall"				"100"
-		"tall_lodef"				"60"
+
 		"center"			"1"
 		"buttonoffsety"		"20"
-		"buttonoffsety_lodef"		"5"
+
 		"button_separator"	"10"
-		"button_separator_lodef"	"2"
+
 		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+
 		"buttongap"			"50"
 		"textadjust"		"3"
-		"textadjust_lodef"		"0"
+
 		"zpos"				"6"
 		"fgcolor"			"HudOffWhite" 	
 		
@@ -2742,7 +2742,7 @@
 		"wide"			"f0"
 		"tall"			"128"
 		"image"			"menu_header"
-		"visible_lodef"	"0"
-		"enabled_lodef"	"0"
+
+
 	}
 }

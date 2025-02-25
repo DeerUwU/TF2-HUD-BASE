@@ -77,7 +77,7 @@
 		"ypos_minmode"	"3"		[$WIN32]
 		"ypos"			"67"	[$X360]
 
-		"ypos_lodef"	"85"
+
 		"wide"			"600"	[$WIN32]
 		"wide_minmode"	"300"
 		"wide"			"400"	[$X360]
@@ -141,15 +141,15 @@
 		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"c-85"
 
-		"xpos_lodef"	"40"
+
 		"ypos"			"68"
 
-		"ypos_lodef"	"30"	
+
 		"wide"			"170"
 
-		"wide_lodef"	"220"
+
 		"tall"			"15"
-		"tall_lodef"	"25"
+
 		"zpos"			"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -159,11 +159,11 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
-		"textAlignment_lodef"		"north-west"
+
 		"font"			"SpectatorKeyHints"
 
-		"font_lodef"	"HudFontSmall"
-		"wrap_lodef"			"1"
+
+
 	}
 	"SwitchCamModeKeyLabel"
 	{
@@ -298,16 +298,16 @@
 		"fieldName"		"TipLabel"
 		"xpos"			"15"
 
-		"xpos_lodef"	"45"
+
 		"ypos"			"r67"
-		"ypos_lodef"		"28"
+
 
 		"wide"			"145"
 
-		"wide_lodef"	"240"
+
 		"tall"			"64"
 
-		"tall_lodef"	"70"
+
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -318,7 +318,7 @@
 		"textAlignment"		"north-west"	[$X360]
 		"font"			"SpectatorKeyHints"
 
-		"font_lodef"	"DefaultVerySmall"
+
 		"wrap"			"1"
 	}
 	"itempanel"

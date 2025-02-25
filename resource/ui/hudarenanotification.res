@@ -48,7 +48,7 @@
 		"xpos"			"75"
 		"ypos"			"30"
 
-		"ypos_lodef"	"20"
+
 		"zpos"			"1"
 		"wide"			"230"	[$WIN32]
 		"wide"			"180"	[$X360]
@@ -70,7 +70,7 @@
 		"xpos"			"75"
 		"ypos"			"75"
 
-		"ypos_lodef"	"20"
+
 		"zpos"			"1"
 		"wide"			"230"	[$WIN32]
 		"wide"			"180"	[$X360]

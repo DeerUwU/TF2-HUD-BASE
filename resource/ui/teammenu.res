@@ -178,7 +178,7 @@
 		"xpos"			"r190"
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -201,10 +201,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuSelect"
 		"xpos"			"30"
-		"xpos_lodef"			"52"
+
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r60"
+
 
 		"zpos"			"6"
 		"wide"			"450"
@@ -212,7 +212,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"visible_lodef"		"0"
+
 		"enabled"		"1"
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"west"
@@ -228,10 +228,10 @@
 		"fieldName"		"TeamMenuAuto"
 		"xpos"			"c-280" [$WIN32] 
 		"xpos"			"c-276" [$X360]
-		"xpos_lodef"			"c-255"
+
 
 		"ypos"			"55"
-		"ypos_lodef"			"72"
+
 
 		"zpos"			"1"
 		"wide"			"102" [$WIN32] 
@@ -255,13 +255,13 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuSpectate"
 		"xpos"			"c-112"
-		"xpos_lodef"			"c-125"
+
 
 		"ypos"			"255"
-		"ypos_lodef"	"292"
+
 		"zpos"			"1"
 		"wide"			"44"
-		"wide_lodef"	"70"
+
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -273,7 +273,7 @@
 
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"
-		"font_lodef"	"MenuSmallFont"
+
 		"fgcolor"		"white"
 	}
 
@@ -301,7 +301,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 
-			"origin_x_lodef" "320"
+
 			"origin_y" "0"
 			"origin_z" "-34"
 		}
@@ -313,12 +313,12 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"0"
 		"ypos"			"r50"
-		"ypos_lodef"			"r74"
+
 
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
-		"tall_lodef"			"74"
+
 
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -335,9 +335,9 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueCount"
 		"xpos"			"c5"
-		"xpos_lodef"			"c8"
+
 		"ypos"			"53"
-		"ypos_lodef"			"72"
+
 
 		"zpos"			"1"
 		"wide"			"90"
@@ -359,9 +359,9 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedCount"
 		"xpos"			"c193"
-		"xpos_lodef"			"c176"
+
 		"ypos"			"53"
-		"ypos_lodef"			"72"
+
 
 		"zpos"			"1"
 		"wide"			"90"
@@ -401,7 +401,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-34"
@@ -474,7 +474,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-34"
@@ -547,7 +547,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-34"
@@ -596,7 +596,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-34"
@@ -629,19 +629,19 @@
 		"zpos"				"6"
 		"tall"				"80"
 		"button_separator"	"10"
-		"button_separator_lodef"	"5"
+
 		"buttongap"			"50"
 
-		"buttongap_lodef"			"18"
+
 		"textadjust"		"3"
-		"textadjust_lodef"		"0"
+
 		"buttonoffsety"		"20"
 
-		"buttonoffsety_lodef"		"18"
+
 		"center"			"0"
-		"button_pin_right_lodef"	"55"
+
 		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+
 		"fgcolor"			"HudOffWhite" 	
 		
 		"button"

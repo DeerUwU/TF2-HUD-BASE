@@ -186,7 +186,7 @@
 		"xpos"			"r190"
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -229,10 +229,10 @@
 		"fieldName"		"TeamMenuAuto"
 		"xpos"			"c-280" [$WIN32] 
 		"xpos"			"c-276" [$X360]
-		"xpos_lodef"			"c-255"
+
 
 		"ypos"			"55"
-		"ypos_lodef"			"72"
+
 
 		"zpos"			"1"
 		"wide"			"102" [$WIN32] 
@@ -256,13 +256,13 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuSpectate"
 		"xpos"			"c-112"
-		"xpos_lodef"			"c-125"
+
 
 		"ypos"			"255"
-		"ypos_lodef"	"292"
+
 		"zpos"			"1"
 		"wide"			"44"
-		"wide_lodef"	"70"
+
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -274,7 +274,7 @@
 
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"
-		"font_lodef"	"MenuSmallFont"
+
 		"fgcolor"		"white"
 	}
 
@@ -302,7 +302,7 @@
 			"angles_z" "0"
 			"origin_x" "290"
 
-			"origin_x_lodef" "320"
+
 			"origin_y" "0"
 			"origin_z" "-34"
 		}
@@ -316,12 +316,12 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"0"
 		"ypos"			"r50"
-		"ypos_lodef"			"r74"
+
 
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
-		"tall_lodef"			"74"
+
 
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -355,7 +355,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-34"
@@ -404,7 +404,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-34"

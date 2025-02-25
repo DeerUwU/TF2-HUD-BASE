@@ -52,7 +52,7 @@
 			"zpos"			"10"
 			"wide"			"100"
 			"tall"			"20"
-			"tall_lodef"	"24"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -72,7 +72,7 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -92,7 +92,7 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -139,7 +139,7 @@
 			"zpos"			"10"
 			"wide"			"100"
 			"tall"			"20"
-			"tall_lodef"	"24"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -159,7 +159,7 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -179,7 +179,7 @@
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"50"
-			"tall_lodef"	"80"
+
 
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -362,7 +362,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 150"
-		"fillcolor_lodef"		"0 0 0 200"
+
 		"PaintBackgroundType"	"0"
 	}
 	"TopPlayersLabel"

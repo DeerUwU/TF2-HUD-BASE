@@ -70,7 +70,7 @@
 		"ypos"			"50"
 		"ypos_minmode"	"3"
 
-		"ypos_lodef"	"85"
+
 		"wide"			"600"
 		"wide_minmode"	"300"
 		"tall"			"18"
@@ -234,16 +234,16 @@
 		"fieldName"		"TipLabel"
 		"xpos"			"15"
 
-		"xpos_lodef"	"45"
+
 		"ypos"			"r67"
-		"ypos_lodef"		"28"
+
 
 		"wide"			"145"
 
-		"wide_lodef"	"240"
+
 		"tall"			"64"
 
-		"tall_lodef"	"70"
+
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -254,7 +254,7 @@
 		"textAlignment"		"north-west"	[$X360]
 		"font"			"SpectatorKeyHints"
 
-		"font_lodef"	"DefaultVerySmall"
+
 		"wrap"			"1"
 	}
 	"itempanel"

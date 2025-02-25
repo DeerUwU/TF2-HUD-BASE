@@ -26,7 +26,7 @@
 
 			"ypos"			"223"
 
-			"ypos_lodef"		"193"
+
 			"zpos"			"4"
 			"wide"			"166"
 			"tall"			"38"
@@ -68,7 +68,7 @@
 				"xpos"			"44"
 				"ypos"			"10"
 
-				"ypos_lodef"		"13"
+
 				"zpos"			"6"
 				"wide"			"112"
 				"tall"			"18"
@@ -89,7 +89,7 @@
 
 			"ypos"			"245"
 
-			"ypos_lodef"		"215"
+
 			"zpos"			"0"
 			"wide"			"266"
 			"tall"			"48"
@@ -108,7 +108,7 @@
 
 			"ypos"			"255"
 
-			"ypos_lodef"		"225"
+
 			"zpos"			"1"
 			"wide"			"252"
 			"tall"			"9"
@@ -131,7 +131,7 @@
 
 			"ypos"			"266"
 
-			"ypos_lodef"		"236"
+
 			"zpos"			"1"
 			"wide"			"252"
 			"tall"			"18"
@@ -151,7 +151,7 @@
 
 			"ypos"			"253"
 
-			"ypos_lodef"		"223"
+
 			"zpos"			"1"
 			"wide"			"31"
 			"tall"			"31"

@@ -36,10 +36,10 @@
 		"ControlName"		"CExButton"
 		"fieldName"		"Skip"
 		"xpos"			"r190"
-		"xpos_lodef"			"r222"
+
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -63,10 +63,10 @@
 		"ControlName"		"CExButton"
 		"fieldName"		"Continue"
 		"xpos"			"r190"
-		"xpos_lodef"			"r222"
+
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -112,7 +112,7 @@
 		"xpos"			"40"
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -157,7 +157,7 @@
 		"xpos"			"40"
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r64"
+
 
 		"zpos"			"6"
 		"wide"			"150"
@@ -181,12 +181,12 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"0"
 		"ypos"			"r50"
-		"ypos_lodef"			"r74"
+
 
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
-		"tall_lodef"			"74"
+
 
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -238,7 +238,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
-			"origin_x_lodef" "320"
+
 
 			"origin_y" "0"
 			"origin_z" "-39"
@@ -293,14 +293,14 @@
 		"zpos"				"6"
 		"tall"				"80"
 		"button_separator"	"10"
-		"button_separator_lodef"	"5"
+
 		"buttongap"			"50"
 		"textadjust"		"3"
 		"buttonoffsety"		"20"
 
-		"buttonoffsety_lodef"		"18"
+
 		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+
 		"fgcolor"			"HudOffWhite" 	
 		
 		"button"

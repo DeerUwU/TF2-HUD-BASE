@@ -166,7 +166,7 @@
 		"tall"	"480"
 		"RightMargin" "0"
 
-		"RightMargin_lodef" "38"
+
 		"visible" "1"
 		"enabled" "1"
 		"SmallBoxWide" "72"
@@ -263,7 +263,7 @@
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
-		"priority_lodef"	"5"
+
 
 		if_vr
 		{
@@ -283,7 +283,7 @@
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
-		"priority_lodef" "35"
+
 		
 		"x_offset" "20"
 		"y_offset" "20"
@@ -331,10 +331,10 @@
 		"enabled"	"1"
 		"xpos"		"0"
 
-		"xpos_lodef"		"40"
+
 		"ypos"		"0"
 
-		"ypos_lodef"		"25"
+
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -913,13 +913,13 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-133"
-		"xpos_lodef"			"c-190"
+
 		"ypos"				"270"
-		"ypos_lodef"			"250"
+
 		"wide"					"266"
-		"wide_lodef"			"400"
+
 		"tall"					"120"
-		"tall_lodef"			"190"
+
 	}
 	
 	FreezePanel
@@ -1040,7 +1040,7 @@
 		"xpos"			"c-235"
 		"ypos"			"c-52"
 
-		"ypos_lodef"	"c-42"
+
 		"wide"			"470"
 		"tall"			"200"	[$WIN32]
 		"tall"			"180"	[$X360]
@@ -1069,7 +1069,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"65"
-		"ypos_lodef"			"75"
+
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -1082,7 +1082,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"15"
-		"ypos_lodef"			"75"
+
 		"wide"					"320"
 		"tall"					"300"
 	}
@@ -1095,7 +1095,7 @@
 		"xpos"					"c-160"
 		"ypos"					"75"
 
-		"ypos_lodef"			"90"
+
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -1108,7 +1108,7 @@
 		"xpos"					"c-160"
 		"ypos"					"75"
 
-		"ypos_lodef"				"90"
+
 		"wide"					"320"
 		"tall"					"150"
 	}
@@ -1132,7 +1132,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"65"
-		"ypos_lodef"				"75"
+
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -1143,7 +1143,7 @@
 		"enabled"				"1"
 		"xpos"					"c-125"
 		"ypos"					"5"
-		"ypos_lodef"				"75"
+
 		"zpos"					"2"
 		"wide"					"250"
 		"tall"					"80"
@@ -1156,7 +1156,7 @@
 		"enabled"				"1"
 		"xpos"					"c-90"
 		"ypos"					"-70"
-		"ypos_lodef"				"75"
+
 		"wide"					"180"
 		"tall"					"65"
 	}
@@ -1169,7 +1169,7 @@
 		"xpos"					"c-160"
 		"ypos"					"5"
 		"ypos_minmode"				"15"
-		"ypos_lodef"				"75"
+
 		"wide"					"125"
 		"tall"					"70"
 	}
@@ -1419,7 +1419,7 @@
 		"xpos"			"c-235"
 		"ypos"			"c-52"
 
-		"ypos_lodef"	"c-42"
+
 		"wide"			"470"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"

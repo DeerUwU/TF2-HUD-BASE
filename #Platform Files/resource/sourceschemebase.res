@@ -266,7 +266,7 @@ Scheme
 				"tall"		"14" [$LINUX]
 				"tall"		"11" [$OSX]
 				"tall"		 "10"
-				"tall_lodef" "15"
+
 
 				"weight"	 "0"
 				"outline"	 "1"
@@ -479,8 +479,8 @@ Scheme
 				"scaley"	"0.63"
 
 
-				"scalex_lodef"	"0.75"
-				"scaley_lodef"	"0.75"
+
+
 			}
 		}
 		"ConsoleText"
@@ -823,7 +823,7 @@ Scheme
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
 				"tall"		"35"
-				"tall_lodef"	"40"
+
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"

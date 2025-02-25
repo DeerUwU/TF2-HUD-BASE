@@ -132,20 +132,20 @@
 		"fieldName"		"BlueScore"
 		"xpos"			"c-130"
 		"ypos"			"r47"
-		"ypos_lodef"	"r88"
+
 
 		"zpos"			"8"
 		"wide"			"75"
 		"tall"			"35"
 
-		"tall_lodef"	"75"
+
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 
-		"font_lodef"	"HudFontGiant"
+
 		"fgcolor"		"TanLight"
 		
 		"if_hybrid"
@@ -175,20 +175,20 @@
 		"fieldName"		"BlueScoreShadow"
 		"xpos"			"c-128"
 		"ypos"			"r46"
-		"ypos_lodef"	"r87"
+
 
 		"zpos"			"7"
 		"wide"			"75"
 		"tall"			"35"
 
-		"tall_lodef"	"75"
+
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 
-		"font_lodef"	"HudFontGiant"
+
 		"fgcolor"		"Black"
 		
 		"if_hybrid"
@@ -218,20 +218,20 @@
 		"fieldName"		"RedScore"
 		"xpos"			"c57"
 		"ypos"			"r47"
-		"ypos_lodef"	"r88"
+
 
 		"zpos"			"8"
 		"wide"			"75"
 		"tall"			"35"
 
-		"tall_lodef"	"75"
+
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
 
-		"font_lodef"	"HudFontGiant"
+
 		"fgcolor"		"TanLight"		
 		
 		"if_hybrid"
@@ -261,20 +261,20 @@
 		"fieldName"		"RedScoreShadow"
 		"xpos"			"c59"
 		"ypos"			"r46"
-		"ypos_lodef"	"r87"
+
 
 		"zpos"			"7"
 		"wide"			"75"
 		"tall"			"35"
 
-		"tall_lodef"	"75"
+
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
 
-		"font_lodef"	"HudFontGiant"
+
 		"fgcolor"		"Black"		
 		
 		"if_hybrid"

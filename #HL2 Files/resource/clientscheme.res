@@ -113,13 +113,6 @@ Scheme
 		// if a font fails to load then the subsequent fonts will replace
 		Default
 		{
-			"1"	[$X360]
-			{
-				"name"		"Verdana"
-				"tall"		"12"
-				"weight"	"700"
-				"antialias" "1"
-			}
 			"1"	[$WIN32]
 			{
 				"name"		"Verdana"
@@ -331,15 +324,6 @@ Scheme
 		}
 		QuickInfo
 		{
-			"1"	[$X360]
-			{
-				"name"		"HL2cross"
-				"tall"		"57"
-				"weight"	"0"
-				"antialias" 	"1"
-				"additive"	"1"
-				"custom"	"1"
-			}
 			"1"	[$WIN32]
 			{
 				"name"		"HL2cross"
@@ -356,20 +340,7 @@ Scheme
 			"1"
 			{
 				"name"		"HalfLife2"
-				"tall"		"32"	[$WIN32]
-				"tall"		"38"	[$X360]
-				"weight"	"0"
-				"antialias" "1"
-				"additive"	"1"
-				"custom"	"1"
-			}
-		}
-		SquadIcon	[$X360]
-		{
-			"1"
-			{
-				"name"		"HalfLife2"
-				"tall"		"50"
+				"tall"		"32"
 				"weight"	"0"
 				"antialias" "1"
 				"additive"	"1"
@@ -381,8 +352,7 @@ Scheme
 			"1"
 			{
 				"name"		"HalfLife2"
-				"tall"		"32"	[$WIN32]
-				"tall"		"38"	[$X360]
+				"tall"		"32"
 				"weight"	"0"
 				"blur"		"4"
 				"scanlines" "2"
@@ -395,10 +365,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HalfLife2" [!$OSX]
-				"name"		"Helvetica Bold" [$OSX]
-				"tall"		"16"	[$WIN32]
-				"tall"		"22"	[$X360]
+				"name"		"HalfLife2"
+				"tall"		"16"
 				"weight"	"1000"
 				"additive"	"1"
 				"antialias" "1"
@@ -418,17 +386,9 @@ Scheme
 		}
 		HudHintTextLarge
 		{
-			"1"	[$X360]
+			"1"
 			{
-				"bitmap"	"1"
-				"name"		"Buttons"
-				"scalex"	"1.0"
-				"scaley"	"1.0"
-			}
-			"1"	[$WIN32]
-			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Helvetica Bold" [$OSX]
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"1000"
 				"antialias" "1"

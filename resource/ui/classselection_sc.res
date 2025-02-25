@@ -73,10 +73,10 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"random"
 		"xpos"				"c250"
-		"xpos_lodef"				"c217"
+
 
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -157,14 +157,14 @@
 		"fieldName"		"Offense"
 		"xpos"			"c-300"
 
-		"xpos_lodef"	"c-260"
+
 		"ypos"			"96"
 
-		"ypos_lodef"	"116"
+
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"12"
-		"tall_lodef"			"22"
+
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -173,9 +173,9 @@
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		"font_lodef"			"MenuMainTitle"
+
 		"fgcolor"		"TanDark"
-		"fgcolor_lodef"	"TanLight"
+
 	}
 	"scout"
 	{
@@ -183,9 +183,9 @@
 		"fieldName"			"scout"
 		"xpos"				"c-300"
 
-		"xpos_lodef"		"c-265"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -267,9 +267,9 @@
 		"fieldName"			"soldier"
 		"xpos"				"c-250"
 
-		"xpos_lodef"		"c-225"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -350,9 +350,9 @@
 		"fieldName"			"pyro"
 		"xpos"				"c-200"
 
-		"xpos_lodef"		"c-180"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -433,14 +433,14 @@
 		"fieldName"		"Defense"
 		"xpos"			"c-110"
 
-		"xpos_lodef"	"c-95"
+
 		"ypos"			"96"
 
-		"ypos_lodef"	"116"
+
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"12"
-		"tall_lodef"			"22"
+
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -449,18 +449,18 @@
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		"font_lodef"			"MenuMainTitle"
+
 		"fgcolor"		"TanDark"
-		"fgcolor_lodef"	"TanLight"
+
 	}
 	"demoman"
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"demoman"
 		"xpos"				"c-110"
-		"xpos_lodef"		"c-100"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -539,9 +539,9 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"heavyweapons"
 		"xpos"				"c-60"
-		"xpos_lodef"		"c-55"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -621,7 +621,7 @@
 		"fieldName"			"engineer"
 		"xpos"				"c-10"
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -701,14 +701,14 @@
 		"fieldName"		"Support"
 		"xpos"			"c76"
 
-		"xpos_lodef"	"c70"
+
 		"ypos"			"96"
 
-		"ypos_lodef"	"116"
+
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"12"
-		"tall_lodef"			"22"
+
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -717,9 +717,9 @@
 		"labelText"		"#TF_Support"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		"font_lodef"			"MenuMainTitle"
+
 		"fgcolor"		"TanDark"
-		"fgcolor_lodef"	"TanLight"
+
 	}
 	"medic"
 	{
@@ -727,9 +727,9 @@
 		"fieldName"			"medic"
 		"xpos"				"c78"
 
-		"xpos_lodef"		"c65"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -810,9 +810,9 @@
 		"fieldName"			"sniper"
 		"xpos"				"c128"
 
-		"xpos_lodef"		"c105"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -893,9 +893,9 @@
 		"fieldName"			"spy"
 		"xpos"				"c178"
 
-		"xpos_lodef"		"c145"
+
 		"ypos"				"-5"
-		"ypos_lodef"				"9"
+
 
 		"zpos"				"6"
 		"wide"				"50"
@@ -1076,10 +1076,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassMenuSelect"
 		"xpos"			"30"
-		"xpos_lodef"			"62"
+
 
 		"ypos"			"r40"
-		"ypos_lodef"			"r60"
+
 
 		"zpos"			"5"
 		"wide"			"450"
@@ -1087,7 +1087,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"visible_lodef"	"0"
+
 		"enabled"		"1"
 		"labelText"		"#TF_SelectAClass"
 		"textAlignment"	"west"
@@ -1118,7 +1118,7 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "365"
-			"origin_x_lodef" "415"
+
 
 			"origin_y" "0"
 			"origin_z" "-40"
@@ -1131,14 +1131,14 @@
 		"fieldName"		"Hint"
 		"xpos"			"c-300"
 
-		"xpos_lodef"	"c-260"
+
 		"ypos"			"95"
 
-		"ypos_lodef"	"115"
+
 		"zpos"			"2"
 		"wide"			"600"
 		"tall"			"50"
-		"tall_lodef"	"30"
+
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"0"
@@ -1148,9 +1148,9 @@
 		"textAlignment"	"left"
 		"wrap"			"1"
 		"font"			"HudFontMediumSmallSecondary"
-		"font_lodef"	"HudFontMediumSmallSecondary"
+
 		"fgcolor"		"HudTrainingHint"
-		"fgcolor_lodef"	"HudTrainingHint"
+
 	}
 	
 	"ShadedBar"
@@ -1159,12 +1159,12 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"0"
 		"ypos"			"r50"
-		"ypos_lodef"			"r74"
+
 
 		"zpos"			"4"
 		"wide"			"f0"
 		"tall"			"50"
-		"tall_lodef"			"74"
+
 
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -1183,19 +1183,19 @@
 		"zpos"				"6"
 		"tall"				"80"
 		"button_separator"	"10"
-		"button_separator_lodef"	"5"
+
 		"buttongap"			"50"
 
-		"buttongap_lodef"			"18"
+
 		"textadjust"		"3"
-		"textadjust_lodef"		"0"
+
 		"buttonoffsety"		"20"
 
-		"buttonoffsety_lodef"		"18"
+
 		"center"			"0"
-		"button_pin_right_lodef"	"55"
+
 		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+
 		"fgcolor"			"HudOffWhite" 	
 		
 		"button"

@@ -29,8 +29,8 @@
 		"tall"				"165"
 		"gap"				"4"
 
-		"wide_lodef_wide"	"145"
-		"gap_lodef_wide"	"6"
+
+
 
 
 
@@ -49,7 +49,7 @@
 		"wide"				"100"
 		"tall"				"75"
 		
-		"wide_lodef_wide"	"132"
+
 
 
 

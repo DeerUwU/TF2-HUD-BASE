@@ -477,7 +477,7 @@
 "MenuItem.res"
 {
 	"bottommargin"			"3"
-	"bottommargin_lodef"	"3"
+
 	"rightmargin"			"10"
 
 	"menuitemtext"
@@ -485,7 +485,7 @@
 		"ControlName"	"label"
 		"xpos"			"8"
 		"ypos"			"8"
-		"ypos_lodef"	"3"
+
 		"font"			"MatchmakingDialogMenuLarge"
 	}
 	
@@ -494,7 +494,7 @@
 		// This label should only be created in code, so don't set "ControlName"
 		"xpos"			"8"
 		"ypos"			"25"
-		"ypos_lodef"	"22"
+
 		"font"			"MatchmakingDialogMenuSmall"
 	}
 }
@@ -526,7 +526,7 @@
 		"xpos"			"45"
 		"ypos"			"3"
 
-		"font_lodef"	"AchievementTitleFont"
+
 	}
 	
 	"menuitemdesc"
@@ -543,7 +543,7 @@
 	{
 		"ControlName"	"label"
 		"ypos"			"13"
-		"ypos_lodef"	"10"
+
 		"font"			"AchievementTitleFont"
 	}
 	
@@ -565,13 +565,13 @@
 	{
 		"ControlName"	"imagepanel"
 
-		"xpos_lodef"	"435"
+
 		"ypos"			"6"
-		"ypos_lodef"	"6"
+
 		"wide"			"32"
 		"tall"			"32"
-		"wide_lodef"	"24"
-		"tall_lodef"	"24"
+
+
 		"bgcolor"		"0 0 0 255"
 		"fgcolor"		"0 0 0 255"
 		"scaleImage"	"1"
@@ -634,11 +634,11 @@
 		"ControlName"		"Label"
 		"fieldName"		"HelpText"
 
-		"xpos_lodef"	"270"
+
 		"ypos"		"7"
 		"zpos"	"1"
 		"wide"		"200"
-		"wide_lodef"		"160"
+
 		"tall"		"15"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -662,14 +662,14 @@
 {	
 	"AchievementsDialog"
 	{
-		"xpos_lodef"	"c-290"
-		"ypos_lodef"	"45"
-		"borderwidth"	"15"
-		"wide_lodef"	"580"
 
-		"tall_lodef"	"368"
+
+		"borderwidth"	"15"
+
+
+
 		"gametotal"		"100"
-		"center_lodef"	"0"
+
 		
 		"Footer"
 		{
@@ -692,9 +692,9 @@
 	"ProgressBg"
 	{
 
-		"xpos_lodef"	"215"
+
 		"ypos"			"50"
-		"ypos_lodef"	"40"
+
 		"wide"			"300"
 		"tall"			"10"
 	}
@@ -714,9 +714,9 @@
 
 	"uparrow"
 	{
-		"xpos_lodef"	"510"
 
-		"ypos_lodef"	"374"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -725,9 +725,9 @@
 
 	"downarrow"
 	{
-		"xpos_lodef"	"532"
 
-		"ypos_lodef"	"374"
+
+
 
 		"ControlName"	"Label"
 		"font"			"GameUIButtons"
@@ -738,12 +738,12 @@
 	{
 		"xpos"				"15"
 		"ypos"				"90"
-		"ypos_lodef"		"75"
+
  		"itemspacing"		"2"
 
-		"minwide_lodef"		"550"
 
-		"maxvisibleitems_lodef"	"4"
+
+
 
 		// Menu items are returned by a system query and created at runtime
 	}
@@ -766,7 +766,7 @@
 		"messagecolor"		"255 255 255 255"
 		"buttontextcolor"	"255 255 255 255"
 		"button_margin"		"15"
-		"button_margin_lodef"		"15"
+
 		"activity_indent"	"50"
 
 	}
@@ -855,9 +855,9 @@
 		"ControlName"	"AnimatingImagePanel"
 		"fieldName"		"AnimatingPanel"
 		"xpos"			"25"
-		"xpos_lodef"			"20"
+
 		"ypos"			"80"
-		"ypos_lodef"			"60"
+
 		"zpos"			"9"
 		"wide"			"40"
 		"tall"			"40"
