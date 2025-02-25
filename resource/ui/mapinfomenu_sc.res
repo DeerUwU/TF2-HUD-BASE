@@ -298,36 +298,4 @@
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
 	}	
-
-	"Footer" [$X360]
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
-
-		"buttongap"			"50"
-		"textadjust"		"3"
-		"buttonoffsety"		"20"
-
-
-		"fonttext"			"MatchmakingDialogMenuLarge"
-
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"intro"
-			"text"		"#TF_WatchIntro_360"
-			"icon"		"#GameUI_Icons_Y_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"continue"
-			"text"		"#TF_Continue_360"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}	
 }

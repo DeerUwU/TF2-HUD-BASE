@@ -113,7 +113,7 @@
 		"enabled"		"1"
 		"tabPosition"	"3"
 		"labelText"		""	[$WIN32]
-		"labelText"		""		[$X360]
+
 		"textAlignment"	"south-west"
 
 

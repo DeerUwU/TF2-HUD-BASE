@@ -109,10 +109,10 @@
 
 		"xpos"			"r260"	[$WIN32]
 		"ypos"			"16"	[$WIN32]
-		"xpos"			"r285"	[$X360]
-		"ypos"			"32"	[$X360]
+
+
 		"wide"			"240"	[$WIN32]
-		"wide"			"220"	[$X360]
+
 		"tall"			"20"
 
 		"autoResize"		"0"
@@ -205,7 +205,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
+
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_CycleTargetFwd"
 		"textAlignment"		"west"
@@ -251,7 +251,7 @@
 		"enabled"		"1"
 		"labelText"		"%tip%"
 		"textAlignment"		"center"	[$WIN32]
-		"textAlignment"		"north-west"	[$X360]
+
 		"font"			"SpectatorKeyHints"
 
 

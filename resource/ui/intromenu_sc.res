@@ -285,36 +285,4 @@
 		"fgcolor"		"White"
 		"wrap"			"1"
 	}
-	
-	"Footer" [$X360]
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
-
-		"buttongap"			"50"
-		"textadjust"		"3"
-		"buttonoffsety"		"20"
-
-
-		"fonttext"			"MatchmakingDialogMenuLarge"
-
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"intro"
-			"text"		"#GameUI_Back"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"continue"
-			"text"		"#Button_SkipIntro_360"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}	
 }

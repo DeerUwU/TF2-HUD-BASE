@@ -135,20 +135,13 @@ Scheme
 	{
 		"MainMenuFont"
 		{
-			"1"	[!$OSX]
+			"1"
 			{
 				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
-			}
-		}
-		"MenuLarge"
-		{
-			"1"	[$X360]
-			{
-
 			}
 		}
 

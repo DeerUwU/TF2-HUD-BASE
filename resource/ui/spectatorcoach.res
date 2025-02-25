@@ -170,7 +170,7 @@
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"	[$WIN32]
+		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		""
 		"textAlignment"		"east"
@@ -180,14 +180,13 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"r125"	[$WIN32]
-		"ypos"			"10"	[$WIN32]
-		"wide"			"125"	[$WIN32]
+		"xpos"			"r125"
+		"ypos"			"10"
+		"wide"			"125"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"	[$WIN32]
-		"visible"		"0"	[$X360]
+		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Coach_ControlView"
 		"textAlignment"		"west"

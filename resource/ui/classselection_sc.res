@@ -195,8 +195,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 1"
 		"Default"			"0"
@@ -279,8 +278,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 3"
 		"Default"			"0"
@@ -362,8 +360,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 7"
 		"Default"			"0"
@@ -470,8 +467,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 4"
 		"Default"			"0"
@@ -551,8 +547,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 6"
 		"Default"			"0"
@@ -631,8 +626,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 9"
 		"Default"			"0"
@@ -739,8 +733,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 5"
 		"Default"			"0"
@@ -822,8 +815,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 2"
 		"Default"			"0"
@@ -905,8 +897,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			""	[$WIN32]
-		"labelText"			""		[$X360]
+		"labelText"			""
 		"textAlignment"		"south-west"
 		"Command"			"select 8"
 		"Default"			"0"
@@ -1175,50 +1166,6 @@
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
 	}		
-	
-	"Footer" [$X360]
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
-
-		"buttongap"			"50"
-
-
-		"textadjust"		"3"
-
-		"buttonoffsety"		"20"
-
-
-		"center"			"0"
-
-		"fonttext"			"MatchmakingDialogMenuLarge"
-
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"cancel"
-			"text"		"#GameUI_Cancel"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"nextprev"
-			"text"		"#TF_NextPrev"
-			"icon"		"#GameUI_Icons_DPAD"	
-		}				
-		
-		"button"
-		{
-			"name"		"select"
-			"text"		"#GameUI_Select"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}
 	
 	"localPlayerImage" [$WIN32]
 	{

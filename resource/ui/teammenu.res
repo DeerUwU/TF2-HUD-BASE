@@ -78,7 +78,7 @@
 		"enabled"		"1"
 		"tabPosition"	"3"
 		"labelText"		"&3"	[$WIN32]
-		"labelText"		""		[$X360]
+
 		"textAlignment"	"south-west"
 
 
@@ -106,7 +106,7 @@
 		"enabled"		"1"
 		"tabPosition"	"4"
 		"labelText"		"&4"	[$WIN32]
-		"labelText"		""		[$X360]
+
 		"textAlignment"	"south-west"
 
 
@@ -134,7 +134,7 @@
 		"enabled"		"1"
 		"tabPosition"	"1"
 		"labelText"		"&1"	[$WIN32]
-		"labelText"		""		[$X360]
+
 		"textAlignment"	"south-west"
 
 
@@ -160,7 +160,7 @@
 		"enabled"		"1"
 		"tabPosition"	"2"
 		"labelText"		"&2"	[$WIN32]
-		"labelText"		""		[$X360]
+
 		"textAlignment"	"south-west"
 
 
@@ -227,7 +227,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
 		"xpos"			"c-280" [$WIN32] 
-		"xpos"			"c-276" [$X360]
+
 
 
 		"ypos"			"55"
@@ -235,7 +235,7 @@
 
 		"zpos"			"1"
 		"wide"			"102" [$WIN32] 
-		"wide"			"94" [$X360]
+
 		"tall"			"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -621,52 +621,8 @@
 			}
 		}
 	}			
-	
-	"Footer" [$X360]
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
 
-		"buttongap"			"50"
-
-
-		"textadjust"		"3"
-
-		"buttonoffsety"		"20"
-
-
-		"center"			"0"
-
-		"fonttext"			"MatchmakingDialogMenuLarge"
-
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"cancel"
-			"text"		"#GameUI_Cancel"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"nextprev"
-			"text"		"#TF_NextPrev"
-			"icon"		"#GameUI_Icons_DPAD"	
-		}
-		
-		"button"
-		{
-			"name"		"select"
-			"text"		"#GameUI_Select"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}	
-	
-	"HighlanderLabel" [$WIN32] 
+	"HighlanderLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HighlanderLabel"
@@ -688,7 +644,7 @@
 		"centerwrap"	"1"
 	}
 	
-	"HighlanderLabelShadow" [$WIN32] 
+	"HighlanderLabelShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HighlanderLabelShadow"
@@ -710,7 +666,7 @@
 		"centerwrap"	"1"
 	}
 	
-	"TeamsFullLabel" [$WIN32] 
+	"TeamsFullLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamsFullLabel"
@@ -732,7 +688,7 @@
 		"centerwrap"	"1"
 	}
 	
-	"TeamsFullLabelShadow" [$WIN32] 
+	"TeamsFullLabelShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamsFullLabelShadow"
@@ -754,7 +710,7 @@
 		"centerwrap"	"1"
 	}
 
-	"TeamsFullArrow" [$WIN32]
+	"TeamsFullArrow"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamsFullArrow"

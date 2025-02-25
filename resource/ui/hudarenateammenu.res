@@ -64,7 +64,7 @@
 	}
 	"teambutton2"
 	{
-		"ControlName"		"CTFTeamButton"
+		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton2"
 		"xpos"			"c-290"
 		"ypos"			"101"
@@ -76,10 +76,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"1"
-		"labelText"		"&1"	[$WIN32]
-		"labelText"		""		[$X360]
+		"labelText"		"&1"
 		"textAlignment"	"south-west"
-
 
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
@@ -90,7 +88,7 @@
 	
 	"teambutton3"
 	{
-		"ControlName"		"CTFTeamButton"
+		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton3"
 		"xpos"			"c-140"
 		"ypos"			"232"
@@ -102,8 +100,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"2"
-		"labelText"		"&2"	[$WIN32]
-		"labelText"		""		[$X360]
+		"labelText"		"&2"
 		"textAlignment"	"south-west"
 
 
@@ -143,16 +140,14 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
-		"xpos"			"c-280" [$WIN32] 
-		"xpos"			"c-276" [$X360]
+		"xpos"			"c-280"
 
 
 		"ypos"			"55"
 
 
 		"zpos"			"1"
-		"wide"			"102" [$WIN32] 
-		"wide"			"94" [$X360]
+		"wide"			"102"
 		"tall"			"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -345,49 +340,5 @@
 			}
 		}
 	}			
-	
-	"Footer" [$X360]
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
-
-		"buttongap"			"50"
-
-
-		"textadjust"		"3"
-
-		"buttonoffsety"		"20"
-
-
-		"center"			"0"
-
-		"fonttext"			"MatchmakingDialogMenuLarge"
-
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"cancel"
-			"text"		"#GameUI_Cancel"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"nextprev"
-			"text"		"#TF_NextPrev"
-			"icon"		"#GameUI_Icons_DPAD"	
-		}
-		
-		"button"
-		{
-			"name"		"select"
-			"text"		"#GameUI_Select"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}	
 }
 

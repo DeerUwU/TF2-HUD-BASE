@@ -227,16 +227,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
-		"xpos"			"c-280" [$WIN32] 
-		"xpos"			"c-276" [$X360]
-
+		"xpos"			"c-280"
 
 		"ypos"			"55"
 
-
 		"zpos"			"1"
-		"wide"			"102" [$WIN32] 
-		"wide"			"94" [$X360]
+		"wide"			"102"
 		"tall"			"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
