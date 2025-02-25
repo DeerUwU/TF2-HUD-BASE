@@ -51,8 +51,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#Button_SkipIntro"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
@@ -78,8 +78,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_Continue"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"command"		"skip"
 		"font"			"MenuSmallFont"
@@ -99,8 +99,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -123,8 +123,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"back"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -144,8 +144,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 	}
@@ -168,8 +168,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_ReplayIntro"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"replayVideo"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -279,8 +279,8 @@
 		"enabled"		"1"
 		"labelText"		" "
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"font"			"IntroMenuCaption"
 		"fgcolor"		"White"
 		"wrap"			"1"

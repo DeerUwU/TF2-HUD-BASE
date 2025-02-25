@@ -31,8 +31,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#Friends_SearchingForFriend"
 		"textAlignment"		"north-west"
-		"dulltext"		"1"
-		"brighttext"		"0"
+
+
 		"wrap"		"1"
 	}
 }

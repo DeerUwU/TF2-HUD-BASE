@@ -81,8 +81,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox1"
@@ -101,8 +101,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox2"
@@ -121,8 +121,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox3"
@@ -141,8 +141,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox4"
@@ -161,8 +161,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox5"
@@ -181,8 +181,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox6"
@@ -201,8 +201,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox7"
@@ -221,8 +221,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox8"
@@ -241,8 +241,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"ClassCheckBox9"
@@ -261,8 +261,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
 	}
@@ -350,8 +350,8 @@
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_test0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -374,8 +374,8 @@
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_remove0"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -434,8 +434,8 @@
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_test1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -458,8 +458,8 @@
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_remove1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -518,8 +518,8 @@
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_test2"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -542,8 +542,8 @@
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_remove2"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -602,8 +602,8 @@
 			"labelText"		"#IT_Item_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_test3"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -626,8 +626,8 @@
 			"labelText"		"#IT_Item_Remove"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"item_remove3"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -681,8 +681,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
 		
@@ -702,8 +702,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		
@@ -724,8 +724,8 @@
 			"labelText"		"#IT_Bot_Add"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"bot_add"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -779,8 +779,8 @@
 			"labelText"		"#IT_Bot_RemoveAll"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"bot_removeall"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -817,8 +817,8 @@
 		"labelText"		"#IT_ExportLoadout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"export"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -841,8 +841,8 @@
 		"labelText"		"#IT_ImportLoadout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"import"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -865,8 +865,8 @@
 		"labelText"		"#IT_ImportLast"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"importrecent"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -890,8 +890,8 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -914,8 +914,8 @@
 		"labelText"		"#IT_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -951,8 +951,8 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"command"		"steamworkshop"
 			"labeltext"			"#MMenu_SteamWorkshop"
@@ -998,8 +998,8 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

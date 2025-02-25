@@ -157,8 +157,8 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"PlayerUpgrade"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -416,8 +416,8 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"quick_equip_bottle"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -441,8 +441,8 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"open_charinfo_direct"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -610,8 +610,8 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -635,8 +635,8 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -660,8 +660,8 @@
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"1"
+
+
 			"Command"		"respec"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -741,8 +741,8 @@
 			"tabPosition"	"0"
 			"labelText"		" > "
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"nexttip"
 		}
 	}	

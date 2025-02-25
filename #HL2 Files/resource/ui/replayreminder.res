@@ -55,8 +55,8 @@
 			"enabled"		"1"
 			"labelText"		"%text%"
 			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 		}
 	}	
 }

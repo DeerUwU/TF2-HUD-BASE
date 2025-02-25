@@ -15,8 +15,8 @@
 		"tabPosition"	"0"
 		"labelText"		"Skin Name"
 		"textAlignment"	"west"
-		"dulltext"		"1"
-		"brighttext"	"0"
+
+
 	}
 
 	"SkinName"
@@ -55,8 +55,8 @@
 		"tabPosition"	"0"
 		"labelText"		"Scale"
 		"textAlignment"	"west"
-		"dulltext"		"1"
-		"brighttext"	"0"
+
+
 	}
 
 	"Scale"
@@ -96,8 +96,8 @@
 		"tabPosition"	"1"
 		"labelText"		"Flip Triangles"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"Default"		"0"
 	}
 }

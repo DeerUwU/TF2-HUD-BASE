@@ -62,8 +62,8 @@
 		"enabled"		"1"
 		"labelText"		"Message Title"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 	}
 	
 	"ok"
@@ -80,8 +80,8 @@
 		"enabled"		"1"
 		"labelText"		"#PropertyDialog_OK"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"command"		"okay"
 		"Default"		"1"
 	}

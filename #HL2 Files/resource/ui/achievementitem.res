@@ -103,8 +103,8 @@
 		"tabPosition"		"0"
 		"labelText"		"0%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"			"AchievementItemDescription"
 	}
@@ -123,8 +123,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_Achievement_Show_HUD"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"			"AchievementItemDescription"
 	}

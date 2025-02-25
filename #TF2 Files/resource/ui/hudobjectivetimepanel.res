@@ -78,8 +78,8 @@
 		"enabled"		"1"
 		"labelText"		"#game_WaitingForPlayers"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"			"0"
 		"font"			"ClockSubTextTiny"
 		"font_hidef"	"HudFontSmall"
@@ -142,8 +142,8 @@
 		"enabled"		"1"
 		"labelText"		"#game_Overtime"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		"font_hidef"	"HudFontSmall"
@@ -206,8 +206,8 @@
 		"enabled"		"1"
 		"labelText"		"#game_SuddenDeath"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"			"0"
 		"font"			"ClockSubTextSuddenDeath"
 		"font_hidef"	"HudFontSmall"
@@ -270,8 +270,8 @@
 		"enabled"		"1"
 		"labelText"		"#game_Setup"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		"font_minmode"	"ClockSubTextSuddenDeath"
@@ -335,8 +335,8 @@
 		"enabled"		"1"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		"font_minmode"	"ClockSubTextSuddenDeath"

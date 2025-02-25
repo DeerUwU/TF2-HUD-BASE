@@ -112,8 +112,8 @@
 			"labelText"		"#TF_MvM_MannUp"
 			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"mannup"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
@@ -233,8 +233,8 @@
 			"labelText"		"#TF_MvM_BootCamp"
 			"font"			"HudFontMediumSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"bootcamp"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"

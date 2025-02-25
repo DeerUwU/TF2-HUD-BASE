@@ -144,8 +144,8 @@
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_SndMuteLoseFocus"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"6"
@@ -172,8 +172,8 @@
 		"tabPosition"		"8"
 		"labelText"		"#GameUI_ThirdPartyTechCredits"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"auto_wide_tocontents"		"0"
@@ -199,8 +199,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GAMEUI_AudioSpokenLanguage"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"
@@ -225,8 +225,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GAMEUI_RequiresRestart"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"
@@ -252,8 +252,8 @@
 		"labelText"		"#GameUI_SoundEffectVolume"
 		"textAlignment"		"west"
 		"associate"		"SFXSlider"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"
@@ -279,8 +279,8 @@
 		"labelText"		"#GameUI_MusicVolume"
 		"textAlignment"		"west"
 		"associate"		"MusicSlider"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"
@@ -306,8 +306,8 @@
 		"labelText"		"#GameUI_SoundQuality"
 		"textAlignment"		"west"
 		"associate"		"SoundQuality"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"
@@ -333,8 +333,8 @@
 		"labelText"		"#GameUI_SpeakerConfiguration"
 		"textAlignment"		"west"
 		"associate"		"SpeakerSetup"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"
@@ -359,8 +359,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_TestSpeakerSettingsWarning"
 		"textAlignment"		"north-west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"Font"		"DefaultSmall"
 		"wrap"		"1"
 		"centerwrap"		"0"
@@ -386,8 +386,8 @@
 		"tabPosition"		"5"
 		"labelText"		"#GameUI_TestSpeakerSettings"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"6"
@@ -416,8 +416,8 @@
 		"labelText"		"#GameUI_Captioning"
 		"textAlignment"		"west"
 		"associate"		"CloseCaptionCheck"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"centerwrap"		"0"
 		"textinsetx"		"0"

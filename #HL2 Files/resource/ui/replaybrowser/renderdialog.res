@@ -71,8 +71,8 @@
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -100,8 +100,8 @@
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"render"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -126,8 +126,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -146,8 +146,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
@@ -170,8 +170,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 
@@ -192,8 +192,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 
@@ -227,8 +227,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -247,8 +247,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
@@ -269,8 +269,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -289,8 +289,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 		"fgcolor_override"	"236 227 203 255"
 		"editable"		"0"
@@ -311,8 +311,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -348,8 +348,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -387,8 +387,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 
@@ -407,8 +407,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	"EstimateFileLabel"
@@ -426,8 +426,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -510,8 +510,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -532,8 +532,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}
 	
@@ -554,8 +554,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"tabPosition"	"10"
 	}	
 	

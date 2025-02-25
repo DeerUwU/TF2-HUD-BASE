@@ -35,7 +35,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"		
 		"textAlignment"		"center"
-		"dulltext"			"0"
+
 		"paintBackground" 	"0"
 		"labelText"			"*"
 	}

@@ -60,8 +60,8 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"Close"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -84,8 +84,8 @@
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"Ok"
 		"sound_depressed"	"UI/buttonclick.wav"

@@ -29,8 +29,8 @@
 		"enabled"		"1"
 		"labelText"		"#Valve_Join_Class"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"1"
+
+
 	}
 
 	"classInfoLabel"
@@ -47,8 +47,8 @@
 		"enabled"		"1"
 		"labelText"		"#Valve_Class_Info"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"1"
+
+
 	}
 
 	"ClassInfo"
@@ -81,8 +81,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#Cstrike_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"Command"		"vguicancel"
 	}
 }

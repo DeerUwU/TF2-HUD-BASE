@@ -136,8 +136,8 @@
 		"labelText"		"%prevbuttontext%"
 		"font"			"ItemFontNameSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"show_prev"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -164,8 +164,8 @@
 		"labelText"		"%nextbuttontext%"
 		"font"			"ItemFontNameSmall"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"show_next"
 		"sound_depressed"	"UI/buttonclick.wav"

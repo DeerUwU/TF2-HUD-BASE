@@ -161,8 +161,8 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_StartSearch"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"Command"		"search"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -185,8 +185,8 @@
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"labelText"		"#TF_Matchmaking_CancelSearch"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"Command"		"stopsearch"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

@@ -29,8 +29,8 @@
 		"tabPosition"		"0"
 		"labelText"		"main text"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 	}
 	"ColorOneBtn"
 	{
@@ -47,8 +47,8 @@
 		"tabPosition"		"0"
 		"labelText"		"Color One"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"Default"		"0"
 	}
 	"ColorTwoBtn"
@@ -66,8 +66,8 @@
 		"tabPosition"		"0"
 		"labelText"		"Color Two"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"Default"		"0"
 	}
 	"AbortBtn"
@@ -85,8 +85,8 @@
 		"tabPosition"		"0"
 		"labelText"		"Abort"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"Default"		"0"
 	}
 }

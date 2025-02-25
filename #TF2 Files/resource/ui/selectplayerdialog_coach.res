@@ -37,8 +37,8 @@
 				"textAlignment"	"west"
 				"textinsetx"	"34"
 				"use_proportional_insets" "1"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -153,8 +153,8 @@
 			"labelText"		"#TF_SelectPlayer_SelectFriends"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"friends"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -177,8 +177,8 @@
 			"labelText"		"#TF_FindCoachDialog_Match"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"performmatchmaking"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -254,8 +254,8 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"

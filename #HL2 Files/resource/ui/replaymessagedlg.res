@@ -103,8 +103,8 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"tabPosition"	"10"
 		}
 		
@@ -125,8 +125,8 @@
 			"font"			"ReplayMediumSmall"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"labelText"		"#GameUI_OK"
 			"Command"		"close"
 			"sound_depressed"	"UI/buttonclick.wav"

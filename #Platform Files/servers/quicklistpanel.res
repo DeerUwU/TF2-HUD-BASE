@@ -67,8 +67,8 @@
 		"enabled"		"1"
 		"labelText"		"MAPNAME"
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 
 	"gametype"
@@ -87,8 +87,8 @@
 		"enabled"		"1"
 		"labelText"		"(capture the flag)"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"pin_to_sibling"	"mapname"
  		"pin_corner_to_sibling"	"0"
  		"pin_to_sibling_corner"	"3"
@@ -110,8 +110,8 @@
 		"enabled"		"1"
 		"labelText"		"Yo wats up"
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		//"fgcolor_override"	"185 185 188 255"
 	}
 
@@ -149,8 +149,8 @@
 		"enabled"		"1"
 		"labelText"		"54 ms"
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 	}
 	
 	"playercount"
@@ -169,8 +169,8 @@
 		"enabled"		"1"
 		"labelText"		"15/24 players"
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		//"fgcolor_override"	"185 185 188 255"
 	}
 	
@@ -189,8 +189,8 @@
 		"enabled"		"1"
 		"labelText"		"50 other servers"
 		"textAlignment"		"east"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		//"fgcolor_override"	"185 185 188 255"
 	}
 	

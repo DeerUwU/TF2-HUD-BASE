@@ -67,8 +67,8 @@
 					"tabPosition"	"0"
 					"labelText"		"Enter Description:"
 					"textAlignment"	"west"
-					"dulltext"		"1"
-					"brighttext"	"0"
+
+
 				}
 				
 				"Description"
@@ -91,8 +91,8 @@
 					"tabPosition"	"1"
 					"labelText"		""
 					"textAlignment"	"west"
-					"dulltext"		"1"
-					"brighttext"	"0"
+
+
 				}						
 			}
 		}
@@ -112,8 +112,8 @@
 			"tabPosition"		"2"
 			"labelText"		"Yes"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"Default"		"1"
 		}
 
@@ -132,8 +132,8 @@
 			"tabPosition"		"2"
 			"labelText"		"No"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"Default"		"1"
 		}
 	}

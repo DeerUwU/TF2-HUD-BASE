@@ -59,8 +59,8 @@
 		"enabled"		"0"
 		"labelText"		""
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"1"
+
+
 	}
 	"teambutton2"
 	{
@@ -79,8 +79,8 @@
 		"labelText"		"&1"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
 		"associated_model"	"autodoor"
@@ -105,8 +105,8 @@
 		"labelText"		"&2"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"	"south-west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"paintborder"	"0"
 		"command"		"jointeam spectatearena"
 		"associated_model"	"spectate"	
@@ -133,8 +133,8 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_Cancel"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"cancelmenu"
 		"font"			"MenuSmallFont"
 	}
@@ -160,8 +160,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Arena_Menu_Fight"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"wrap"			"0"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"black"
@@ -186,8 +186,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"north"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"wrap"			"0"
 		"font"			"MenuSmallestFont"
 		"font_lodef"	"MenuSmallFont"

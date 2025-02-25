@@ -70,8 +70,8 @@
 		"labelText"		"#Replay_ExportMovie"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"exportmovie"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -92,8 +92,8 @@
 		"labelText"		""
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"showrenderinfo"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -133,8 +133,8 @@
 		"labelText"		"#Replay_YouTubeUpload"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"youtubeupload"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -155,8 +155,8 @@
 		"labelText"		"#Replay_YouTubeView"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"viewyoutube"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -177,8 +177,8 @@
 		"labelText"		"#Replay_YouTubeShareURL"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"shareyoutubeurl"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -200,8 +200,8 @@
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"delete_replayitem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -228,8 +228,8 @@
 		"labelText"		"#Replay_Watch"
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"play"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -255,8 +255,8 @@
 		"font"			"ReplayMedium"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"render_replay_dlg"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

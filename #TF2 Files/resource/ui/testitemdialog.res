@@ -87,8 +87,8 @@
 		"labelText"		"#IT_SelectModel"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"select_model"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -297,8 +297,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox1"
@@ -317,8 +317,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox2"
@@ -337,8 +337,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox3"
@@ -357,8 +357,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox4"
@@ -377,8 +377,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox5"
@@ -397,8 +397,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox6"
@@ -417,8 +417,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 		"HideBodygroupCheckBox7"
@@ -437,8 +437,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
 	}
@@ -566,8 +566,8 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -590,8 +590,8 @@
 		"labelText"		"#GameUI_Ok"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -616,8 +616,8 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

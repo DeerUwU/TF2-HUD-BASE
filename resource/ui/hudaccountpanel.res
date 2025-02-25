@@ -67,8 +67,8 @@
 		"tabPosition"	"0"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"font"			"HudFontMediumSmall"
 		"font_lodef"	"HudFontMedium"
 	}

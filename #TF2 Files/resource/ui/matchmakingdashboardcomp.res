@@ -49,8 +49,8 @@
 		"labelText"		"?"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"0"
 		"Command"		"show_explanations"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -121,8 +121,8 @@
 		"tabPosition"	"0"
 		"font"			"HudFontMediumSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_StartSearch"

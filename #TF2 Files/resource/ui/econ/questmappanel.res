@@ -191,8 +191,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -240,8 +240,8 @@
 				"tabPosition"	"0"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"labeltext"		""
 				"sound_depressed"	"ui/cyoa_switch.wav"
@@ -324,8 +324,8 @@
 				"tabPosition"	"0"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"labeltext"		""
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -389,8 +389,8 @@
 				"tabPosition"	"0"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"labeltext"		""
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -438,8 +438,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -738,8 +738,8 @@
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"west"
-							"dulltext"		"0"
-							"brighttext"	"0"
+
+
 							"default"		"1"
 							"command"		"endintro"
 							"proportionaltoparent" "1"
@@ -1371,8 +1371,8 @@
 						"labeltext"		"#TF_QuestMap_RewardStore_Title"
 						"font"			"QuestLargeText"
 						"textAlignment"	"center"
-						"dulltext"		"0"
-						"brighttext"	"0"
+
+
 						"default"		"0"
 						"proportionaltoparent" "1"
 						"paintbackground"	"0"
@@ -1395,8 +1395,8 @@
 						"labeltext"		"#TF_QuestMap_RewardStore_Desc"
 						"font"			"QuestMap_Small"
 						"textAlignment"	"center"
-						"dulltext"		"0"
-						"brighttext"	"0"
+
+
 						"default"		"0"
 						"proportionaltoparent" "1"
 						"paintbackground"	"0"

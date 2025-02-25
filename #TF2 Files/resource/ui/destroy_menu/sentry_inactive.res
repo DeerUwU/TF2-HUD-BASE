@@ -17,8 +17,8 @@
 		"labelText"		"#TF_Object_Sentry"
 		"labelText_lodef"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"ItemBackground"	
@@ -53,8 +53,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_NotBuilt"
 		"textAlignment"	"Center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 
 	"UnavailableLabel"
@@ -73,8 +73,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Unavailable"
 		"textAlignment"	"Center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}		
 			
 	"NumberBg"	
@@ -110,7 +110,7 @@
 		"enabled"		"1"
 		"labelText"		"1"
 		"textAlignment"	"Center"
-		"dulltext"		"1"
-		"brighttext"	"0"
+
+
 	}
 }

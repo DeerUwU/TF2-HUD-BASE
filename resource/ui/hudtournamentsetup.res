@@ -118,8 +118,8 @@
 		"enabled"		"1"
 		"labelText"		"Not Ready"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"teamnotready"
 		"default"		"1"
 		"font"			"HudFontSmallestBold"
@@ -141,8 +141,8 @@
 		"enabled"		"1"
 		"labelText"		"Ready"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"teamready" 
 		"default"		"1"
 		"font"			"HudFontSmallestBold"

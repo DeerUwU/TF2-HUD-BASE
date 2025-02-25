@@ -99,8 +99,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -211,8 +211,8 @@
 					"use_proportional_insets" "1"
 					"font"			"HudFontSmall"
 					"textAlignment"	"south-east"
-					"dulltext"		"0"
-					"brighttext"	"0"
+
+
 					"default"		"1"
 					"labelText"			"#MMenu_ViewUpdateComic" 
 					"command"		"view_update_comic"
@@ -248,8 +248,8 @@
 					"use_proportional_insets" "1"
 					"font"			"HudFontSmall"
 					"textAlignment"	"center"
-					"dulltext"		"0"
-					"brighttext"	"0"
+
+
 					"default"		"1"
 					"labelText"			"%end_date%" 
 					
@@ -687,8 +687,8 @@
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
-							"brighttext"	"0"
+
+
 							"default"		"1"
 							"labelText"			"#Voice_Menu_Yes" 
 							"command"		"confirm_team"
@@ -727,8 +727,8 @@
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
-							"brighttext"	"0"
+
+
 							"default"		"1"
 							"labelText"			"#Store_CANCEL" 
 							"command"		"dismiss_joining_result"
@@ -841,8 +841,8 @@
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
-							"brighttext"	"0"
+
+
 							"default"		"1"
 							"labelText"			"#TF_OK" 
 							"command"		"dismiss_joining_result"
@@ -928,8 +928,8 @@
 							"use_proportional_insets" "1"
 							"font"			"HudFontSmallBold"
 							"textAlignment"	"center"
-							"dulltext"		"0"
-							"brighttext"	"0"
+
+
 							"default"		"1"
 							"labelText"			"#TF_OK" 
 							"command"		"dismiss_joining_result"
@@ -1029,8 +1029,8 @@
 						"use_proportional_insets" "1"
 						"font"			"HudFontSmallBold"
 						"textAlignment"	"center"
-						"dulltext"		"0"
-						"brighttext"	"0"
+
+
 						"default"		"1"
 						"labelText"			"#JoinHeavyButton" 
 						"command"		"join_war0"
@@ -1081,8 +1081,8 @@
 						"use_proportional_insets" "1"
 						"font"			"HudFontSmallBold"
 						"textAlignment"	"center"
-						"dulltext"		"0"
-						"brighttext"	"0"
+
+
 						"default"		"1"
 						"labelText"			"#JoinPyroButton" 
 						"command"		"join_war1"

@@ -64,8 +64,8 @@
 		"enabled"		"1"
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"TitleLabelDropshadow"
@@ -85,8 +85,8 @@
 		"enabled"		"1"
 		"labelText"		"Engineering"
 		"textAlignment"	"Left"
-		"dulltext"		"1"
-		"brighttext"	"0"
+
+
 	}
 		
 	"active_item_1"
@@ -265,8 +265,8 @@
 		"enabled"		"1"
 		"labelText"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"BuildHintLabel_Bright"
@@ -285,8 +285,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"BuildHintLabel_Dim"
@@ -306,8 +306,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Build"
 		"textAlignment"	"Left"
-		"dulltext"		"1"
-		"brighttext"	"0"
+
+
 	}
 	
 	"DestroyHintIcon"
@@ -326,8 +326,8 @@
 		"enabled"		"1"
 		"labelText"		"0"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"DestroyHintLabel_Bright"
@@ -346,8 +346,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"DestroyHintLabel_Dim"
@@ -367,8 +367,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Action_Demolish"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"CancelHintIcon"
@@ -387,8 +387,8 @@
 		"enabled"		"1"
 		"labelText"		"B"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"CancelHintLabel"
@@ -407,8 +407,8 @@
 		"enabled"		"1"
 		"labelText"		"#Cancel"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	"ButtonLegendBG"
 	{

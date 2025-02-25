@@ -119,8 +119,8 @@
 				"labelText"		"?"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"1"
 				"Command"		"more_info"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -294,8 +294,8 @@
 				"labelText"		"<"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"Command"		"prevpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -318,8 +318,8 @@
 				"labelText"		">"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"Command"		"nextpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -723,8 +723,8 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"playnow"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -756,8 +756,8 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"show_servers"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -790,8 +790,8 @@
 			"textAlignment"	"west"
 			"textinsetx"	"35"
 			"use_proportional_insets" "1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"ToggleShowOptions"
 
@@ -851,8 +851,8 @@
 			"labelText"		"?"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"Command"		"explain_beta"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -881,8 +881,8 @@
 			"pinCorner"				"0"
 			"visible"				"1"
 			"enabled"				"1"
-			"dulltext"				"0"
-			"brighttext"			"0"
+
+
 			"proportionaltoparent"	"1"
 		}
 
@@ -905,8 +905,8 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -991,8 +991,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"0"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

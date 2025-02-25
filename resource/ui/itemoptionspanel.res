@@ -35,8 +35,8 @@
 			"tabPosition"		"0"
 			"labelText"		"#GameUI_ParticleHatUseHead"
 			"textAlignment"		"west"
-			"dulltext"		"0"
-			"brighttext"		"1"
+
+
 			"wrap"		"0"
 			"centerwrap"		"0"
 			"textinsetx"		"6"
@@ -79,8 +79,8 @@
 			"labelText"		"#TF_Item_SelectStyle"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

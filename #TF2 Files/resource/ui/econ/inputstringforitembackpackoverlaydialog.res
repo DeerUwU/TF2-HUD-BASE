@@ -260,8 +260,8 @@
 		"labelText"		"#ShuffleContents"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"tabPosition"	"0"
 		"Command"		"shuffle"
@@ -287,8 +287,8 @@
 		"labelText"		"#TF_VR_Close"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"0"
 		"Command"		"cancel"
 		"tabPosition"	"1"
@@ -314,8 +314,8 @@
 		"labelText"		"#GetKey"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"0"
 		"Command"		"getkey"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -340,8 +340,8 @@
 		"labelText"		"#UseKey"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"0"
 		"Command"		"usekey"
 		"sound_depressed"	"UI/buttonclick.wav"

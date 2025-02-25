@@ -127,8 +127,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Continue"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"continue"
 		"default"		"1"
 		"font"			"MenuSmallFont"
@@ -149,8 +149,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
@@ -172,8 +172,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_WatchIntro"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"intro"
 		"default"		"1"
 		"font"			"MenuSmallFont"
@@ -195,8 +195,8 @@
 		"enabled"		"1"
 		"labelText"		"Y"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_toggle_function"
 	}
@@ -219,8 +219,8 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Back"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"back"
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
@@ -240,8 +240,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 	}

@@ -59,8 +59,8 @@
 		"tabPosition"		"0"
 		"labelText"		"%name%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 	}
 	"Description"
@@ -78,8 +78,8 @@
 		"tabPosition"		"0"
 		"labelText"		"%description%"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 	}
 	"CompletedLabel"
@@ -97,8 +97,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TR_Completed"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"CenterPrintText"
 		"fgcolor_override"	"0 160 0 255"
@@ -118,8 +118,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TR_Not_Completed"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"CenterPrintText"
 		"fgcolor_override"	"192 28 0 255"

@@ -46,8 +46,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_Cancel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Default"		"0"
 	}
@@ -66,8 +66,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_Bug_Submitting"
 		"textAlignment"		"west"
-		"dulltext"		"1"
-		"brighttext"		"0"
+
+
 		"wrap"		"1"
 	}
 }

@@ -74,8 +74,8 @@
 				"tabPosition"	"0"
 				"labelText"		""
 				"textAlignment"	"west"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}			
 		}
 	}

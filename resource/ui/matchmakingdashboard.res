@@ -98,8 +98,8 @@
 			"tabPosition"	"0"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"toggle_chat"
 			"proportionaltoparent"	"1"
 			"labeltext"		""
@@ -316,8 +316,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"1"
 				"Command"		"queue_logo_clicked"
 				"proportionaltoparent"	"1"
@@ -398,8 +398,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -448,8 +448,8 @@
 				"labeltext"		""
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -566,8 +566,8 @@
 				"tabPosition"	"0"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"Command"		"join_party_match"
 				"proportionaltoparent"	"1"
 				"labeltext"		"#TF_MM_JoinPartyLobby_Join"
@@ -600,8 +600,8 @@
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
 			"textinsetx"	"0"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
 			"labeltext"		""
@@ -658,8 +658,8 @@
 			"tabPosition"	"0"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#TF_Disconnect"
@@ -718,8 +718,8 @@
 			"tabPosition"	"0"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"resume_game"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#MMenu_ResumeGame"
@@ -777,8 +777,8 @@
 			"tabPosition"	"0"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
 			"labeltext"		"#MMenu_FindAGame"

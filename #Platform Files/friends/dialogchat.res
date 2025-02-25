@@ -29,8 +29,8 @@
 		"tabPosition"		"2"
 		"labelText"		"#TrackerUI_Send"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"default"		"1"
 	}
 	"NameLabel"
@@ -48,8 +48,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TrackerUI_ToJohnC"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 	}
 	"MessageState"
 	{
@@ -65,8 +65,8 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 	}
 	"TextEntry"
 	{
@@ -118,8 +118,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TrackerUI_Invite"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"default"		"0"
 	}
 }

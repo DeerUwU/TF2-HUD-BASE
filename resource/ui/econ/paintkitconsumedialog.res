@@ -246,8 +246,8 @@
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"cancel"
 		"proportionaltoparent"	"1"
 		"sound_depressed"			"UI/buttonclick.wav"
@@ -279,8 +279,8 @@
 		"font"			"EconFontSmall"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"accept"
 		"proportionaltoparent"	"1"
 		"sound_depressed"	"UI/buttonclick.wav"

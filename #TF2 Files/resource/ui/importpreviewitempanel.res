@@ -551,8 +551,8 @@
 		"labeltext"		""
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -670,8 +670,8 @@
 			"enabled"		"1"
 			"labelText"		"#TF_ImportPreview_ActionLabel"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"wrap"			"1"
 			"Command"		"Action"
 			"Default"		"0"
@@ -741,8 +741,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_ImportFile_EditQCI"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"EditQCI"
 		"Default"		"0"
@@ -796,8 +796,8 @@
 			"tabPosition"		"0"
 			"labelText"		"#TF_ImportFile_EditQC"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"Command"		"EditQC"
 			"Default"		"0"
@@ -819,8 +819,8 @@
 			"tabPosition"		"0"
 			"labelText"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"Command"		"EditMaterial0"
 			"Default"		"0"
@@ -842,8 +842,8 @@
 			"tabPosition"		"0"
 			"labelText"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"Command"		"EditMaterial1"
 			"Default"		"0"
@@ -865,8 +865,8 @@
 			"tabPosition"		"0"
 			"labelText"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"Command"		"EditMaterial2"
 			"Default"		"0"
@@ -888,8 +888,8 @@
 			"tabPosition"		"0"
 			"labelText"		""
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"Command"		"EditMaterial3"
 			"Default"		"0"
@@ -913,8 +913,8 @@
 		"labelText"		"?"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"show_explanations"
 	}
@@ -997,8 +997,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1062,8 +1062,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1172,8 +1172,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1219,8 +1219,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1284,8 +1284,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1394,8 +1394,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1441,8 +1441,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1506,8 +1506,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1615,8 +1615,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1662,8 +1662,8 @@
 			"labeltext"		""
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"default"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -1727,8 +1727,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_ImportPreview_Refresh"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"BuildPreview"
 		"Default"		"0"
@@ -1750,8 +1750,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"1"

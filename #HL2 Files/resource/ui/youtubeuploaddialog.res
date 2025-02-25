@@ -137,8 +137,8 @@
 		"tabPosition"	"0"
 		"labelText"		"#YouTube_UploadDlg_Unlisted"
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"wrap"			"0"
 		"font"			"HudFontSmallest"
 		"selected_fgcolor_override" "255 0 0 255"
@@ -181,8 +181,8 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"termsofservice"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -207,8 +207,8 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"confirm"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -232,8 +232,8 @@
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

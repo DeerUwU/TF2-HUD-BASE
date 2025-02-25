@@ -706,8 +706,8 @@
 		"tabPosition"		"0"
 		"labelText"		"Last message received at:"
 		"textAlignment"		"west"
-		"dulltext"		"1"
-		"brighttext"		"0"
+
+
 	}
 	
 }

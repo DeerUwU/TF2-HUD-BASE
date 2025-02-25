@@ -29,8 +29,8 @@
 		"tabPosition"		"1"
 		"labelText"		"#GameUI_Close"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"1"

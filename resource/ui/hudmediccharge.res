@@ -36,8 +36,8 @@
 		"labelText"		"#TF_Ubercharge"
 		"labelText_minmode"		"#TF_UberchargeMinHUD"
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"font"			"HudFontSmallest"
 	}
 
@@ -60,8 +60,8 @@
 		"labelText"		"#TF_IndividualUbercharges"
 		"labelText_minmode"		"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"font"			"HudFontSmallest"
 	}
 	
@@ -82,8 +82,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}		
 
 	"ChargeMeter1"
@@ -103,8 +103,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 
 	"ChargeMeter2"
@@ -124,8 +124,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 
 	"ChargeMeter3"
@@ -145,8 +145,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 
 	"ChargeMeter4"
@@ -166,8 +166,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"HealthClusterIcon"

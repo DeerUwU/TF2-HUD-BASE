@@ -2496,8 +2496,8 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_NextTip"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"nexttip"
 	}
 	"ResetStatsButton" [$WIN32]
@@ -2516,8 +2516,8 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_ResetStats"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"resetstatsbutton"
 	}
 	"CloseButton" [$WIN32]
@@ -2536,8 +2536,8 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_Close"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"vguicancel"
 	}
 	"Footer" [$X360]

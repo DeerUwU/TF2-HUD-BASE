@@ -42,7 +42,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"textAlignment"		"west"
-		"dulltext"		"0"
+
 		"zpos"	"1"
 	}
 }

@@ -76,8 +76,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_menu_build_title"
 		"textAlignment"	"Left"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"TitleLabelDropshadow"
@@ -97,8 +97,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_menu_build_title"
 		"textAlignment"	"Left"
-		"dulltext"		"1"
-		"brighttext"	"0"
+
+
 	}
 	
 	"CancelLabel"
@@ -117,8 +117,8 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Cancel"
 		"textAlignment"	"East"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 	
 	"active_item_1"

@@ -122,8 +122,8 @@
 				"labelText"		"#Store_Remove"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 				"default"		"1"
 				"Command"		"remove"
 				"sound_depressed"	"UI/buttonclick.wav"
@@ -465,8 +465,8 @@
 		"labelText"		"#Store_ContinueShopping"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"close"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -490,8 +490,8 @@
 		"labelText"		"#Store_Checkout"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"checkout"
 		"sound_depressed"	"UI/buttonclick.wav"

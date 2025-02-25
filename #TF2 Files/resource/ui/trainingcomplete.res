@@ -32,8 +32,8 @@
 			"tabPosition"		"0"
 			"labelText"		"#Button_NextTraining"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"command"		"next"
 			"font"			"MenuSmallFont"
@@ -61,8 +61,8 @@
 			"tabPosition"		"0"
 			"labelText"		"#Button_QuitTraining"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"0"
 			"command"		"quit"
 			"font"			"MenuSmallFont"
@@ -88,8 +88,8 @@
 			"enabled"		"1"
 			"labelText"		"#Button_ReplayTraining"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"command"		"replay"
 			"font"			"MenuSmallFont"
 			"fgcolor"		"Black"

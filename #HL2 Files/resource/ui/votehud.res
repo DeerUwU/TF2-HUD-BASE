@@ -42,8 +42,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_vote_passed"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
@@ -61,8 +61,8 @@
 			"enabled"		"1"
 			"labelText"		"%passedresult%"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
@@ -96,8 +96,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_vote_header"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"128 128 128 255"
@@ -115,8 +115,8 @@
 			"enabled"		"1"
 			"labelText"		"%voteissue%"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardSmall"
 			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
@@ -151,8 +151,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -184,8 +184,8 @@
 			"enabled"		"1"
 			"labelText"		"Yes"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardSmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -203,8 +203,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -236,8 +236,8 @@
 			"enabled"		"1"
 			"labelText"		"No"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardSmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -255,8 +255,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -288,8 +288,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -321,8 +321,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -366,8 +366,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_vote_current_vote_count"
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"fgcolor_override"	"128 128 128 255"
 		}
@@ -433,8 +433,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
@@ -452,8 +452,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
@@ -501,8 +501,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_vote_failed"
 			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardSmall"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
@@ -520,8 +520,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"north-west"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"font"			"ScoreboardVerySmall"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
@@ -599,8 +599,8 @@
 			"tabPosition"	"4"
 			"labelText"		"Call Vote"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"CallVote"
 			"Default"		"0"
 			"font"			"ScoreboardVerySmall"
@@ -620,8 +620,8 @@
 			"tabPosition"	"4"
 			"labelText"		"#GameUI_Close"
 			"textAlignment"	"center"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"Command"		"Close"
 			"Default"		"0"
 			"font"			"ScoreboardVerySmall"

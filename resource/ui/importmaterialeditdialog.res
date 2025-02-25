@@ -73,8 +73,8 @@
 		"tabPosition"		"0"
 		"labelText"		""
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"EditSkin0"
 		"Default"		"0"
@@ -98,8 +98,8 @@
 		"tabPosition"		"0"
 		"labelText"		""
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"EditSkin1"
 		"Default"		"0"
@@ -346,8 +346,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateBaseMapAlphaPhongMask"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -634,8 +634,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateRimMask"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -669,8 +669,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateHalfLambert"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -705,8 +705,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateBlendTintByBaseAlpha"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -866,8 +866,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateAdditive"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -901,8 +901,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateTranslucent"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -937,8 +937,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"0"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateAlphaTest"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -1119,8 +1119,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"command"		"UpdateSelfIllum"
 		"border"		"SteamWorkshopBorder"
 	}
@@ -1327,8 +1327,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#GameUI_OK"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"Done"
 		"Default"		"0"
@@ -1350,8 +1350,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"

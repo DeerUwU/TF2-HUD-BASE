@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Passtime_HowToPlay"
 		"textAlignment"	"North-West"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 	}
 }

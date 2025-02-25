@@ -59,8 +59,8 @@
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
+
+
 		"font"					"TFFontSmall"
 	}
 
@@ -82,7 +82,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+
+
 	}					
 }

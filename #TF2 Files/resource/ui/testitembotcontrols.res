@@ -97,8 +97,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"disabledfgcolor2_override"	"117 107 94 255"
 	}	
 	"BotTurntableCheckBox"
@@ -117,8 +117,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"disabledfgcolor2_override"	"117 107 94 255"
 	}	
 	"BotViewScanCheckBox"
@@ -137,8 +137,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"disabledfgcolor2_override"	"117 107 94 255"
 	}	
 	
@@ -191,8 +191,8 @@
 		"labelText"		"#Cancel"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -215,8 +215,8 @@
 		"labelText"		"#IT_Apply"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"default"		"1"
 		"Command"		"ok"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -241,8 +241,8 @@
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
-		"dulltext"		"0"
-		"brighttext"	"0"
+
+
 		"Command"		"reloadscheme"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

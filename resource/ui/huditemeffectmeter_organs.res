@@ -58,8 +58,8 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"textAlignment"			"center"
-		"dulltext"				"0"
-		"brighttext"			"0"
+
+
 		"font"					"TFFontSmall"
 	}
 
@@ -81,8 +81,8 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
+
+
 	}
 
 	"ItemEffectMeterCount"
@@ -101,8 +101,8 @@
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
-		"dulltext"				"0"
-		"brighttext"			"0"
+
+
 		"font"					"HudFontMedium"
 	}	
 }

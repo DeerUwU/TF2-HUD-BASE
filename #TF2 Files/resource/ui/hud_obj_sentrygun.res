@@ -102,8 +102,8 @@
 			"labelText"		"#Building_hud_sentry_not_built"
 			"labelText_lodef"		"#Building_hud_sentry_not_built_360"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 	}
 	
@@ -226,8 +226,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"	
+
+
 		}
 		
 		"BuildingPanel"
@@ -255,8 +255,8 @@
 				"enabled"		"1"
 				"labelText"		"#Building_hud_building"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}
 			
 			"BuildingProgress"
@@ -273,8 +273,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}
 		}
 		
@@ -319,8 +319,8 @@
 				"enabled"		"1"
 				"labelText"		"#Building_hud_sentry_kills_assists"
 				"textAlignment"	"north-west"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}
 					
 			"ShellIcon"	
@@ -353,8 +353,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}
 			
 			"RocketIcon"	
@@ -387,8 +387,8 @@
 				"visible"		"0"
 				"enabled"		"1"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}
 
 			"UpgradeIcon"
@@ -421,8 +421,8 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"textAlignment"	"Left"
-				"dulltext"		"0"
-				"brighttext"	"0"
+
+
 			}
 		}
 	}

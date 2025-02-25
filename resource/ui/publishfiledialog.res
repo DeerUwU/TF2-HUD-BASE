@@ -80,8 +80,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Title"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"HudFontMediumBold"
 	}
@@ -101,8 +101,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Preview"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -138,8 +138,8 @@
 			"tabPosition"		"0"
 			"labelText"		"#TF_PublishFile_PreviewDesc"
 			"textAlignment"		"center"
-			"dulltext"		"0"
-			"brighttext"		"0"
+
+
 			"wrap"		"1"
 			"font"		"HudFontSmallest"
 		}
@@ -171,8 +171,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Browse"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"PreviewBrowse"
 		"Default"		"1"
@@ -194,8 +194,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_TitleLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -239,8 +239,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_DescLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -283,8 +283,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_FileLabel"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -326,8 +326,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Cosmetics"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"MainFileCosmetics"
 		"Default"		"1"
@@ -362,8 +362,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Other"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"MainFileOther"
 		"Default"		"1"
@@ -385,8 +385,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Maps"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"MainFileMaps"
 		"Default"		"1"
@@ -421,8 +421,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_BrowseDesc"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"1"
 		"font"		"HudFontSmallest"
 		"fgcolor_override"	"TanDark"
@@ -443,8 +443,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Tags"
 		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
@@ -476,8 +476,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -497,8 +497,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -518,8 +518,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -539,8 +539,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -560,8 +560,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -581,8 +581,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -602,8 +602,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -623,8 +623,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -644,8 +644,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}	
@@ -666,8 +666,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -687,8 +687,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -708,8 +708,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -729,8 +729,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -750,8 +750,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -771,8 +771,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
@@ -792,8 +792,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -813,8 +813,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -834,8 +834,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}		
@@ -855,8 +855,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -876,8 +876,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -897,8 +897,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -919,8 +919,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -940,8 +940,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -961,8 +961,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -982,8 +982,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1003,8 +1003,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1024,8 +1024,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1045,8 +1045,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1066,8 +1066,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1087,8 +1087,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1108,8 +1108,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1129,8 +1129,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1150,8 +1150,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1171,8 +1171,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1192,8 +1192,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1213,8 +1213,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1234,8 +1234,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1255,8 +1255,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1276,8 +1276,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1297,8 +1297,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1318,8 +1318,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 			"smallcheckimage" "1"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
@@ -1340,8 +1340,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#Cancel"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"Close"
 		"Default"		"0"
@@ -1363,8 +1363,8 @@
 		"tabPosition"		"0"
 		"labelText"		"#TF_PublishFile_Publish"
 		"textAlignment"		"center"
-		"dulltext"		"0"
-		"brighttext"		"0"
+
+
 		"wrap"		"0"
 		"Command"		"Publish"
 		"Default"		"1"

@@ -1759,8 +1759,8 @@
 			"enabled"		"1"
 			"labelText"		"C"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 		
 		"SelectHintLabel"
@@ -1779,8 +1779,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_Select"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 		
 		"GamerCardIcon"
@@ -1799,8 +1799,8 @@
 			"enabled"		"1"
 			"labelText"		"A"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 		
 		"GamerCardLabel"
@@ -1819,8 +1819,8 @@
 			"enabled"		"1"
 			"labelText"		"#TF_ViewGamercard"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 		
 		"ReputationIcon"
@@ -1839,8 +1839,8 @@
 			"enabled"		"1"
 			"labelText"		"X"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 		
 		"ReputationLabel"
@@ -1859,8 +1859,8 @@
 			"enabled"		"1"
 			"labelText"		"#GameUI_PlayerReview"
 			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
+
+
 		}
 	}				
 	
